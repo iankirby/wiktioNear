@@ -3,11 +3,38 @@ import csv, re, datetime, sys, subprocess, os
 
 
 
-#Locate 
-def getTOC(name,url):
-    print("Hello, world!")
+#Locate
+def getTOC_and_Edits(name,url):
 
+    lst=re.split("\n",url)
+
+    i=0
+    new=[]
+    while (i<len(lst)):
+        curr=lst[i]
+        if (re.search(r'\#English\"',curr)):
+            j=i+60
+            new.append(lst[i:j])
+            break
+        i=i+1
+    i=0
+    new=new[0]
+    while (i<len(new)):
+        curr=new[i]
+        if (re.search(r'\#Translation',curr)):
+            trans=curr
+            break
+        i=i+1
     
+    x=re.findall(r'tocsection-\d',trans)
+    x=x[0]
+    x=x[-1]
+    int(x)
+    
+    wrapper_left="https://en.wiktionary.org/w/index.php?title="
+    wrapper_right="&action=edit&section="
+
+    url=wrapper_left+
 
 
 
@@ -19,7 +46,7 @@ def wikiScrape(name,url):
     html=html_bytes.decode("utf-8")
     out_name="./FilesOut/"+name+".txt"
 
-    getTOC(out_name,html)
+    getTOC_and_Edits(out_name,html)
     
     # fl_out=open(out_name,"w",encoding="utf-8")
     # fl_out.write(html)
