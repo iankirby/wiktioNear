@@ -1,20 +1,25 @@
 from urllib.request import urlopen
-import csv, re, datetime, sys
+import csv, re, datetime, sys, subprocess, os
+
+
+
+    
+
 
 
 
 #Function to scrape the relevant pages.
 def wikiScrape(name,url):
-
     page=urlopen(url)
     html_bytes=page.read()
     html=html_bytes.decode("utf-8")
     out_name="./FilesOut/"+name+".txt"
-    
-    fl_out=open(out_name,"w",encoding="utf-8")
-    fl_out.write(html)
-    fl_out.close()
 
+    getTOC(out_name,html)
+    
+    # fl_out=open(out_name,"w",encoding="utf-8")
+    # fl_out.write(html)
+    # fl_out.close()
 
 
 
@@ -47,18 +52,23 @@ day_month=day_month+"-"
 hour_min="{:%H%M}".format(d)
 day_month=day_month+hour_min
 
-i=0
-print("scraping pages and making copies")
+out_csv=""
+
+# i=0
+print("Scraping pages")
 while (i<len(new_lst)):
     temp=new_lst[i]
     #label for the page, with the UTC time appended for file name
     label_assigned=temp[0]+"-"+day_month
     url_to_fetch=temp[1]
-    if (url_to_fetch[-6:]!="nglish"):
+    if (url_to_fetch[-6:]!="nglish"): #Verifying that it ends with #English
         url_to_fetch=url_to_fetch+"#English"
+    out_csv=temp[0]+","+url_to_fetch+","+temp[1]+"\n"
     wikiScrape(label_assigned,url_to_fetch)
     i=i+1
+else:
+    print("Making a record in file \"record\"")
 
 
 #The next task is to find which section the translation big is in.
-print("Finding table of contents")
+print("Finding table of contents url")

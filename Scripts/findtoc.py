@@ -1,7 +1,11 @@
 import re, sys
 from urllib.request import urlopen
 
-fl_in=open("../FilesOut/test.txt","r",encoding="utf-8")
+# fl_in=open("../FilesOut/test.txt","r",encoding="utf-8")
+if (len(sys.argv)<3):
+    sys.exit("Error")
+fl_in=open(str(sys.argv[1]),"r",encoding="utf-8")
+
 lst_in=fl_in.read()
 fl_in.close()
 
@@ -43,7 +47,7 @@ url=wrapper_left+"also"+wrapper_right+x
 page=urlopen(url)
 html_bytes=page.read()
 html=html_bytes.decode("utf-8")
-out_name="../FilesOut/"+"alsoTest"+".txt"
+out_name="../FilesOut/"+"alsoTest"+".txt" # 
 
 fl_out=open(out_name,"w",encoding="utf-8")
 fl_out.write(html)
