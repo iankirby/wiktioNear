@@ -48,6 +48,7 @@ hour_min="{:%H%M}".format(d)
 day_month=day_month+hour_min
 
 i=0
+print("scraping pages and making copies")
 while (i<len(new_lst)):
     temp=new_lst[i]
     #label for the page, with the UTC time appended for file name
@@ -57,3 +58,7 @@ while (i<len(new_lst)):
         url_to_fetch=url_to_fetch+"#English"
     wikiScrape(label_assigned,url_to_fetch)
     i=i+1
+
+
+#The next task is to find which section the translation big is in.
+print("Finding table of contents")
