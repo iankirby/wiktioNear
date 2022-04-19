@@ -3,6 +3,10 @@ import csv, re, datetime, sys, subprocess, os
 
 
 
+#Locate 
+def getTOC(name,url):
+    print("Hello, world!")
+
     
 
 
