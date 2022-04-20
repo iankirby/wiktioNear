@@ -51,9 +51,7 @@ while(i<len(toc_level)):
 
 # # print(secs)
 # wrapper_left="https://en.wiktionary.org/w/index.php?title="
-# wrapper_right="&action=edit&section="
-
-
+# wrapper_right="&action=edit&section=
 
 i=0
 while(i<len(secs)):
@@ -67,7 +65,8 @@ while(i<len(secs)):
     x=re.split("===Translations===",x)
     # print(x[0])
     # print(x[1])
-    file_name="./FilesOut/"+out_name+".txt"
+    # file_name="./FilesOut/"+out_name+".txt" #MODIFIED FILENAME
+    file_name=out_name+".txt"
     # file_name=out_name+".txt"
     # file_out=open(file_name,"x")
     file_out=open(file_name,"a",encoding="utf-8")
@@ -75,6 +74,3 @@ while(i<len(secs)):
     file_out.close()
     i=i+1
 # print(nurl)
-
-
-

@@ -31,8 +31,8 @@ day_month_hour_min=day_month+hour_min
 
 out_csv=""
 
-#i=0
-print("Scraping pages")
+i=0
+print("Scraping pages...")
 while (i<len(new_lst)):
     temp=new_lst[i]
     #label for the page, with the UTC time appended for file name
@@ -46,12 +46,22 @@ while (i<len(new_lst)):
 # else:
     # print("Making a record in file \"record\"")
 
-dir=os.listdir('./FilesOut')
-print(dir)
+# print("Cleaning tables...")
+# dir=os.listdir('./FilesOut')
+# print(dir)
+print("Cleaning the files")
+dir=os.listdir('.')
 i=0
 while(i<len(dir)):
-    
+    curr=dir[i]
+    if(curr[-4:]==".txt"):
+        subprocess.call(['perl','cleaner.pl',curr])
+    i=i+1
 
+print("Moving the files")
+subprocess.call(['sh','toCSV.sh'])
 
-# #The next task is to find which section the translation big is in.
-# print("Finding table of contents url")
+print("Done!")
+
+# test="./too-Apr20-0025.txt"
+# subprocess.call(['perl','./Scripts/cleaner.pl',test])
