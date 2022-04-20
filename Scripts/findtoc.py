@@ -38,7 +38,6 @@ while (i<len(lst)):
 i=0
 new=new[0]
 
-
 level1="toclevel\-1\stocsection\-1\">" #Makes sure it's a language-level item
 eng_label=r'a href="#English' #label that says it's English
 translation_label=r'a href="#Translations' #Label that says it's a translation
