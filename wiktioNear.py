@@ -1,34 +1,6 @@
 from urllib.request import urlopen
 import csv, re, datetime, sys, subprocess, os
 
-
-
-#Locate
-# def getTOC_and_Edits(name,html):
-    
-
-
-
-#Function to scrape the relevant pages.
-# def wikiScrape(name,url):
-    # page=urlopen(url)
-    # html_bytes=page.read()
-    # html=html_bytes.decode("utf-8")
-    # out_name="./FilesOut/"+name+".txt"
-
- 
-    # subprocess.call(['python','./Scripts/findTOC2.py',url,name])
-
-    
-
-    # getTOC_and_Edits(out_name,html)
-    # fl_out=open(out_name,"w",encoding="utf-8")
-    # fl_out.write(html)
-    # fl_out.close()
-
-
-
-
 #Verify that there is a command line argument.  Close if there is not.
 if (len(sys.argv)<2):
     sys.exit("Please provide command line argument.")
@@ -55,25 +27,30 @@ d=datetime.datetime.utcnow()
 day_month="{:%h%d}".format(d)
 day_month=day_month+"-"
 hour_min="{:%H%M}".format(d)
-day_month=day_month+hour_min
+day_month_hour_min=day_month+hour_min
 
 out_csv=""
 
-i=0
+#i=0
 print("Scraping pages")
 while (i<len(new_lst)):
     temp=new_lst[i]
     #label for the page, with the UTC time appended for file name
-    label_assigned=temp[0]+"-"+day_month
+    label_assigned=temp[0]+"-"+day_month_hour_min
     url_to_fetch=temp[1]
     if (url_to_fetch[-6:]!="nglish"): #Verifying that it ends with #English
         url_to_fetch=url_to_fetch+"#English"
-    out_csv=temp[0]+","+url_to_fetch+","+temp[1]+"\n"
-    # wikiScrape(label_assigned,url_to_fetch)
+    # out_csv=temp[0]+","+url_to_fetch+","+temp[1]+"\n"
     subprocess.call(['python','./Scripts/findTOC2.py',url_to_fetch,temp[0],label_assigned])
     i=i+1
 # else:
     # print("Making a record in file \"record\"")
+
+dir=os.listdir('./FilesOut')
+print(dir)
+i=0
+while(i<len(dir)):
+    
 
 
 # #The next task is to find which section the translation big is in.
