@@ -1,0 +1,90 @@
+=
+{{trans-top|all the things}}
+* Afrikaans: {{t+|af|alles}}
+* Apache:
+*: Western Apache: {{t|apw|dawa}}
+* Arabic: {{t|ar|كُلّ شَيْء}}
+*: Egyptian Arabic: {{t|arz|كل حاجة|tr=kul ḥaga}}
+*: Moroccan Arabic: {{t|ary|كل شي|tr=kull ši}}
+* Aragonese: {{t|an|tot}}
+* Azerbaijani: {{t|az|hər şey}}, {{t+|az|hamısı}}
+* Basque: {{t|eu|den}}
+* Belarusian: {{t+|be|усё}}
+* Bengali: {{t|bn|সবকিছু}}
+* Bulgarian: {{t+|bg|вси́чко|n}}
+* Catalan: {{t+|ca|tot}}
+* Cherokee: {{t|chr|ᎢᎬᏩᏕᎴᎩ}}
+* Cheyenne: {{t|chy|mȧheto}}
+* Chinese:
+*: Cantonese: {{t|yue|凡事|tr=faan4 si6|sc=Hani}}, {{t|yue|一切|tr=jat1 cai3|sc=Hani}}, {{t|yue|萬事|sc=Hani}}, {{t|yue|万事|tr=maan6 si6|sc=Hani}}, {{t|yue|[[乜嘢]][[都]]|tr=mat1 je5 dou1}}
+*: Gan: {{t-needed|gan}}
+*: Hakka: {{t|hak|凡事|tr=fàm-sṳ|sc=Hani}}, {{t|hak|萬事|sc=Hani}}, {{t|hak|万事|tr=van-sṳ|sc=Hani}}
+*: Mandarin: {{t+|cmn|一切|tr=yīqiè|sc=Hani}}, {{t+|cmn|每事|tr=měishì|sc=Hani}}, {{t|cmn|[[什麼]][[都]]|sc=Hani}}, {{t|cmn|[[什么]][[都]]|tr=shénme dōu|sc=Hani}}, {{t+|cmn|凡事|tr=fánshì|sc=Hani}}, {{t+|cmn|萬事|sc=Hani}}, {{t+|cmn|万事|tr=wànshì|sc=Hani}}
+*: Min Dong: {{t-needed|cdo}}
+*: Min Nan: {{t+|nan|凡事|tr=hoân-sū|sc=Hani}}, {{t+|nan|萬事|sc=Hani}}, {{t|nan|万事|tr=bān-sū|sc=Hani}}, {{t+|nan|一切|tr=it-chhè|sc=Hani}}
+* Chuvash: {{t|cv|йӑлт}}
+* Czech: {{t+|cs|všechno|n}}, {{t+|cs|všechen|m}} {{q|before an uncountable noun}}
+* Danish: {{t+|da|alt}}
+* Dutch: {{t+|nl|alles}}
+* Egyptian: {{t-egy|tm|h=t:tm-m}}
+* Esperanto: {{t+|eo|ĉio}}
+* Estonian: {{t+|et|kõik}}
+* Faroese: {{t|fo|alt}}
+* Finnish: {{t+|fi|kaikki}}
+* French: {{t+|fr|tout|m}}
+* Galician: {{t+|gl|todo|m}}
+* Georgian: {{t|ka|ყველაფერი}}
+* German: {{t+|de|alles|n}}
+*: Silesian: {{t|gmw-ecg|olles|n}} ({{t|gmw-ecg|Olles}}, {{t|gmw-ecg|Alles}})
+* Greek: {{t+|el|όλα|n-p}}, {{t|el|τα πάντα|n-p}}
+*: Ancient: {{t|grc|πάντα|n-p}}
+* Hebrew: {{t+|he|הכל|tr=hachol}}
+* Hindi: {{t|hi|सब कुछ}}, {{t+|hi|सब}}
+* Hungarian: {{t+|hu|minden}}, {{t+|hu|mind}} {{q|when it is about a previously mentioned group}}
+* Icelandic: {{t+|is|allt}}
+{{trans-mid}}
+* Ido: {{t+|io|omno}}
+* Indonesian: {{t|id|segala sesuatu}}, {{t+|id|semuanya}}
+* Interlingua: {{t|ia|omne}}, {{t|ia|toto}}
+* Irish: {{t|ga|gach rud}}
+* Istriot: {{t|ist|doûto}}
+* Italian: {{t+|it|tutto}}
+* Japanese: {{t+|ja|全て|tr=すべて, subete}}, {{t+|ja|全部|tr=ぜんぶ, zenbu}}, {{t|ja|いずれも|tr=izuremo}}, {{t|ja|どれも|tr=doremo}}
+* Kabuverdianu: {{t|kea|túdu}}
+* Korean: {{t+|ko|모두}}, {{t|ko|[[모든]] [[것]]}}, {{t+|ko|전부}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ھەمو شتێک}}
+* Latin: {{t+|la|omnia|n-p}}, {{t|la|nihil non}}, {{t|la|omnes res|f}}, {{t|la|totae res}}, {{t|la|quidvis}}, {{t|la|quidquid|n}}, {{t+|la|tota|n}}
+* Macedonian: {{t|mk|се}}
+* Malay: {{t|ms|semuanya}}
+* Maltese: {{t|mt|kollox}}
+* Mòcheno: {{t|mhn|òlls}}
+* Nahuatl: {{t|nah|nochi}}
+* Navajo: {{t|nv|tʼáá ałtsoní}}
+* Norwegian: {{t+|no|alt}}, {{t+|no|allting}}
+* Persian: {{t|fa|هر چیز|tr=har čiz|sc=fa-Arab}}, {{t|fa|همه‌چیز|sc=fa-Arab|tr=hame-čiz}}
+* Polish: {{t+|pl|wszystko|n}}
+* Portuguese: {{t+|pt|tudo|m}}
+* Romanian: {{t+|ro|tot}}
+* Russian: {{t+|ru|всё|n}}
+* Rusyn: {{t|rue|вшы́тко}}
+* Scots: {{t|sco|aathin}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|све|n|sc=Cyrl}}
+*: Roman: {{t|sh|sve|n}}
+* Slovak: {{t|sk|všetko}}
+* Slovene: {{t+|sl|vse}}
+* Spanish: {{t+|es|todo}}
+* Swedish: {{t+|sv|allt|n}}, {{t+|sv|alla|c}}
+* Telugu: {{t+|te|అన్నీ}}
+* Thai: {{t|th|ทุกสิ่ง}}, {{t|th|ทุกอย่าง}}
+* Tok Pisin: {{l|tpi|olgeta}} {{t+|tpi|samting}}
+* Turkish: {{t|tr|her şey}}, {{t+|tr|herşey}}
+* Ukrainian: {{t|uk|усе́}}, {{t|uk|все}}
+* Urdu: {{t|ur|سب کچھ|tr=sab kuch}}, {{t|ur|سب|tr=sab|sc=ur-Arab}}, {{t|ur|ہر چیز|sc=ur-Arab}}
+* Venetian: {{t+|vec|tuto}}
+* Vietnamese: {{t|vi|mọi vật}}, {{t|vi|mọi thứ nào}} {{q|every thing}}, {{t+|vi|tất cả}} {{q|all}}
+* Volapük: {{t+|vo|valikos}}
+* Welsh: {{t|cy|popeth}}
+* Yiddish: {{t|yi|אַלץ}}, {{t|yi|אַלצדינג}}
+* Yámana: {{t|yag|xanikina}}

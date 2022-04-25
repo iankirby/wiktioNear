@@ -1,0 +1,107 @@
+=
+{{trans-top|all of a countable group}}
+* Afrikaans: {{t+|af|elke}}
+* Albanian: {{t+|sq|cilido}}
+* Arabic: {{t|ar|كُلّ}}
+* Armenian: {{t+|hy|ամեն}}
+* Asturian: {{t+|ast|cada}}
+* Azerbaijani: {{t+|az|hər}}
+* Bashkir: {{t|ba|һәр}}
+* Belarusian: {{t|be|ко́жны}}
+* Bengali: {{t|bn|প্রতি}}, {{t+|bn|হর}}, {{t|bn|কুল}}, {{t|bn|তামাম}}
+* Bulgarian: {{t|bg|все́ки}}
+* Burmese: {{t+|my|တိုင်း}}
+* Catalan: {{t+|ca|cada}}
+* Chechen: {{t|ce|дерриг}}
+* Chinese:
+*: Cantonese: {{t+|yue|每|tr=mui5}}
+*: Mandarin: {{t+|cmn|每|tr=měi}}, {{t+|cmn|各|tr=gè}}
+*: Min Nan: {{t+|nan|逐|tr=ta̍k}}, {{t+|nan|每|tr=múi}}
+* Czech: {{t+|cs|každý}}
+* Danish: {{t+|da|hver}}
+* Dutch: {{t+|nl|elk}}, {{t+|nl|ieder}}
+* Esperanto: {{t+|eo|ĉiu}}
+* Estonian: {{t+|et|kõik}}
+* Faroese: {{t+|fo|hvør}}
+* Finnish: {{t+|fi|jokainen}}, {{t+|fi|joka}}, {{t|fi|välein}}
+* French: {{t+|fr|tout}}, {{t+|fr|chaque}}
+* Galician: {{t|gl|toda|f}}, {{t+|gl|todo|m}}
+* Georgian: {{t|ka|ყველა}}, {{t|ka|ყოველი}}
+* German: {{t+|de|jeder}}
+*: Pennsylvania German: {{t|pdc|jeder}}
+* Greek: {{t+|el|κάθε}}
+*: Ancient: {{t|grc|ἕκαστος|sc=polytonic}}
+* Haitian Creole: {{t|ht|tout}}, {{t|ht|chak}}
+* Hebrew: {{t+|he|כל|tr=kol}}
+* Hindi: {{t+|hi|हर}}
+* Hungarian: {{t+|hu|minden}}
+* Icelandic: {{t+|is|sérhver}}, {{t+|is|hver}}
+* Ido: {{t+|io|omna}}
+* Indonesian: {{t+|id|setiap}}
+* Ingush: {{t|inh|дерриг}}
+* Interlingua: {{t|ia|cata}}
+* Irish: {{t|ga|gach}}, {{t|ga|gach uile}}
+* Italian: {{t+|it|ogni}}
+* Japanese: {{t+|ja|あらゆる|tr=arayuru}}, {{t+|ja|全て|alt=全ての|tr=[[すべて]]の, subete-no}}, {{t+|ja|それぞれ|tr=sorezore}}, {{t+|ja|おのおの|tr=onoono}}, {{t+|ja|毎|alt=…毎に|tr=…goto-ni}}, {{qualifier|prefix}} {{t+|ja|毎|tr=まい-, mai-}}, {{t+|ja|各|tr=かく, kaku}}
+* Kabuverdianu: {{t|kea|túdu}}
+* Kannada: {{t+|kn|ಪ್ರತಿ}}
+* Kazakh: {{t+|kk|әр}}
+* Khmer: {{t+|km|រាល់|tr=roal}}
+* Korean: {{t+|ko|각}}, {{t+|ko|모든}}, {{t+|ko|매|alt=매-}}, {{t+|ko|각}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ھەمو}}
+* Kyrgyz: {{t+|ky|ар}}
+* Lao: {{t|lo|ທຸກ}}, {{t|lo|ທຸກໆ}}
+{{trans-mid}}
+* Latin: {{t+|la|quisque}}, {{t+|la|omnis}}
+* Latvian: {{t+|lv|katrs}}
+* Lithuanian: {{t|lt|kiekvienas}}
+* Macedonian: {{t|mk|секој}}
+* Malay: {{t+|ms|setiap}}, {{t|ms|tiap-tiap}}
+* Malayalam: {{t+|ml|ഓരോ}}
+* Maltese: {{t|mt|kull}}
+* Mongolian: {{t+|mn|бүр}}
+* Mwali Comorian: {{t|wlc|kila}}
+* Norwegian:
+*: Bokmål: {{t+|nb|hver}}
+*: Nynorsk: {{t|nn|kvar}}
+* Old English: {{t|ang|ǣlċ}}
+* Pashto: {{t|ps|هر|tr=har}}
+* Persian: {{t+|fa|هر|tr=har}}
+* Polish: {{t+|pl|każdy}}
+* Portuguese: {{t+|pt|cada}}, {{t+|pt|todo|m}}, {{t+|pt|toda|f}}
+* Quechua: {{t+|qu|tukuy}}
+* Romani: {{t|rom|sako|m}}, {{t|rom|saki|f}}, {{t|rom|sake|p}}
+* Romanian: {{t+|ro|fiecare}}
+* Russian: {{t+|ru|ка́ждый}}, {{t+|ru|вся́кий}}
+* Sanskrit: {{t+|sa|सर्व|tr=sárva}}, {{q|Early Vedic}} {{t+|sa|विश्व}}
+* Scots: {{t|sco|ivery}}
+* Scottish Gaelic: {{t|gd|a h-uile}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|сва̏кӣ}}
+*: Roman: {{t|sh|svȁkī}}
+* Sinhalese: {{t+|si|හැම}}
+* Slovak: {{t|sk|každý}}
+* Slovene: {{t+|sl|vsak}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|kuždy}}
+* Spanish: {{t+|es|cada}}
+* Swahili: {{t|sw|kila}}
+* Swedish: {{t+|sv|varje}} (1.), {{t+|sv|var}} (2.)
+* Tajik: {{t+|tg|ҳар}}
+* Tamil: {{t+|ta|ஒவ்வொரு}}
+* Tatar: {{t|tt|һәр}}
+* Telugu: {{t+|te|ప్రతి}}
+* Thai: {{t+|th|ทุก}}
+* Tocharian B: {{t|txb|po}}
+* Turkish: {{t+|tr|her}}
+* Turkmen: {{t|tk|her}}
+* Ukrainian: {{t+|uk|ко́жний}}
+* Urdu: {{t|ur|ہر|tr=har}}
+* Uzbek: {{t+|uz|har}}
+* Vietnamese: {{t+|vi|mỗi}}, {{t+|vi|các}}, {{t+|vi|từng}}
+* Volapük: {{t+|vo|alik}}
+* Welsh: {{t+|cy|pob}}
+* Yagnobi: {{t|yai|ҳар}}
+* Yiddish: {{t|yi|יעדער}}
+* Zazaki: {{t+|zza|herg}}
