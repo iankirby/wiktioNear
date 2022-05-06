@@ -1,0 +1,83 @@
+=
+{{trans-top|some person}}
+* American Sign Language: {{t|ase|1@InsideNeckhigh-FingerUpPalmBack CirclesHoriz}}
+* Arabic: {{t+|ar|أَحَد}}
+* Armenian: {{t+|hy|մեկ|alt=մեկը}}
+* Asturian: {{t+|ast|daquién}}
+* Azerbaijani: {{t+|az|kimsə}}, {{t+|az|kim isə}}
+* Belarusian: {{t|be|хто́сьці|sc=Cyrl}}, {{t|be|хтось|sc=Cyrl}}, {{t|be|не́хта|sc=Cyrl}}
+* Bengali: {{t|bn|কেউ একটা|sc=Beng}}
+* Bulgarian: {{t|bg|някой}}
+* Catalan: {{t+|ca|algú}}, {{t+|ca|qualcú}}
+* Chamicuro: {{t|ccc|ana'shanaye}}
+* Chinese:
+*: Cantonese: {{t|yue|有人|tr=jau5 jan4|sc=Hani}}
+*: Mandarin: {{t+|cmn|有人|tr=yǒurén|sc=Hani}}, {{t+|cmn|某人|tr=mǒurén|sc=Hani}}, {{t+|cmn|誰|sc=Hani}}, {{t+|cmn|谁|tr=shéi, shuí|sc=Hani}}
+* Cornish: {{t|kw|nebonan}}
+* Czech: {{t+|cs|někdo}}
+* Danish: {{t+|da|nogen}}, {{t|da|en eller anden|c}}
+* Dutch: {{t+|nl|iemand}}
+* Esperanto: {{t+|eo|iu}}
+* Estonian: {{t+|et|keegi}}
+* Finnish: {{t+|fi|joku}}
+* French: {{t+|fr|quelqu'un}}
+* Friulian: {{t|fur|ciertun}}
+* Galician: {{t+|gl|alguén}}
+* German: {{t+|de|jemand}}, {{t+|de|einer}}
+*: Alemannic German: {{t|gsw|epper}}, {{t|gsw|ebber}}
+* Greek: {{t+|el|κάποιος}}
+*: Ancient: {{t|grc|τις}}
+* Hebrew: {{t|he|מִישֶׁהוּ|tr=míshehu}}
+* Hindi: {{t+|hi|कोई|sc=Deva}}
+* Hungarian: {{t+|hu|valaki}}
+* Icelandic: {{t+|is|einhver}}
+* Ido: {{t+|io|ulu}}
+* Indonesian: {{t+|id|seseorang}}
+* Interlingua: {{t|ia|alicuno}}, {{t|ia|alcuno}}
+* Italian: {{t+|it|qualcuno}}
+* Japanese: {{t|ja|誰か|tr=だれか, dareka}}, {{t|ja|[[或る]][[人]]|tr=あるひと, aru hito}}
+* Kazakh: {{t|kk|біреу|sc=Cyrl}}
+* Korean: {{t|ko|누군가}}, {{t|ko|[[어떤]] [[사람]]}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|یەکێک}}, {{t|ckb|کەسێک}}
+{{trans-mid}}
+* Latgalian: {{t|ltg|kaids}}
+* Latin: {{t+|la|aliquis|m|f}}, {{t|la|aliquid|n}}, {{t+|la|quidam|m|f}}, {{t+|la|quidam|n}}, {{t|la|quiddam|n}}, {{t|la|quaedam|f}}
+* Latvian: {{t+|lv|kāds}}
+* Lenape:
+*: Unami: {{t|unm|awèn}}
+* Macedonian: {{t|mk|некој}}
+* Malay: {{t|ms|seseorang}}
+* Mirandese: {{t|mwl|alguien}}
+* Norman: {{t|nrf|tchitch'un}}
+* Norwegian:
+*: Bokmål: {{t+|nb|noen}}
+*: Nynorsk: {{t|nn|nokon}}, {{t|nn|einkvan|m}}, {{t|nn|eikor|f}}
+* Occitan: {{t+|oc|qualqu'un}}
+* Old English: {{t|ang|sum mann}}
+* Old Prussian: {{t|prg|aīnunts}}
+* Pennsylvania German: {{t|pdc|ebber}}
+* Persian: {{t+|fa|کسی|tr=kasi}}, {{t+|fa|یکی|tr=yeki}} {{qualifier|informal}}
+* Plautdietsch: {{t|pdt|wäa}}
+* Polish: {{t+|pl|ktoś}}
+* Portuguese: {{t+|pt|alguém}}
+* Romani: {{t|rom|varekon}}
+* Romanian: {{t+|ro|cineva}}
+* Russian: {{t+|ru|кто́-то}}, {{t+|ru|кто-нибу́дь}}, {{t+|ru|не́кто}}, {{t+|ru|кто́-либо}}, {{t+|ru|кое-кто́}}
+* Scottish Gaelic: {{t|gd|cuideigin}}, {{qualifier|male}} {{t|gd|duin'-eigin}}, {{qualifier|male}} {{t|gd|feareigin}}, {{qualifier|female}} {{t|gd|tè-eigin}}
+* Serbo-Croatian:
+*: Cyrillic: {{qualifier|Bosnian, Serbian}} {{t|sh|неко|m|sc=Cyrl}}, {{qualifier|Croatian}} {{t|sh|нетко|m|sc=Cyrl}}
+*: Roman: {{qualifier|Bosnian, Serbian}} {{t+|sh|neko|m}}, {{qualifier|Croatian}} {{t|sh|netko|m}}
+* Slovak: {{t+|sk|niekto}}, {{t|sk|dakto}}, {{t|sk|voľakto}}
+* Slovene: {{t+|sl|nekdó}}
+* Spanish: {{t+|es|alguien}}, {{t+|es|alguno}}
+* Swedish: {{t+|sv|någon}}
+* Talysh: {{t|tly|ای نفری|tr=i nafari|sc=fa-Arab}}
+* Telugu: {{t|te|ఎవరో}}
+* Thai: {{t|th|บางคน}}
+* Turkish: {{t+|tr|biri}}
+* Ukrainian: {{t+|uk|хтось}}, {{t+|uk|хто-не́будь}}
+* Vietnamese: {{t|vi|ai đó}}
+* Volapük: {{t+|vo|ek}}
+* Welsh: {{t+|cy|rhywun|m}}
+* Yiddish: {{t|yi|עמעצער}}

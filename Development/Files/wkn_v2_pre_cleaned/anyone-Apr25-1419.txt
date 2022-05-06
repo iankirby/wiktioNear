@@ -1,0 +1,53 @@
+=
+{{trans-top|anybody}}
+* Arabic:
+*: Moroccan Arabic: {{t|ary|أي واحد|tr=ʔayy wāḥed}}, {{t|ary|أي حد|tr=ʔayy ḥadd}}
+* Armenian: {{t|hy|ամեն մեկը}}, {{t|hy|որևէ մեկը}}
+* Belarusian: {{t|be|хто-не́будзь}}, {{qualifier|in negative sentences}} {{t|be|ніхто́}}, {{t|be|абы-хто́}}
+* Bulgarian: {{t|bg|все́ки}}, {{t|bg|ня́кой}}, {{t|bg|ко́йто и да е}}
+* Catalan: {{t|ca|qualsevol}}, {{t+|ca|tothom}}, {{qualifier|questions}} {{t+|ca|algú}}, {{qualifier|negative}} {{t+|ca|ningú}}
+* Chamicuro: {{t|ccc|ana'shanaye}}
+* Chinese:
+*: Mandarin: {{t+|cmn|何人|tr=hérén|sc=Hani}}
+* Czech: {{t+|cs|kdokoliv}}
+* Danish: {{t+|da|nogen}}, {{t|da|hvemsomhelst}}
+* Dutch: {{t+|nl|iemand}}
+* Esperanto: {{t+|eo|iu}}, {{t|eo|iu ajn}}
+* Estonian: {{t+|et|keegi}}, {{t+|et|igaüks}}
+* Finnish: {{t+|fi|joku}}, {{t|fi|kuka tahansa}} {{qualifier|affirmative}}, {{t|fi|ketään}} {{qualifier|interrogative}}
+* French: {{t+|fr|quelqu'un|m}}, {{t+|fr|quelqu'une|f}}, {{t+|fr|n'importe qui}}, {{t+|fr|personne}}
+* Georgian: {{t|ka|ვინმე|sc=Geor}}, {{t|ka|ნებისმიერი|sc=Geor}}
+* German: {{t+|de|jemand}}, {{t+|de|wer}} {{qualifier|colloquial}}, {{t+|de|irgendjemand}}, {{t+|de|irgendwer}}
+* Hebrew: {{t|he|אף אחד|tr=áf ekhád|sc=Hebr}} {{qualifier|negative}}, {{t|he|מישהו|tr=mishehú|sc=Hebr}} {{qualifier|positive}}
+* Hungarian: {{t+|hu|bárki}}, {{t+|hu|akárki}}
+* Ido: {{t+|io|irgu}}
+* Irish: {{t|ga|aon duine}}
+* Italian: {{t+|it|chiunque}}
+* Japanese: {{t|ja|誰も|tr=[[だれも]], dare mo}} {{qualifier|used with affirmative verbs}} {{t|ja|誰でも|tr=[[だれでも]], dare de mo}}
+* Korean: {{t+|ko|아무}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|کەس}}, {{t|ckb|ھەرچیکەس}}, {{t+|ckb|ھەرکەس}}
+* Latin: {{t+|la|quisquam}}
+* Malay:
+*: Jawi: {{t|ms|سياڤا٢|sc=Arab}}, {{t|ms|سسياڤا|sc=Arab}}
+*: Rumi: {{t|ms|siapa-siapa}}, {{t|ms|sesiapa}}
+* Maore Comorian: {{qualifier|in negative sentences}} {{t|swb|ata mutru}}
+* Ngazidja Comorian: {{t|zdj|mndru|c1}}, {{t|zdj|dzima|c1|alt=mdzima}} {{qualifier|in negative sentences}}
+* Norwegian: {{t+|no|noen}}, {{t+|no|enhver}}, {{t|no|hvem som helst}}
+* Old English: {{t|ang|ǣniġ mann}}, {{t|ang|ǣniġ}}, {{t|ang|hwā}}, {{t+|ang|man}}
+* Persian: {{t+|fa|کسی|tr=kasi|sc=fa-Arab}}
+* Polish: {{t+|pl|ktokolwiek}}, {{t|pl|kto bądź}}, {{t+|pl|byle kto}}
+* Portuguese: {{t+|pt|alguém|m}}, {{t+|pt|alguma|f}}, {{t+|pt|qualquer|m|f}}, {{t+|pt|quaisquer|m-p|f-p}}, {{t|pt|qualquer um}}
+* Romanian: {{t+|ro|oricine}}
+* Russian: {{t+|ru|вся́кий|m}}, {{t+|ru|любо́й}}, {{t|ru|[[кто]] [[уго́дно]]}}, {{t|ru|[[кто]] [[бы]] [[то]] [[ни́]] [[быть|было]]}}, {{t+|ru|никто́}} {{qualifier|in negative sentences}}, {{t+|ru|кто́-нибу́дь}} {{qualifier|interrogative}}, {{t+|ru|кто́-либо}}, {{t|ru|[[кто]] [[уго́дно]]}}
+* Serbo-Croatian: {{t|sh|bilotko}}, {{t|sh|itko}}, {{t|sh|tkogod}}
+* Slovene: {{t+|sl|kdorkoli}}
+* Spanish: {{t+|es|cualquiera}}, {{t+|es|quien}}, {{t+|es|alguien}}
+* Swedish: {{t+|sv|någon}}, {{t+|sv|vem som helst}}, ({{t|sv|vem som}})
+* Tagalog: {{t|tl|sinuman}}, {{t|tl|balana}}
+* Telugu: {{t+|te|ఎవరైనా}}
+* Ukrainian: {{t+|uk|хто-не́будь}}, {{qualifier|in negative sentences}} {{t|uk|ніхто́}}, {{t+|uk|будь-хто}}, {{t+|uk|будь-яки́й}}
+* Vietnamese: {{t+|vi|ai}}, {{t+|vi|người ta}}
+* West Frisian: {{t|fy|immen}}
+* Yoruba: {{t|yo|ẹnikẹ́ni}}

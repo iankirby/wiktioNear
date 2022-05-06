@@ -1,0 +1,170 @@
+=
+{{trans-top|at all}}
+* Chinese:
+*: Mandarin: {{t+|cmn|不再|tr=buzai|sc=Hani}}, {{t+|cmn|一点|tr=yidian|sc=Hani}}
+* Dutch: {{t+|nl|enig}}, {{t+|nl|enkel}}
+* Esperanto: {{t|eo|iom ajn}}, {{t|eo|eĉ iomete}}
+* Finnish: {{t+|fi|yhtään}}
+* French: {{t+|fr|du tout}}
+{{trans-mid}}
+* Italian: {{t+|it|affatto}}
+* Portuguese: {{t+|pt|mais}}
+* Scots: {{t|sco|onie}}, {{t|sco|ony}}
+* Slovak: {{t|sk|ešte}}
+* Spanish: {{t+|es|algo}}
+=
+{{trans-top|at least one (kind)}}
+* Arabic: {{t+|ar|أَيّ}}
+*: Egyptian Arabic: {{t|arz|أي|tr=ʾay|sc=Arab}}
+*: North Levantine Arabic: {{t|apc|ايا|tr=ayya|sc=Arab}}, {{t|apc|حيلا|tr=ḥayalla|sc=Arab}}; {{t|apc|شي|tr=ši|sc=Arab}} {{q|some}}
+* Armenian: {{t|hy|որևէ}}
+* Belarusian: {{t|be|які́сьці}}, {{t|be|які́сь}}, {{t|be|які-не́будзь}}, {{t|be|не́йкі}}, {{t|be|жа́дны}} {{qualifier|with negative}}
+* Bulgarian: {{t|bg|някакъв}}, {{t|bg|никакъв}}, {{t|bg|какъв да е}}, {{t|bg|какъвто и да е}}, {{t+|bg|всякакъв}}, {{t+|bg|малко}}
+* Catalan: {{t+|ca|algun}}
+* Chinese:
+*: Mandarin: {{t+|cmn|任意|tr=rènyì|sc=Hani}}, {{t+|cmn|任何|tr=rènhé|sc=Hani}}
+* Dutch: {{t+|nl|enig}}
+* Esperanto: {{t+|eo|iu}}, {{t|eo|iom da}}
+* Estonian: {{t+|et|iga}}, {{t|et|mistahes}}, {{t|et|suvaline}}, {{t|et|ükskõik milline}}, {{t+|et|keegi}}
+* Finnish: {{t+|fi|yhtään}}, {{t+|fi|jotakin}}, {{t+|fi|mitään}}
+* French: {{qualifier|with a negative particle}} {{t+|fr|aucun}}
+* German: (can be omitted); {{q|interrogative or conditional; singular}} {{t+|de|irgendein}}; {{q|interrogative or conditional; plural}} {{t+|de|irgendwelche}}; {{q|negative}} {{t+|de|kein}}, {{t|de|[[überhaupt]] kein}}
+* Greek: {{t+|el|καθένας}}, {{t+|el|όποιος}}
+* Hebrew: {{t+|he|אַף|tr=af|sc=Hebr}}, {{t+|he|שׁוּם|tr=shum|sc=Hebr}}
+{{trans-mid}}
+* Hindi: {{t+|hi|कोई}}, {{t|hi|कोई भी}}
+* Ido: {{t+|io|irga}} {{q|at all}}, {{t+|io|ula}} {{q|some}}
+* Interlingua: {{t|ia|ulle}}
+* Italian: {{t+|it|qualche}}
+* Korean: {{t+|ko|어떤}}
+* Latin: {{t+|la|ullus}}
+* Macedonian: {{t|mk|некаков}}, {{t|mk|никаков}} {{qualifier|with negative}}
+* Maltese: {{t|mt|xi}}, {{t|mt|kwalunkwe}}
+* Maore Comorian: {{qualifier|with a verb in a negative form}} {{t|swb|ata}}
+* Marathi: {{t|mr|कोणतेही}}
+* Ngazidja Comorian: {{qualifier|with a verb in a negative form}} {{t|zdj|hata}}
+* Occitan: {{t+|oc|qualque}}
+* Old English: {{t|ang|ǣniġ}}
+* Old High German: {{t|goh|einag}}
+* Polish: {{t+|pl|jakiś|m}}, {{q|with negative}} {{t+|pl|żaden|m}}
+* Portuguese: {{t+|pt|algum}}
+* Russian: {{t+|ru|како́й-нибудь}}, {{t+|ru|никако́й}} {{qualifier|with negative}}
+* Scots: {{t|sco|onie}}, {{t|sco|ony}}
+* Slovak: {{t|sk|nejaký|m}}
+* Tocharian B: {{t|txb|ksa}}
+* Ukrainian: {{t+|uk|яки́йсь}}, {{t|pl|жо́дний}} {{q|with negative}}
+* Urdu: {{t|ur|کوئی|tr=koī|sc=ur-Arab}}
+* Volapük: {{t+|vo|seimik}}
+=
+{{trans-top|Any things or persons}}
+* Arabic: {{t+|ar|أَيّ}}, {{t|ar|كُلّ}}, {{t|ar|أَيَّة|f}}, {{t|ar|أَيْمَا}}
+* Bulgarian: {{t|bg|кой да е}}, {{t|bg|който и да е}}, {{t|bg|всеки}}, {{t|bg|някой}}, {{t|bg|никой}}
+* Catalan: {{t+|ca|algun}}, {{t+|ca|qualque}}
+* Chinese:
+*: Mandarin: {{t+|cmn|誰|sc=Hani}}, {{t+|cmn|谁|tr=shuí, shéi|sc=Hani}}
+* Czech: {{t+|cs|kdokoliv}} {{gloss|anyone}}, {{t+|cs|cokoliv}} {{gloss|anything}}
+* Dutch: {{t+|nl|elk}}
+* Esperanto: {{t|eo|iu ajn}}, {{t+|eo|ĉiu}}, {{t+|eo|ĉiuj}}
+* Finnish: {{t+|fi|mikä tahansa}}
+* Georgian: {{t|ka|ნებისმიერი}}
+* German: {{t+|de|jeder|m}}
+* Japanese: {{t|ja|どれも|tr=doremo}}, {{t|ja|どれでも|tr=doredemo}}
+* Latin: {{t+|la|ūllus}}
+{{trans-mid}}
+* Low German:
+*: German Low German: {{t|nds-de|jeed}}, {{t|nds-de|elk}}
+* Polish: {{t+|pl|ktokolwiek}}
+* Portuguese: {{t|pt|qualquer um}}
+* Romanian: {{t+|ro|orice}} {{gloss|anything}}, {{t+|ro|oricare}}, {{t+|ro|oricine}} {{gloss|anyone}}
+* Russian: {{t+|ru|любо́й}}, {{t+|ru|вся́кий}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|свак|m}}
+*: Roman: {{t+|sh|svak|m}}
+* Slovak: {{qualifier|anyone}} {{t|sk|ktokoľvek}}, {{qualifier|anything}} {{t|sk|čokoľvek}}
+* Spanish: {{t+|es|alguno|m}}, {{t+|es|alguna|f}}
+* Ukrainian: {{t+|uk|будь-хто́}}
+=
+{{trans-top|at all}}
+* Chinese:
+*: Mandarin: {{t+|cmn|不再|tr=buzai|sc=Hani}}, {{t+|cmn|一点|tr=yidian|sc=Hani}}
+* Dutch: {{t+|nl|enig}}, {{t+|nl|enkel}}
+* Esperanto: {{t|eo|iom ajn}}, {{t|eo|eĉ iomete}}
+* Finnish: {{t+|fi|yhtään}}
+* French: {{t+|fr|du tout}}
+{{trans-mid}}
+* Italian: {{t+|it|affatto}}
+* Portuguese: {{t+|pt|mais}}
+* Scots: {{t|sco|onie}}, {{t|sco|ony}}
+* Slovak: {{t|sk|ešte}}
+* Spanish: {{t+|es|algo}}
+=
+{{trans-top|at least one (kind)}}
+* Arabic: {{t+|ar|أَيّ}}
+*: Egyptian Arabic: {{t|arz|أي|tr=ʾay|sc=Arab}}
+*: North Levantine Arabic: {{t|apc|ايا|tr=ayya|sc=Arab}}, {{t|apc|حيلا|tr=ḥayalla|sc=Arab}}; {{t|apc|شي|tr=ši|sc=Arab}} {{q|some}}
+* Armenian: {{t|hy|որևէ}}
+* Belarusian: {{t|be|які́сьці}}, {{t|be|які́сь}}, {{t|be|які-не́будзь}}, {{t|be|не́йкі}}, {{t|be|жа́дны}} {{qualifier|with negative}}
+* Bulgarian: {{t|bg|някакъв}}, {{t|bg|никакъв}}, {{t|bg|какъв да е}}, {{t|bg|какъвто и да е}}, {{t+|bg|всякакъв}}, {{t+|bg|малко}}
+* Catalan: {{t+|ca|algun}}
+* Chinese:
+*: Mandarin: {{t+|cmn|任意|tr=rènyì|sc=Hani}}, {{t+|cmn|任何|tr=rènhé|sc=Hani}}
+* Dutch: {{t+|nl|enig}}
+* Esperanto: {{t+|eo|iu}}, {{t|eo|iom da}}
+* Estonian: {{t+|et|iga}}, {{t|et|mistahes}}, {{t|et|suvaline}}, {{t|et|ükskõik milline}}, {{t+|et|keegi}}
+* Finnish: {{t+|fi|yhtään}}, {{t+|fi|jotakin}}, {{t+|fi|mitään}}
+* French: {{qualifier|with a negative particle}} {{t+|fr|aucun}}
+* German: (can be omitted); {{q|interrogative or conditional; singular}} {{t+|de|irgendein}}; {{q|interrogative or conditional; plural}} {{t+|de|irgendwelche}}; {{q|negative}} {{t+|de|kein}}, {{t|de|[[überhaupt]] kein}}
+* Greek: {{t+|el|καθένας}}, {{t+|el|όποιος}}
+* Hebrew: {{t+|he|אַף|tr=af|sc=Hebr}}, {{t+|he|שׁוּם|tr=shum|sc=Hebr}}
+{{trans-mid}}
+* Hindi: {{t+|hi|कोई}}, {{t|hi|कोई भी}}
+* Ido: {{t+|io|irga}} {{q|at all}}, {{t+|io|ula}} {{q|some}}
+* Interlingua: {{t|ia|ulle}}
+* Italian: {{t+|it|qualche}}
+* Korean: {{t+|ko|어떤}}
+* Latin: {{t+|la|ullus}}
+* Macedonian: {{t|mk|некаков}}, {{t|mk|никаков}} {{qualifier|with negative}}
+* Maltese: {{t|mt|xi}}, {{t|mt|kwalunkwe}}
+* Maore Comorian: {{qualifier|with a verb in a negative form}} {{t|swb|ata}}
+* Marathi: {{t|mr|कोणतेही}}
+* Ngazidja Comorian: {{qualifier|with a verb in a negative form}} {{t|zdj|hata}}
+* Occitan: {{t+|oc|qualque}}
+* Old English: {{t|ang|ǣniġ}}
+* Old High German: {{t|goh|einag}}
+* Polish: {{t+|pl|jakiś|m}}, {{q|with negative}} {{t+|pl|żaden|m}}
+* Portuguese: {{t+|pt|algum}}
+* Russian: {{t+|ru|како́й-нибудь}}, {{t+|ru|никако́й}} {{qualifier|with negative}}
+* Scots: {{t|sco|onie}}, {{t|sco|ony}}
+* Slovak: {{t|sk|nejaký|m}}
+* Tocharian B: {{t|txb|ksa}}
+* Ukrainian: {{t+|uk|яки́йсь}}, {{t|pl|жо́дний}} {{q|with negative}}
+* Urdu: {{t|ur|کوئی|tr=koī|sc=ur-Arab}}
+* Volapük: {{t+|vo|seimik}}
+=
+{{trans-top|Any things or persons}}
+* Arabic: {{t+|ar|أَيّ}}, {{t|ar|كُلّ}}, {{t|ar|أَيَّة|f}}, {{t|ar|أَيْمَا}}
+* Bulgarian: {{t|bg|кой да е}}, {{t|bg|който и да е}}, {{t|bg|всеки}}, {{t|bg|някой}}, {{t|bg|никой}}
+* Catalan: {{t+|ca|algun}}, {{t+|ca|qualque}}
+* Chinese:
+*: Mandarin: {{t+|cmn|誰|sc=Hani}}, {{t+|cmn|谁|tr=shuí, shéi|sc=Hani}}
+* Czech: {{t+|cs|kdokoliv}} {{gloss|anyone}}, {{t+|cs|cokoliv}} {{gloss|anything}}
+* Dutch: {{t+|nl|elk}}
+* Esperanto: {{t|eo|iu ajn}}, {{t+|eo|ĉiu}}, {{t+|eo|ĉiuj}}
+* Finnish: {{t+|fi|mikä tahansa}}
+* Georgian: {{t|ka|ნებისმიერი}}
+* German: {{t+|de|jeder|m}}
+* Japanese: {{t|ja|どれも|tr=doremo}}, {{t|ja|どれでも|tr=doredemo}}
+* Latin: {{t+|la|ūllus}}
+{{trans-mid}}
+* Low German:
+*: German Low German: {{t|nds-de|jeed}}, {{t|nds-de|elk}}
+* Polish: {{t+|pl|ktokolwiek}}
+* Portuguese: {{t|pt|qualquer um}}
+* Romanian: {{t+|ro|orice}} {{gloss|anything}}, {{t+|ro|oricare}}, {{t+|ro|oricine}} {{gloss|anyone}}
+* Russian: {{t+|ru|любо́й}}, {{t+|ru|вся́кий}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|свак|m}}
+*: Roman: {{t+|sh|svak|m}}
+* Slovak: {{qualifier|anyone}} {{t|sk|ktokoľvek}}, {{qualifier|anything}} {{t|sk|čokoľvek}}
+* Spanish: {{t+|es|alguno|m}}, {{t+|es|alguna|f}}
+* Ukrainian: {{t+|uk|будь-хто́}}

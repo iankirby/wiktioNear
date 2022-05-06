@@ -1,0 +1,2613 @@
+=
+{{trans-top|in addition; besides; as well; further; too}}
+* Albanian: {{t+|sq|gjithashtu}}, {{t+|sq|edhe}}
+* Amharic: {{t|am|ደግሞ}}
+* Apache:
+*: Western Apache: {{t|apw|dóʼ}}
+* Arabic: {{t+|ar|أَيْضًا}}, {{t|ar|كَذٰلِكَ|tr=ka-ḏālika}}, {{t|ar|بِالمِثْل}}
+*: Egyptian Arabic: {{t|arz|كمان|tr=kaman, kman}}, {{t|arz|بردو|tr=bardo}}
+*: Hijazi Arabic: {{t|acw|كَمَان|tr=kamān|sc=Arab}}, {{t|acw|برضه|tr=barḍu|sc=Arab}}
+* Aragonese: {{t|an|tamien}}
+* Armenian: {{t|hy|նաև}}, {{t+|hy|նույնպես}}
+* Aromanian: {{t|rup|anaghiore}}
+* Asturian: {{t+|ast|tamién}}
+* Azerbaijani: {{t|az|də}}, {{t|az|həmçinin}}
+* Bavarian: {{t|bar|aa}}
+* Belarusian: {{t|be|такса́ма}}
+* Bengali: {{t|bn|-ও}}
+* Breton: {{t+|br|ivez}}
+* Bulgarian: {{t+|bg|съ́що}}, {{t|bg|също така}}
+* Burmese: {{t+|my|လည်း|sc=Mymr}}
+* Catalan: {{t+|ca|també}}
+* Cebuano: {{t|ceb|pud}}
+* Chickasaw: {{t|cic|ano̠wa'}}
+* Chinese:
+*: Cantonese: {{t|yue|都|tr=dou1}}, {{t+|yue|亦|tr=jik6}}, {{t|yue|也|tr=jaa5}} {{qualifier|literary}}
+*: Dungan: {{t|dng|е}}
+*: Mandarin: {{t+|cmn|也|tr=yě}}, {{t+|cmn|並}}, {{t+|cmn|并|tr=bìng}}, {{t+|cmn|還}}, {{t+|cmn|还|tr=hái}}, {{t+|cmn|以及|tr=yǐjí}}, {{t+|cmn|亦|tr=yì}} {{q|rare|formal}}
+*: Min Dong: {{t|cdo|也|tr=iâ}}
+*: Min Nan: {{t+|nan|嘛|tr=mā, mǎ}}, {{t+|nan|也|tr=iā}}
+* Czech: {{t+|cs|také}}
+* Dalmatian: {{t|dlm|anca}}
+* Danish: {{t+|da|også}}
+* Dutch: {{t+|nl|ook}}, {{t+|nl|eveneens}} {{qualifier|formal}}, {{t+|nl|tevens}} {{qualifier|formal}}
+* Eshtehardi: {{t|esh|جی|tr=ji}}
+* Esperanto: {{t+|eo|ankaŭ}}
+* Estonian: {{t+|et|samuti}}, {{t+|et|ka}}, {{t|et|ühtlasi}}
+* Extremaduran: {{t|ext|tamién}}
+* Farefare: {{t|gur|mẽ}}
+* Faroese: {{t|fo|eisini}}, {{t+|fo|við}}
+* Finnish: {{t+|fi|myös}}, {{t+|fi|-kin}}
+* French: {{t+|fr|aussi}}, {{t+|fr|également}}
+* Friulian: {{t|fur|ancje}}
+* Galician: {{t|gl|tamén}}
+* Gallurese: {{t|sdn|sina}}, {{t|sdn|puru}}
+* Georgian: {{t+|ka|აგრეთვე}}, {{t|ka|დამატებით}}, {{t+|ka|ასევე}}, {{t|ka|-ც}}
+* German: {{t+|de|auch}}
+*: Alemannic German: {{t|gsw|au}}
+* Gothic: {{t|got|𐌾𐌰𐌷}}, {{t|got|𐌰𐌿𐌺}}
+* Greek: {{t+|el|επίσης}}
+*: Ancient: {{t|grc|καί}}
+* Hebrew: {{t+|he|גַּם|tr=gam}}
+* Hindi: {{t+|hi|भी}}
+* Hungarian: {{t+|hu|szintén}}, {{t+|hu|is}}, {{t+|hu|ugyancsak}}
+* Icelandic: {{t+|is|líka}}, {{t+|is|einnig}}
+* Ido: {{t+|io|anke}}
+* Indonesian: {{t+|id|juga}}, {{t+|id|pula}}
+* Interlingua: {{t|ia|anque}}, {{t|ia|etiam}}, {{t|ia|tamben}}
+* Irish: {{t|ga|freisin}}, {{t|ga|chomh maith}}, {{t+|ga|fosta}}, {{t|ga|leis}}
+* Istriot: {{t|ist|anca}}
+* Istro-Romanian: {{t|ruo|anke}}
+* Italian: {{t+|it|anche}}, {{t+|it|inoltre}}, {{t|it|in aggiunta}}, {{t+|it|altresì}}
+* Japanese: {{t+|ja|も|tr=mo}}, {{t+|ja|また|tr=mata}}, {{t+|ja|さらに|tr=sara ni}}, {{t|ja|にも|tr=ni mo}}
+* Javanese: {{t+|jv|uga}}
+* Kashubian: {{t|csb|téż}}
+* Kazakh: {{t+|kk|да|sc=Cyrl}}, {{t|kk|де|sc=Cyrl}}, {{t|kk|сондай-ақ|sc=Cyrl}}
+* Khmer: {{t+|km|ក៏|tr=kɑɑ|sc=Khmr}}
+* Korean: {{t+|ko|또한}}, {{t+|ko|또}}, {{t+|ko|역시}}
+* Kyrgyz: {{t+|ky|да|sc=Cyrl}}, {{t+|ky|дагы|sc=Cyrl}}
+* Lao: {{t|lo|ດ້ວຍ}}, {{t|lo|ກໍ}}, {{t|lo|ດອມ}}
+{{trans-mid}}
+* Latgalian: {{t|ltg|taipat}}, {{t|ltg|taipoš}}
+* Latin: {{t+|la|quoque}}, {{t+|la|etiam}}
+* Latvian: {{t|lv|arī}}, {{t|lv|tāpat}}
+* Limburgish: {{t+|li|ouch}}, {{t|li|ooch}} {{qualifier|Western Limburgish}}, {{t|li|ouk}} {{qualifier|Venlo dialect}}
+* Lingala: {{t|ln|lokóla}}, {{t|ln|mpé}}
+* Lithuanian: {{t+|lt|taip pat}}
+* Lombard: {{t+|lmo|anca}}
+* Low German:
+*: German Low German: {{t+|nds-de|ok}} {{qualifier|Northern Germany|South Westphalia}}, {{t+|nds-de|auk}} {{qualifier|Münsterland}}
+* Macedonian: {{t|mk|и́сто та́ка}}, {{t|mk|ка́ко и}}
+* Malay: {{t|ms|juga}}
+* Maltese: {{t|mt|ukoll}}, {{t|mt|anke}}
+* Maori: {{t|mi|hoki}}
+* Meänkieli: {{t|fit|kansa}}
+* Miskito: {{t|miq|sin}}
+* Mongolian: {{t+|mn|мөн|sc=Cyrl}}
+* Moore: {{t|mos|me}}
+* Navajo: {{t|nv|ałdóʼ}}, {{t|nv|dóʼ}}
+* Neapolitan: {{t|nap|pure}}
+* Nepali: {{t+|ne|पनि}}
+* Ngazidja Comorian: {{t|zdj|na}}
+* Norman: {{t|nrf|étout}} {{qualifier|Jersey|Guernsey}}, {{t|nrf|itou}} {{qualifier|continental Normandy}}
+* North Frisian: {{t|frr|uk}} {{qualifier|Föhr}}
+* Northern Sami: {{t|se|maid}}, {{t|se|maiddái}}, {{t|se|-ge}}
+* Norwegian:
+*: Bokmål: {{t+|nb|dessuten}}, {{t+|nb|også}}, {{t+|nb|dertil}}
+*: Nynorsk: {{t|nn|dessutan}}, {{t+|nn|også}}, {{t|nn|au}}
+* Old English: {{t|ang|ēac}}
+* Old Javanese: {{t|kaw|waneh}}
+* Persian: {{t+|fa|نیز|tr=niz}}, {{t+|fa|هم|tr=ham}}, {{t+|fa|همچنین|tr=hamĉenin}}
+* Plautdietsch: {{t|pdt|uk}}
+* Polish: {{t+|pl|też}}, {{t+|pl|również}}, {{t+|pl|także}}
+* Portuguese: {{t+|pt|também}}
+* Quechua: {{t|qu|utaq}}
+* Romanian: {{t+|ro|și}}, {{t|ro|de asemenea}}, {{t+|ro|încă}}
+* Russian: {{t+|ru|то́же}}, {{t+|ru|та́кже}}
+* Sardinian:
+*: Campidanese: {{t|sc|puru}}, {{t|sc|fintzas}}
+*: Logudorese: {{t|sc|puru}}, {{t|sc|finas}}, {{t|sc|fintzas}}
+* Sassarese: {{t|sdc|finamènta}}
+* Scots: {{t|sco|alswa}}, {{t|sco|alsua}}
+* Scottish Gaelic: {{t|gd|cuideachd}}, {{t|gd|mar an ceudna}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|такође}}, {{t|sh|такођер}}
+*: Roman: {{t+|sh|takođe}}, {{qualifier|Croatian}} {{t+|sh|također}}
+* Slovak: {{t|sk|aj}}, {{t|sk|tiež}}
+* Slovene: {{t+|sl|túdi}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|teke}}
+* Spanish: {{t+|es|también}}, {{t+|es|además}}
+* Swahili: {{t|sw|pia}}
+* Swedish: {{t+|sv|också}}, {{t+|sv|likaså}}
+* Tagalog: {{t+|tl|din}}, {{t+|tl|rin}}
+* Tajik: {{t|tg|низ}}, {{t+|tg|ҳам}}, {{t|tg|ҳамчунин}}, {{t+|tg|инчунин}}
+* Taos: {{t|twf|hóbo}}
+* Thai: {{t+|th|ด้วย}}, {{t+|th|ก็}}
+* Tibetan: {{t|bo|ཡང}}
+* Tocharian B: {{t|txb|rano}}
+* Turkish: {{t+|tr|ayrıca}}, {{t+|tr|da}}, {{t+|tr|de}}, {{t+|tr|hem}}
+* Turkmen: {{t|tk|hem}}
+* Ugaritic: {{t|uga|𐎀𐎔}}
+* Ukrainian: {{t+|uk|так са́мо}}, {{t|uk|теж}}, {{t+|uk|тако́ж}}
+* Urdu: {{t|ur|بھی|tr=bhī}}
+* Uyghur: {{t|ug|مۇ}}, {{t|ug|يەنە}}, {{t|ug|ھەمدە}}
+* Uzbek: {{t+|uz|ham}}, {{t+|uz|shuningdek}}
+* Venetian: {{t+|vec|anca}}
+* Vietnamese: {{t+|vi|cũng}}
+* Welsh: {{t|cy|hefyd}}
+* West Frisian: {{t|fy|ek}}
+* Yiddish: {{t|yi|אויך}}
+* Zealandic: {{t|zea|ok}}
+=
+{{trans-top|in addition; besides; as well; further; too}}
+* Albanian: {{t+|sq|gjithashtu}}, {{t+|sq|edhe}}
+* Amharic: {{t|am|ደግሞ}}
+* Apache:
+*: Western Apache: {{t|apw|dóʼ}}
+* Arabic: {{t+|ar|أَيْضًا}}, {{t|ar|كَذٰلِكَ|tr=ka-ḏālika}}, {{t|ar|بِالمِثْل}}
+*: Egyptian Arabic: {{t|arz|كمان|tr=kaman, kman}}, {{t|arz|بردو|tr=bardo}}
+*: Hijazi Arabic: {{t|acw|كَمَان|tr=kamān|sc=Arab}}, {{t|acw|برضه|tr=barḍu|sc=Arab}}
+* Aragonese: {{t|an|tamien}}
+* Armenian: {{t|hy|նաև}}, {{t+|hy|նույնպես}}
+* Aromanian: {{t|rup|anaghiore}}
+* Asturian: {{t+|ast|tamién}}
+* Azerbaijani: {{t|az|də}}, {{t|az|həmçinin}}
+* Bavarian: {{t|bar|aa}}
+* Belarusian: {{t|be|такса́ма}}
+* Bengali: {{t|bn|-ও}}
+* Breton: {{t+|br|ivez}}
+* Bulgarian: {{t+|bg|съ́що}}, {{t|bg|също така}}
+* Burmese: {{t+|my|လည်း|sc=Mymr}}
+* Catalan: {{t+|ca|també}}
+* Cebuano: {{t|ceb|pud}}
+* Chickasaw: {{t|cic|ano̠wa'}}
+* Chinese:
+*: Cantonese: {{t|yue|都|tr=dou1}}, {{t+|yue|亦|tr=jik6}}, {{t|yue|也|tr=jaa5}} {{qualifier|literary}}
+*: Dungan: {{t|dng|е}}
+*: Mandarin: {{t+|cmn|也|tr=yě}}, {{t+|cmn|並}}, {{t+|cmn|并|tr=bìng}}, {{t+|cmn|還}}, {{t+|cmn|还|tr=hái}}, {{t+|cmn|以及|tr=yǐjí}}, {{t+|cmn|亦|tr=yì}} {{q|rare|formal}}
+*: Min Dong: {{t|cdo|也|tr=iâ}}
+*: Min Nan: {{t+|nan|嘛|tr=mā, mǎ}}, {{t+|nan|也|tr=iā}}
+* Czech: {{t+|cs|také}}
+* Dalmatian: {{t|dlm|anca}}
+* Danish: {{t+|da|også}}
+* Dutch: {{t+|nl|ook}}, {{t+|nl|eveneens}} {{qualifier|formal}}, {{t+|nl|tevens}} {{qualifier|formal}}
+* Eshtehardi: {{t|esh|جی|tr=ji}}
+* Esperanto: {{t+|eo|ankaŭ}}
+* Estonian: {{t+|et|samuti}}, {{t+|et|ka}}, {{t|et|ühtlasi}}
+* Extremaduran: {{t|ext|tamién}}
+* Farefare: {{t|gur|mẽ}}
+* Faroese: {{t|fo|eisini}}, {{t+|fo|við}}
+* Finnish: {{t+|fi|myös}}, {{t+|fi|-kin}}
+* French: {{t+|fr|aussi}}, {{t+|fr|également}}
+* Friulian: {{t|fur|ancje}}
+* Galician: {{t|gl|tamén}}
+* Gallurese: {{t|sdn|sina}}, {{t|sdn|puru}}
+* Georgian: {{t+|ka|აგრეთვე}}, {{t|ka|დამატებით}}, {{t+|ka|ასევე}}, {{t|ka|-ც}}
+* German: {{t+|de|auch}}
+*: Alemannic German: {{t|gsw|au}}
+* Gothic: {{t|got|𐌾𐌰𐌷}}, {{t|got|𐌰𐌿𐌺}}
+* Greek: {{t+|el|επίσης}}
+*: Ancient: {{t|grc|καί}}
+* Hebrew: {{t+|he|גַּם|tr=gam}}
+* Hindi: {{t+|hi|भी}}
+* Hungarian: {{t+|hu|szintén}}, {{t+|hu|is}}, {{t+|hu|ugyancsak}}
+* Icelandic: {{t+|is|líka}}, {{t+|is|einnig}}
+* Ido: {{t+|io|anke}}
+* Indonesian: {{t+|id|juga}}, {{t+|id|pula}}
+* Interlingua: {{t|ia|anque}}, {{t|ia|etiam}}, {{t|ia|tamben}}
+* Irish: {{t|ga|freisin}}, {{t|ga|chomh maith}}, {{t+|ga|fosta}}, {{t|ga|leis}}
+* Istriot: {{t|ist|anca}}
+* Istro-Romanian: {{t|ruo|anke}}
+* Italian: {{t+|it|anche}}, {{t+|it|inoltre}}, {{t|it|in aggiunta}}, {{t+|it|altresì}}
+* Japanese: {{t+|ja|も|tr=mo}}, {{t+|ja|また|tr=mata}}, {{t+|ja|さらに|tr=sara ni}}, {{t|ja|にも|tr=ni mo}}
+* Javanese: {{t+|jv|uga}}
+* Kashubian: {{t|csb|téż}}
+* Kazakh: {{t+|kk|да|sc=Cyrl}}, {{t|kk|де|sc=Cyrl}}, {{t|kk|сондай-ақ|sc=Cyrl}}
+* Khmer: {{t+|km|ក៏|tr=kɑɑ|sc=Khmr}}
+* Korean: {{t+|ko|또한}}, {{t+|ko|또}}, {{t+|ko|역시}}
+* Kyrgyz: {{t+|ky|да|sc=Cyrl}}, {{t+|ky|дагы|sc=Cyrl}}
+* Lao: {{t|lo|ດ້ວຍ}}, {{t|lo|ກໍ}}, {{t|lo|ດອມ}}
+{{trans-mid}}
+* Latgalian: {{t|ltg|taipat}}, {{t|ltg|taipoš}}
+* Latin: {{t+|la|quoque}}, {{t+|la|etiam}}
+* Latvian: {{t|lv|arī}}, {{t|lv|tāpat}}
+* Limburgish: {{t+|li|ouch}}, {{t|li|ooch}} {{qualifier|Western Limburgish}}, {{t|li|ouk}} {{qualifier|Venlo dialect}}
+* Lingala: {{t|ln|lokóla}}, {{t|ln|mpé}}
+* Lithuanian: {{t+|lt|taip pat}}
+* Lombard: {{t+|lmo|anca}}
+* Low German:
+*: German Low German: {{t+|nds-de|ok}} {{qualifier|Northern Germany|South Westphalia}}, {{t+|nds-de|auk}} {{qualifier|Münsterland}}
+* Macedonian: {{t|mk|и́сто та́ка}}, {{t|mk|ка́ко и}}
+* Malay: {{t|ms|juga}}
+* Maltese: {{t|mt|ukoll}}, {{t|mt|anke}}
+* Maori: {{t|mi|hoki}}
+* Meänkieli: {{t|fit|kansa}}
+* Miskito: {{t|miq|sin}}
+* Mongolian: {{t+|mn|мөн|sc=Cyrl}}
+* Moore: {{t|mos|me}}
+* Navajo: {{t|nv|ałdóʼ}}, {{t|nv|dóʼ}}
+* Neapolitan: {{t|nap|pure}}
+* Nepali: {{t+|ne|पनि}}
+* Ngazidja Comorian: {{t|zdj|na}}
+* Norman: {{t|nrf|étout}} {{qualifier|Jersey|Guernsey}}, {{t|nrf|itou}} {{qualifier|continental Normandy}}
+* North Frisian: {{t|frr|uk}} {{qualifier|Föhr}}
+* Northern Sami: {{t|se|maid}}, {{t|se|maiddái}}, {{t|se|-ge}}
+* Norwegian:
+*: Bokmål: {{t+|nb|dessuten}}, {{t+|nb|også}}, {{t+|nb|dertil}}
+*: Nynorsk: {{t|nn|dessutan}}, {{t+|nn|også}}, {{t|nn|au}}
+* Old English: {{t|ang|ēac}}
+* Old Javanese: {{t|kaw|waneh}}
+* Persian: {{t+|fa|نیز|tr=niz}}, {{t+|fa|هم|tr=ham}}, {{t+|fa|همچنین|tr=hamĉenin}}
+* Plautdietsch: {{t|pdt|uk}}
+* Polish: {{t+|pl|też}}, {{t+|pl|również}}, {{t+|pl|także}}
+* Portuguese: {{t+|pt|também}}
+* Quechua: {{t|qu|utaq}}
+* Romanian: {{t+|ro|și}}, {{t|ro|de asemenea}}, {{t+|ro|încă}}
+* Russian: {{t+|ru|то́же}}, {{t+|ru|та́кже}}
+* Sardinian:
+*: Campidanese: {{t|sc|puru}}, {{t|sc|fintzas}}
+*: Logudorese: {{t|sc|puru}}, {{t|sc|finas}}, {{t|sc|fintzas}}
+* Sassarese: {{t|sdc|finamènta}}
+* Scots: {{t|sco|alswa}}, {{t|sco|alsua}}
+* Scottish Gaelic: {{t|gd|cuideachd}}, {{t|gd|mar an ceudna}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|такође}}, {{t|sh|такођер}}
+*: Roman: {{t+|sh|takođe}}, {{qualifier|Croatian}} {{t+|sh|također}}
+* Slovak: {{t|sk|aj}}, {{t|sk|tiež}}
+* Slovene: {{t+|sl|túdi}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|teke}}
+* Spanish: {{t+|es|también}}, {{t+|es|además}}
+* Swahili: {{t|sw|pia}}
+* Swedish: {{t+|sv|också}}, {{t+|sv|likaså}}
+* Tagalog: {{t+|tl|din}}, {{t+|tl|rin}}
+* Tajik: {{t|tg|низ}}, {{t+|tg|ҳам}}, {{t|tg|ҳамчунин}}, {{t+|tg|инчунин}}
+* Taos: {{t|twf|hóbo}}
+* Thai: {{t+|th|ด้วย}}, {{t+|th|ก็}}
+* Tibetan: {{t|bo|ཡང}}
+* Tocharian B: {{t|txb|rano}}
+* Turkish: {{t+|tr|ayrıca}}, {{t+|tr|da}}, {{t+|tr|de}}, {{t+|tr|hem}}
+* Turkmen: {{t|tk|hem}}
+* Ugaritic: {{t|uga|𐎀𐎔}}
+* Ukrainian: {{t+|uk|так са́мо}}, {{t|uk|теж}}, {{t+|uk|тако́ж}}
+* Urdu: {{t|ur|بھی|tr=bhī}}
+* Uyghur: {{t|ug|مۇ}}, {{t|ug|يەنە}}, {{t|ug|ھەمدە}}
+* Uzbek: {{t+|uz|ham}}, {{t+|uz|shuningdek}}
+* Venetian: {{t+|vec|anca}}
+* Vietnamese: {{t+|vi|cũng}}
+* Welsh: {{t|cy|hefyd}}
+* West Frisian: {{t|fy|ek}}
+* Yiddish: {{t|yi|אויך}}
+* Zealandic: {{t|zea|ok}}
+=
+{{trans-top|all of a countable group}}
+* Afrikaans: {{t+|af|elke}}
+* Albanian: {{t+|sq|cilido}}
+* Arabic: {{t|ar|كُلّ}}
+* Armenian: {{t+|hy|ամեն}}
+* Asturian: {{t+|ast|cada}}
+* Azerbaijani: {{t+|az|hər}}
+* Bashkir: {{t|ba|һәр}}
+* Belarusian: {{t|be|ко́жны}}
+* Bengali: {{t|bn|প্রতি}}, {{t+|bn|হর}}, {{t|bn|কুল}}, {{t|bn|তামাম}}
+* Bulgarian: {{t|bg|все́ки}}
+* Burmese: {{t+|my|တိုင်း}}
+* Catalan: {{t+|ca|cada}}
+* Chechen: {{t|ce|дерриг}}
+* Chinese:
+*: Cantonese: {{t+|yue|每|tr=mui5}}
+*: Mandarin: {{t+|cmn|每|tr=měi}}, {{t+|cmn|各|tr=gè}}
+*: Min Nan: {{t+|nan|逐|tr=ta̍k}}, {{t+|nan|每|tr=múi}}
+* Czech: {{t+|cs|každý}}
+* Danish: {{t+|da|hver}}
+* Dutch: {{t+|nl|elk}}, {{t+|nl|ieder}}
+* Esperanto: {{t+|eo|ĉiu}}
+* Estonian: {{t+|et|kõik}}
+* Faroese: {{t+|fo|hvør}}
+* Finnish: {{t+|fi|jokainen}}, {{t+|fi|joka}}, {{t|fi|välein}}
+* French: {{t+|fr|tout}}, {{t+|fr|chaque}}
+* Galician: {{t|gl|toda|f}}, {{t+|gl|todo|m}}
+* Georgian: {{t|ka|ყველა}}, {{t|ka|ყოველი}}
+* German: {{t+|de|jeder}}
+*: Pennsylvania German: {{t|pdc|jeder}}
+* Greek: {{t+|el|κάθε}}
+*: Ancient: {{t|grc|ἕκαστος|sc=polytonic}}
+* Haitian Creole: {{t|ht|tout}}, {{t|ht|chak}}
+* Hebrew: {{t+|he|כל|tr=kol}}
+* Hindi: {{t+|hi|हर}}
+* Hungarian: {{t+|hu|minden}}
+* Icelandic: {{t+|is|sérhver}}, {{t+|is|hver}}
+* Ido: {{t+|io|omna}}
+* Indonesian: {{t+|id|setiap}}
+* Ingush: {{t|inh|дерриг}}
+* Interlingua: {{t|ia|cata}}
+* Irish: {{t|ga|gach}}, {{t|ga|gach uile}}
+* Italian: {{t+|it|ogni}}
+* Japanese: {{t+|ja|あらゆる|tr=arayuru}}, {{t+|ja|全て|alt=全ての|tr=[[すべて]]の, subete-no}}, {{t+|ja|それぞれ|tr=sorezore}}, {{t+|ja|おのおの|tr=onoono}}, {{t+|ja|毎|alt=…毎に|tr=…goto-ni}}, {{qualifier|prefix}} {{t+|ja|毎|tr=まい-, mai-}}, {{t+|ja|各|tr=かく, kaku}}
+* Kabuverdianu: {{t|kea|túdu}}
+* Kannada: {{t+|kn|ಪ್ರತಿ}}
+* Kazakh: {{t+|kk|әр}}
+* Khmer: {{t+|km|រាល់|tr=roal}}
+* Korean: {{t+|ko|각}}, {{t+|ko|모든}}, {{t+|ko|매|alt=매-}}, {{t+|ko|각}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ھەمو}}
+* Kyrgyz: {{t+|ky|ар}}
+* Lao: {{t|lo|ທຸກ}}, {{t|lo|ທຸກໆ}}
+{{trans-mid}}
+* Latin: {{t+|la|quisque}}, {{t+|la|omnis}}
+* Latvian: {{t+|lv|katrs}}
+* Lithuanian: {{t|lt|kiekvienas}}
+* Macedonian: {{t|mk|секој}}
+* Malay: {{t+|ms|setiap}}, {{t|ms|tiap-tiap}}
+* Malayalam: {{t+|ml|ഓരോ}}
+* Maltese: {{t|mt|kull}}
+* Mongolian: {{t+|mn|бүр}}
+* Mwali Comorian: {{t|wlc|kila}}
+* Norwegian:
+*: Bokmål: {{t+|nb|hver}}
+*: Nynorsk: {{t|nn|kvar}}
+* Old English: {{t|ang|ǣlċ}}
+* Pashto: {{t|ps|هر|tr=har}}
+* Persian: {{t+|fa|هر|tr=har}}
+* Polish: {{t+|pl|każdy}}
+* Portuguese: {{t+|pt|cada}}, {{t+|pt|todo|m}}, {{t+|pt|toda|f}}
+* Quechua: {{t+|qu|tukuy}}
+* Romani: {{t|rom|sako|m}}, {{t|rom|saki|f}}, {{t|rom|sake|p}}
+* Romanian: {{t+|ro|fiecare}}
+* Russian: {{t+|ru|ка́ждый}}, {{t+|ru|вся́кий}}
+* Sanskrit: {{t+|sa|सर्व|tr=sárva}}, {{q|Early Vedic}} {{t+|sa|विश्व}}
+* Scots: {{t|sco|ivery}}
+* Scottish Gaelic: {{t|gd|a h-uile}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|сва̏кӣ}}
+*: Roman: {{t|sh|svȁkī}}
+* Sinhalese: {{t+|si|හැම}}
+* Slovak: {{t|sk|každý}}
+* Slovene: {{t+|sl|vsak}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|kuždy}}
+* Spanish: {{t+|es|cada}}
+* Swahili: {{t|sw|kila}}
+* Swedish: {{t+|sv|varje}} (1.), {{t+|sv|var}} (2.)
+* Tajik: {{t+|tg|ҳар}}
+* Tamil: {{t+|ta|ஒவ்வொரு}}
+* Tatar: {{t|tt|һәр}}
+* Telugu: {{t+|te|ప్రతి}}
+* Thai: {{t+|th|ทุก}}
+* Tocharian B: {{t|txb|po}}
+* Turkish: {{t+|tr|her}}
+* Turkmen: {{t|tk|her}}
+* Ukrainian: {{t+|uk|ко́жний}}
+* Urdu: {{t|ur|ہر|tr=har}}
+* Uzbek: {{t+|uz|har}}
+* Vietnamese: {{t+|vi|mỗi}}, {{t+|vi|các}}, {{t+|vi|từng}}
+* Volapük: {{t+|vo|alik}}
+* Welsh: {{t+|cy|pob}}
+* Yagnobi: {{t|yai|ҳар}}
+* Yiddish: {{t|yi|יעדער}}
+* Zazaki: {{t+|zza|herg}}
+=
+{{trans-top|at all}}
+* Chinese:
+*: Mandarin: {{t+|cmn|不再|tr=buzai|sc=Hani}}, {{t+|cmn|一点|tr=yidian|sc=Hani}}
+* Dutch: {{t+|nl|enig}}, {{t+|nl|enkel}}
+* Esperanto: {{t|eo|iom ajn}}, {{t|eo|eĉ iomete}}
+* Finnish: {{t+|fi|yhtään}}
+* French: {{t+|fr|du tout}}
+{{trans-mid}}
+* Italian: {{t+|it|affatto}}
+* Portuguese: {{t+|pt|mais}}
+* Scots: {{t|sco|onie}}, {{t|sco|ony}}
+* Slovak: {{t|sk|ešte}}
+* Spanish: {{t+|es|algo}}
+=
+{{trans-top|at least one (kind)}}
+* Arabic: {{t+|ar|أَيّ}}
+*: Egyptian Arabic: {{t|arz|أي|tr=ʾay|sc=Arab}}
+*: North Levantine Arabic: {{t|apc|ايا|tr=ayya|sc=Arab}}, {{t|apc|حيلا|tr=ḥayalla|sc=Arab}}; {{t|apc|شي|tr=ši|sc=Arab}} {{q|some}}
+* Armenian: {{t|hy|որևէ}}
+* Belarusian: {{t|be|які́сьці}}, {{t|be|які́сь}}, {{t|be|які-не́будзь}}, {{t|be|не́йкі}}, {{t|be|жа́дны}} {{qualifier|with negative}}
+* Bulgarian: {{t|bg|някакъв}}, {{t|bg|никакъв}}, {{t|bg|какъв да е}}, {{t|bg|какъвто и да е}}, {{t+|bg|всякакъв}}, {{t+|bg|малко}}
+* Catalan: {{t+|ca|algun}}
+* Chinese:
+*: Mandarin: {{t+|cmn|任意|tr=rènyì|sc=Hani}}, {{t+|cmn|任何|tr=rènhé|sc=Hani}}
+* Dutch: {{t+|nl|enig}}
+* Esperanto: {{t+|eo|iu}}, {{t|eo|iom da}}
+* Estonian: {{t+|et|iga}}, {{t|et|mistahes}}, {{t|et|suvaline}}, {{t|et|ükskõik milline}}, {{t+|et|keegi}}
+* Finnish: {{t+|fi|yhtään}}, {{t+|fi|jotakin}}, {{t+|fi|mitään}}
+* French: {{qualifier|with a negative particle}} {{t+|fr|aucun}}
+* German: (can be omitted); {{q|interrogative or conditional; singular}} {{t+|de|irgendein}}; {{q|interrogative or conditional; plural}} {{t+|de|irgendwelche}}; {{q|negative}} {{t+|de|kein}}, {{t|de|[[überhaupt]] kein}}
+* Greek: {{t+|el|καθένας}}, {{t+|el|όποιος}}
+* Hebrew: {{t+|he|אַף|tr=af|sc=Hebr}}, {{t+|he|שׁוּם|tr=shum|sc=Hebr}}
+{{trans-mid}}
+* Hindi: {{t+|hi|कोई}}, {{t|hi|कोई भी}}
+* Ido: {{t+|io|irga}} {{q|at all}}, {{t+|io|ula}} {{q|some}}
+* Interlingua: {{t|ia|ulle}}
+* Italian: {{t+|it|qualche}}
+* Korean: {{t+|ko|어떤}}
+* Latin: {{t+|la|ullus}}
+* Macedonian: {{t|mk|некаков}}, {{t|mk|никаков}} {{qualifier|with negative}}
+* Maltese: {{t|mt|xi}}, {{t|mt|kwalunkwe}}
+* Maore Comorian: {{qualifier|with a verb in a negative form}} {{t|swb|ata}}
+* Marathi: {{t|mr|कोणतेही}}
+* Ngazidja Comorian: {{qualifier|with a verb in a negative form}} {{t|zdj|hata}}
+* Occitan: {{t+|oc|qualque}}
+* Old English: {{t|ang|ǣniġ}}
+* Old High German: {{t|goh|einag}}
+* Polish: {{t+|pl|jakiś|m}}, {{q|with negative}} {{t+|pl|żaden|m}}
+* Portuguese: {{t+|pt|algum}}
+* Russian: {{t+|ru|како́й-нибудь}}, {{t+|ru|никако́й}} {{qualifier|with negative}}
+* Scots: {{t|sco|onie}}, {{t|sco|ony}}
+* Slovak: {{t|sk|nejaký|m}}
+* Tocharian B: {{t|txb|ksa}}
+* Ukrainian: {{t+|uk|яки́йсь}}, {{t|pl|жо́дний}} {{q|with negative}}
+* Urdu: {{t|ur|کوئی|tr=koī|sc=ur-Arab}}
+* Volapük: {{t+|vo|seimik}}
+=
+{{trans-top|Any things or persons}}
+* Arabic: {{t+|ar|أَيّ}}, {{t|ar|كُلّ}}, {{t|ar|أَيَّة|f}}, {{t|ar|أَيْمَا}}
+* Bulgarian: {{t|bg|кой да е}}, {{t|bg|който и да е}}, {{t|bg|всеки}}, {{t|bg|някой}}, {{t|bg|никой}}
+* Catalan: {{t+|ca|algun}}, {{t+|ca|qualque}}
+* Chinese:
+*: Mandarin: {{t+|cmn|誰|sc=Hani}}, {{t+|cmn|谁|tr=shuí, shéi|sc=Hani}}
+* Czech: {{t+|cs|kdokoliv}} {{gloss|anyone}}, {{t+|cs|cokoliv}} {{gloss|anything}}
+* Dutch: {{t+|nl|elk}}
+* Esperanto: {{t|eo|iu ajn}}, {{t+|eo|ĉiu}}, {{t+|eo|ĉiuj}}
+* Finnish: {{t+|fi|mikä tahansa}}
+* Georgian: {{t|ka|ნებისმიერი}}
+* German: {{t+|de|jeder|m}}
+* Japanese: {{t|ja|どれも|tr=doremo}}, {{t|ja|どれでも|tr=doredemo}}
+* Latin: {{t+|la|ūllus}}
+{{trans-mid}}
+* Low German:
+*: German Low German: {{t|nds-de|jeed}}, {{t|nds-de|elk}}
+* Polish: {{t+|pl|ktokolwiek}}
+* Portuguese: {{t|pt|qualquer um}}
+* Romanian: {{t+|ro|orice}} {{gloss|anything}}, {{t+|ro|oricare}}, {{t+|ro|oricine}} {{gloss|anyone}}
+* Russian: {{t+|ru|любо́й}}, {{t+|ru|вся́кий}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|свак|m}}
+*: Roman: {{t+|sh|svak|m}}
+* Slovak: {{qualifier|anyone}} {{t|sk|ktokoľvek}}, {{qualifier|anything}} {{t|sk|čokoľvek}}
+* Spanish: {{t+|es|alguno|m}}, {{t+|es|alguna|f}}
+* Ukrainian: {{t+|uk|будь-хто́}}
+==
+{{trans-top|flat and level}}
+* Afrikaans: {{t+|af|vlak}}
+* Arabic: {{t|ar|مُسَطَّح}}, {{t|ar|مُنبَسِط}}
+* Armenian: {{t+|hy|հարթ}}, {{t+|hy|հավասար}}
+* Bashkir: {{t|ba|тигеҙ|sc=Cyrl}}
+* Belarusian: {{t|be|ро́ўны}}
+* Bulgarian: {{t+|bg|ра́вен}}
+* Catalan: {{t+|ca|pla}}
+* Chinese:
+*: Mandarin: {{t+|cmn|平坦|tr=píngtǎn}}
+* Czech: {{t+|cs|rovný|m}}
+* Danish: {{t|da|jævn}}
+* Dutch: {{t+|nl|vlak}}, {{t+|nl|vlakke}}, {{t+|nl|gelijk}}, {{t+|nl|gelijke}}
+* Esperanto: {{t|eo|ebena}}
+* Faroese: {{t|fo|javnur}}
+* Finnish: {{t+|fi|tasainen}}
+* French: {{t+|fr|plat}}
+* Friulian: {{t|fur|plan}}, {{t|fur|plac}}
+* German: {{t+|de|eben}}
+* Gothic: {{t|got|𐌹𐌱𐌽𐍃}}
+* Greek: {{t+|el|επίπεδος|m}}
+*: Ancient: {{t|grc|ὁμαλής}}
+* Hungarian: {{t+|hu|egyenletes}}, {{t+|hu|sima}}, {{t+|hu|sík}}
+* Icelandic: {{t+|is|jafn}}
+* Indonesian: {{t+|id|rata}}
+* Italian: {{t+|it|piano}}
+{{trans-mid}}
+* Japanese: {{t+|ja|平|tr=たいら, taira}}
+* Korean: {{t+|ko|고르다}}
+* Latin: {{t|la|plānus}}
+* Macedonian: {{t|mk|рамен}}, {{t|mk|рамномерен}}, {{t|mk|мазен}}
+* Malay: {{t+|ms|rata}}
+* Maori: {{t|mi|papatairite}}, {{t|mi|paparite}}
+* Mongolian: {{t+|mn|тэгш|sc=Cyrl}}
+* Occitan: {{t+|oc|plan}}, {{t|oc|planièr}}, {{t|oc|plat}}
+* Polish: {{t+|pl|równy}}, {{t+|pl|gładki}}, {{t+|pl|płaski}}
+* Portuguese: {{t+|pt|plano}}, {{t+|pt|nivelado}}
+* Romanian: {{t+|ro|plat}}
+* Romansch: {{t|rm|guliv}}, {{t|rm|uliv}}, {{t|rm|anguliv}}, {{t|rm|planiv}}, {{t|rm|plàn}}, {{t|rm|guleiv}}, {{t|rm|gualiv}}
+* Russian: {{t+|ru|ро́вный}}, {{t+|ru|гла́дкий}}, {{t+|ru|пло́ский}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|раван}}
+*: Roman: {{t+|sh|ravan}}
+* Slovak: {{t|sk|rovný}}
+* Spanish: {{t|es|parejo}}, {{t+|es|llano}}
+* Swedish: {{t+|sv|jämn}}, {{t+|sv|flat}}, {{t+|sv|platt}}, {{t+|sv|slät}}, {{t+|sv|plan}}
+* Telugu: {{t+|te|చదునైన}}
+* Ukrainian: {{t|uk|рі́вний}}
+* Venetian: {{t|vec|guałivo}}
+* Vietnamese: {{t+|vi|bằng phẳng}}, {{t+|vi|bằng}}
+==
+{{trans-top|to make even}}
+* Bulgarian: {{t+|bg|изравнявам|sc=Cyrl}}
+* Czech: {{t+|cs|vyrovnat}}
+* Danish: {{t|da|jævne}}
+* Dutch: {{t|nl|evenen}}, {{t+|nl|gelijkmaken}}, {{t|nl|platmaken}}
+* Finnish: {{t+|fi|tasoittaa}}
+* French: {{t+|fr|aplatir}}, {{t+|fr|égaliser}}, {{t+|fr|niveler}}
+* Gothic: {{t|got|𐌲𐌰𐌹𐌱𐌽𐌾𐌰𐌽}}
+* Greek: {{t+|el|ισιώνω|m}}
+* Hungarian: {{t+|hu|kiegyenlít}}, {{t+|hu|egyenget}}, {{t|hu|elegyenget}}, {{t+|hu|kiegyenesít}}, {{t+|hu|kiegyenlít}}
+{{trans-mid}}
+* Italian: {{t+|it|spianare}}
+* Maori: {{t|mi|whakaōrite}}
+* Polish: {{t+|pl|wyrównać}}
+* Portuguese: {{t+|pt|igualar}}, {{t+|pt|nivelar}}, {{t+|pt|padronizar}}, {{t+|pt|uniformizar}}
+* Russian: {{t+|ru|ровня́ть}}, {{t+|ru|выра́внивать}}
+* Spanish: {{t+|es|allanar}}
+* Swedish: {{t+|sv|jämna}}, {{t+|sv|jämna ut}}, {{t+|sv|plana ut}}, {{t+|sv|platta till}}
+* Vietnamese: {{t+|vi|san bằng}}, {{t+|vi|làm bằng}}, {{t|vi|làm phẳng}}
+==
+{{trans-top|exactly, fully}}
+* Afrikaans: {{t+|af|nog}}
+* Bashkir: {{t|ba|теүәл}}
+* Bulgarian: {{t+|bg|ра́вно}}, {{t+|bg|една́кво}}
+* French: {{t+|fr|exactement}}, {{t+|fr|complètement}}
+* Galician: {{t+|gl|mesmo}}
+* Georgian: {{t|ka|-ც}}
+* Greek: {{t+|el|ακριβώς}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|pontosan}}, {{t+|hu|teljesen}}
+* Italian: {{t+|it|esattamente}}, {{t+|it|completamente}}
+* Macedonian: {{t|mk|токму}}, {{t|mk|баш}}
+* Portuguese: {{t+|pt|exatamente}}, {{t+|pt|completamente}}, {{t+|pt|mesmo}}
+* Romanian: {{t+|ro|chiar}}, {{t+|ro|exact}}
+* Russian: {{t+|ru|то́чно}}, {{t+|ru|ро́вно}}, {{t+|ru|как ра́з}}
+==
+{{trans-see|even number|even number}}
+</textarea><div class='editOptions'>
+<div id='wpSummaryLabel' class='mw-summary oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='wpSummary' class='oo-ui-labelElement-label'><a href="/wiki/Help:Edit_summary" title="Help:Edit summary">Edit summary</a>:</label></span><div class='oo-ui-fieldLayout-field'><div id='wpSummaryWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","maxLength":500,"name":"wpSummary","value":"\/* Translations *\/ ","inputId":"wpSummary","tabIndex":1,"title":"Enter a short summary","accessKey":"b","required":false}'><input type='text' tabindex='1' title='Enter a short summary [b]' accesskey='b' name='wpSummary' value='/* Translations */ ' id='wpSummary' maxlength='500' spellcheck='true' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div class='editCheckboxes'><div class='oo-ui-layout oo-ui-horizontalLayout'></div></div>
+<div id="editpage-copywarn">By clicking the “Publish changes” button, you are agreeing to the <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use" class="extiw" title="wmf:Terms of Use">Terms of Use</a> and the <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy Policy</a>, and you irrevocably agree to release your contribution under the <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0 License</a> and the <a rel="nofollow" class="external text" href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.</div><div class='editButtons'>
+<span id='wpSaveWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-flaggedElement-primary oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpSave","inputId":"wpSave","tabIndex":3,"title":"Publish your changes","accessKey":"s","label":"Publish changes","flags":["progressive","primary"]}'><input type='submit' tabindex='3' title='Publish your changes [s]' accesskey='s' name='wpSave' id='wpSave' value='Publish changes' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpPreviewWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpPreview","inputId":"wpPreview","tabIndex":4,"title":"Preview your changes. Please use this before publishing.","accessKey":"p","label":"Show preview"}'><input type='submit' tabindex='4' title='Preview your changes. Please use this before publishing. [p]' accesskey='p' name='wpPreview' id='wpPreview' value='Show preview' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpDiffWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpDiff","inputId":"wpDiff","tabIndex":5,"title":"Show which changes you made to the text","accessKey":"v","label":"Show changes"}'><input type='submit' tabindex='5' title='Show which changes you made to the text [v]' accesskey='v' name='wpDiff' id='wpDiff' value='Show changes' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+	<span class='cancelLink'><span id='mw-editform-cancel' class='oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-destructive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"\/wiki\/even","rel":["nofollow"],"framed":false,"label":{"html":"Cancel"},"flags":["destructive"],"tabIndex":5}'><a role='button' tabindex='5' href='/wiki/even' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-destructive'></span><span class='oo-ui-labelElement-label'>Cancel</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-destructive'></span></a></span></span>
+	<span class='editHelp'><a target="helpwindow" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+<span id="templatesandbox-editform"><input id="wpTemplateSandboxTemplate" type="hidden" value="even" name="wpTemplateSandboxTemplate"/><input id="wpTemplateSandboxPage" type="hidden" name="wpTemplateSandboxPage"/></span>
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken"/>
+<div class="mw-editTools"><div id="editpage-specialchars" class="plainlinks" style="margin-top:1px;border-width:1px;border-style:solid;border-color:#aaaaaa;padding:2px;">
+<p class="specialbasic" id="edittools-Latin/Roman">
+<span title="letters with acute accents"><b>Acute</b>: <span class="charinsert">Á á Ć ć É é ǵ ḱ Í í Ĺ ĺ Ń ń Ó ó Ŕ ŕ Ś ś Ú ú Ẃ ẃ Ý ý Ź ź Ǽ ǽ</span></span> ···
+<span title="grave accents"><b>Grave</b>: <span class="charinsert">À à È è Ì ì Ò ò Ù ù Ẁ ẁ Ỳ ỳ</span></span> ···
+<span title="circumflexes"><b>Circumflex</b>: <span class="charinsert">Â â Ĉ ĉ Ê ê Ĝ ĝ Ĥ ĥ Î î Ĵ ĵ Ô ô Ŝ ŝ Û û Ŵ ŵ Ŷ ŷ</span></span> ···
+<span title="umlauts and diaereses"><b>Umlauts and diaereses</b>: <span class="charinsert">Ä ä Ë ë Ï ï Ö ö Ü ü Ẅ ẅ Ÿ ÿ</span></span> ···
+<span title="tildes"><b>Tilde</b>: <span class="charinsert">Ã ã Ẽ ẽ Ĩ ĩ l̃ m̃ Ñ ñ r̃ Õ õ Ũ ũ Ỹ ỹ</span></span> ···
+<span title="rings above/kroužek diacritics"><b>Ring</b>: <span class="charinsert">Å å Ů ů</span></span> ···
+<span title="cedillas"><b>Cedilla</b>: <span class="charinsert">Ç ç Ģ ģ Ķ ķ Ļ ļ Ņ ņ Ŗ ŗ Ş ş</span></span> ···
+<span title="commas below"><b>Comma below</b>: <span class="charinsert">D̦ d̦ Ș ș Ț ț</span></span> ···
+<span title="ogoneks"><b>Ogonek</b>: <span class="charinsert">Ą ą Ę ę Į į Ǫ ǫ Ų ų</span></span> ··· <span title="hooks"><b>Hook</b>: <span class="charinsert">Ả ả Ẻ ẻ Ỉ ỉ Ỏ ỏ Ủ ủ Ỷ ỷ</span></span> ··· <span title="horns"><b>Horn</b>: <span class="charinsert">Ơ ơ Ư ư</span></span> ··· <span title="letters with carons/háčeks"><b>Caron</b>: <span class="charinsert">Ǎ ǎ Č č Ď ď Ě ě Ǐ ǐ J̌ ǰ Ľ ľ Ň ň Ǒ ǒ Ř ř Š š Ť ť Ǔ ǔ Ž ž Ǯ ǯ</span></span> ···
+<span title="breves"><b>Breve</b>: <span class="charinsert">Ă ă Ĕ ĕ Ğ ğ Ĭ ĭ Ŏ ŏ Ŭ ŭ</span></span> ···
+<span title="strokes"><b>Stroke</b>: <span class="charinsert">Ƀ ƀ Đ đ Ǥ ǥ Ħ ħ Ł ł Ø ø Ŧ ŧ Ʉ ʉ</span></span> ···
+<span title="double acute accents"><b>Double acute</b>: <span class="charinsert">Ő ő Ű ű</span></span> ···
+<span title="macrons"><b>Macron</b>: <span class="charinsert">Ā ā Ē ē Ī ī Ō ō Ū ū Ȳ ȳ Ǣ ǣ</span></span> ···
+<span title="dots above"><b>Dot above</b>: <span class="charinsert">Ḃ ḃ Ċ ċ Ḋ ḋ Ė ė Ḟ ḟ Ġ ġ İ i Ṁ ṁ Ṅ ṅ Ṗ ṗ Ṙ ṙ Ṡ ṡ Ṫ ṫ Ż ż</span></span> ···
+<span title="dots below"><b>Dot below</b>: <span class="charinsert">Ạ ạ Ḍ ḍ Ẹ ẹ Ḥ ḥ Ị ị Ọ ọ Ṛ ṛ Ṣ ṣ Ṭ ṭ Ụ ụ Ỵ ỵ Ẓ ẓ</span></span> ···
+<span title="AE ligatures"><b>Ligatures</b>: <span class="charinsert">Æ æ</span></span> <span title="OE ligatures"><span class="charinsert">Œ œ</span></span> <span title="Eszett (ss/sz ligature)"><span class="charinsert">ẞ ß</span></span> ··· <b>Others</b>: 
+<span class="charinsert"><span title="eth (distinct from D with stroke)">Ð ð</span> <span title="schwa">Ə ə</span> <span title="yogh">Ȝ ȝ</span> <span title="insular g">Ᵹ ᵹ</span> <span title="hwair">Ƕ ƕ</span> <span title="dotless i">ı</span> <span title="eng">Ŋ ŋ</span> <span title="long s">ſ</span> <span title="thorn">Þ þ</span> <span title="wynn">Ƿ ƿ</span> <span title="Hawaiian ʻokina"><b>ʻ</b></span> ··· </span> <b>Double diacritics</b>: <span class="charinsert">Ằ ằ Ẳ ẳ Ẵ ẵ Ắ ắ Ặ ặ Ầ ầ Ẩ ẩ Ẫ ẫ Ấ ấ Ậ ậ ą́ ą̃  č̣ Č̣ Ề ề Ể ể Ễ ễ Ế ế Ệ ệ ḗ Ė̄ ė̄ ę́ ę̃ ė́ ė̃  Ḯ ḯ į́ į̃ Ồ ồ Ổ ổ Ỗ ỗ Ố ố Ǭ ǭ Ộ ộ ṓ Ờ ờ Ở ở Ỡ ỡ Ớ ớ Ợ ợ Ṏ ṏ Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ Ừ ừ Ử ử Ữ ữ Ứ ứ Ự ự ų́ ų̃ ū́ ū̃  ÿ́ </span>
+</p>
+<p class="specialbasic" id="edittools-IPA_and_enPR">
+<b><a href="/wiki/Wiktionary:IPA" class="mw-redirect" title="Wiktionary:IPA">IPA</a></b>: <span class="charinsert">{{IPA||/+/}}</span>
+<b><a href="/wiki/Wiktionary:IPA#Vowels" class="mw-redirect" title="Wiktionary:IPA">Vowels</a></b>: <span class="charinsert" title="IPA vowels">ɨ ʉ ɯ ɪ ʏ ʊ ø ɘ ɵ ɤ ə ɛ œ ɜ ɞ ʌ ɔ æ ɐ ɶ ɑ ɒ ɚ ɝ ã ɑ̃ ə̃ ɛ̃ ɔ̃ œ̃ æ̃ ẽ ĩ õ ũ i̯ y̯ u̯ ɪ̯ ʏ̯ ʊ̯ ɐ̯ e̞ o̞ ø̞ a̯ i̥ u̥ ɯ̥ ᵊ</span> ··· 
+<b><a href="/wiki/Wiktionary:IPA#Suprasegmentals" class="mw-redirect" title="Wiktionary:IPA">Suprasegmentals</a></b>: <span class="charinsert" title="IPA Suprasegmentals">ˈ ˌ ː ˑ ˥ ˦ ˧ ˨ ˩ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ‿ ꜛ ꜜ </span> ···
+<b><a href="/wiki/Wiktionary:IPA#Consonants_(Pulmonic)" class="mw-redirect" title="Wiktionary:IPA">Pulmonic consonants</a></b>: <span class="charinsert" title="IPA pulmonic consonants">b̥ d̥ ɡ̊ l̥ m̥ n̥ r̥ t̪ d̪ n̪ ʈ ɖ ɟ ɢ ʔ ɱ n ɳ ɲ ŋ ɴ ʙ ʀ ɾ ɽ ɸ β ṽ θ ð ʃ ʒ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ɦ ɬ ɮ ʋ ɹ ɻ ɰ ɭ ʎ ʟ ʍ ɥ ʜ ʢ ʡ ɕ ʑ ɺ ɧ ɡ ɫ l̩ m̩ n̩ r̩ ɹ̩ r̥ t͡ʃ d͡ʒ t͡ɕ d͡ʑ t͡s d͡z</span> ···
+<b><a href="/wiki/Wiktionary:IPA#Consonants_(non-pulmonic)" class="mw-redirect" title="Wiktionary:IPA">Non-pulmonic consonants</a></b>: <a href="https://en.wikipedia.org/wiki/Click_consonant" class="extiw" title="w:Click consonant">Clicks</a>: <span class="charinsert" title="IPA non-pulmonic consonants - clicks">ʘ ǀ ǃ ǂ ǁ</span> · <a href="https://en.wikipedia.org/wiki/Implosive_consonant" class="extiw" title="w:Implosive consonant">Implosives</a>: <span class="charinsert" title="IPA non-pulmonic consonants - implosives">ɓ ɗ ʄ ɠ ʛ</span> · <a href="https://en.wikipedia.org/wiki/Ejective_consonant" class="extiw" title="w:Ejective consonant">Ejectives</a>: <span class="charinsert" title="IPA non-pulmonic consonants - ejectives">ʼ</span> ··· <b><a href="/wiki/Wiktionary:IPA#Diacritics" class="mw-redirect" title="Wiktionary:IPA">Diacritics</a></b>: <span class="charinsert">ʰ ʱ ʲ ʷ ˠ ˀ ˤ ˞ ᵝ ᵐ ᶬ ⁿ ᶯ ᶮ ᵑ ᶰ &#160;̰  &#160;̤  &#160;͈ &#160;̯ &#160;̑</span><br />
+<b><a href="/wiki/Appendix:English_pronunciation" title="Appendix:English pronunciation">enPR</a></b>: <span class="charinsert">{{enPR|+}}</span>
+<b><a href="/wiki/Appendix:English_pronunciation#Vowels" title="Appendix:English pronunciation">Vowels</a></b>: <span class="charinsert">ā ă ä â ē ĕ ī ĭ î ō ŏ ô ŭ o͞o</span> (“food”) <span class="charinsert">o͝o</span> (“foot”) <span class="charinsert">û ə</span> ···
+<b>Partially anglicised foreign phonemes</b>: <span class="charinsert">ɴ ʀ ᴋʜ ö ü</span> ···
+<b><a href="/wiki/Appendix:English_pronunciation#Other_symbols" title="Appendix:English pronunciation">Stress markers</a></b>: <span class="charinsert">ʹ '</span>
+</p>
+<p class="specialbasic" id="edittools-Modifiers_and_combining_diacritics">
+<b>Spacing modifiers</b>: <span class="charinsert" style="font-size: x-large;">
+<span title="U+02B9 MODIFIER LETTER PRIME">ʹ</span>
+<span title="U+02BA MODIFIER LETTER DOUBLE PRIME">ʺ</span>
+<span title="U+02BB MODIFIER LETTER TURNED COMMA">ʻ</span>
+<span title="U+02BC MODIFIER LETTER APOSTROPHE">ʼ</span>
+<span title="U+02BD MODIFIER LETTER REVERSED COMMA">ʽ</span>
+<span title="U+02BE MODIFIER LETTER RIGHT HALF RING">ʾ</span>
+<span title="U+02BF MODIFIER LETTER LEFT HALF RING">ʿ</span>
+<span title="U+02C0 MODIFIER LETTER GLOTTAL STOP">ˀ</span>
+<span title="U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP">ˁ</span>
+<span title="U+02C2 MODIFIER LETTER LEFT ARROWHEAD">˂</span>
+<span title="U+02C3 MODIFIER LETTER RIGHT ARROWHEAD">˃</span>
+<span title="U+02C4 MODIFIER LETTER UP ARROWHEAD">˄</span>
+<span title="U+02C5 MODIFIER LETTER DOWN ARROWHEAD">˅</span>
+<span title="U+02C6 MODIFIER LETTER CIRCUMFLEX ACCENT">ˆ</span>
+<span title="U+02C7 CARON">ˇ</span>
+<span title="U+02C8 MODIFIER LETTER VERTICAL LINE">ˈ</span>
+<span title="U+02C9 MODIFIER LETTER MACRON">ˉ</span>
+<span title="U+02D8 BREVE">˘</span>
+<span title="U+02CA MODIFIER LETTER ACUTE ACCENT">ˊ</span>
+<span title="U+02CB MODIFIER LETTER GRAVE ACCENT">ˋ</span>
+<span title="U+02CC MODIFIER LETTER LOW VERTICAL LINE">ˌ</span>
+<span title="U+02CD MODIFIER LETTER LOW MACRON">ˍ</span>
+<span title="U+02CE MODIFIER LETTER LOW GRAVE ACCENT">ˎ</span>
+<span title="U+02CF MODIFIER LETTER LOW ACUTE ACCENT">ˏ</span>
+<span title="U+25CC DOTTED CIRCLE">◌</span>
+</span><br />
+<b>Combining diacritics</b>: <span class="charinsert" style="font-size: x-large;">
+&#x2002;<span title="U+0300 COMBINING GRAVE ACCENT">&#160;̀</span>
+&#x2002;<span title="U+0301 COMBINING ACUTE ACCENT">&#160;́</span>
+&#x2002;<span title="U+0302 COMBINING CIRCUMFLEX ACCENT">&#160;̂</span>
+&#x2002;<span title="U+0303 COMBINING TILDE">&#160;̃</span>
+&#x2002;<span title="U+0304 COMBINING MACRON">&#160;̄</span>
+&#x2002;<span title="U+0305 COMBINING OVERLINE">&#160;̅</span>
+&#x2002;<span title="U+0306 COMBINING BREVE">&#160;̆</span>
+&#x2002;<span title="U+0307 COMBINING DOT ABOVE">&#160;̇</span>
+&#x2002;<span title="U+0308 COMBINING DIAERESIS">&#160;̈</span>
+&#x2002;<span title="U+0309 COMBINING HOOK ABOVE">&#160;̉</span>
+&#x2002;<span title="U+030A COMBINING RING ABOVE">&#160;̊</span>
+&#x2002;<span title="U+030B COMBINING DOUBLE ACUTE ACCENT">&#160;̋</span>
+&#x2002;<span title="U+030C COMBINING CARON">&#160;̌</span>
+&#x2002;<span title="U+030D COMBINING VERTICAL LINE ABOVE">&#160;̍</span>
+&#x2002;<span title="U+030E COMBINING DOUBLE VERTICAL LINE ABOVE">&#160;̎</span>
+&#x2002;<span title="U+030F COMBINING DOUBLE GRAVE ACCENT">&#160;̏</span>
+&#x2002;<span title="U+0310 COMBINING CANDRABINDU">&#160;̐</span>
+&#x2002;<span title="U+0311 COMBINING INVERTED BREVE">&#160;̑</span>
+&#x2002;<span title="U+0312 COMBINING TURNED COMMA ABOVE">&#160;̒</span>
+&#x2002;<span title="U+0313 COMBINING COMMA ABOVE">&#160;̓</span>
+&#x2002;<span title="U+0314 COMBINING REVERSED COMMA ABOVE">&#160;̔</span>
+&#x2002;<span title="U+0315 COMBINING COMMA ABOVE RIGHT">&#160;̕</span>
+&#x2002;<span title="U+0316 COMBINING GRAVE ACCENT BELOW">&#160;̖</span>
+&#x2002;<span title="U+0317 COMBINING ACUTE ACCENT BELOW">&#160;̗</span>
+&#x2002;<span title="U+0318 COMBINING LEFT TACK BELOW">&#160;̘</span>
+&#x2002;<span title="U+0319 COMBINING RIGHT TACK BELOW">&#160;̙</span>
+&#x2002;<span title="U+031A COMBINING LEFT ANGLE ABOVE">&#160;̚</span>
+&#x2002;<span title="U+031B COMBINING HORN">&#160;̛</span>
+&#x2002;<span title="U+031C COMBINING LEFT HALF RING BELOW">&#160;̜</span>
+&#x2002;<span title="U+031D COMBINING UP TACK BELOW">&#160;̝</span>
+&#x2002;<span title="U+031E COMBINING DOWN TACK BELOW">&#160;̞</span>
+&#x2002;<span title="U+031F COMBINING PLUS SIGN BELOW">&#160;̟</span>
+&#x2002;<span title="U+0320 COMBINING MINUS SIGN BELOW">&#160;̠</span>
+&#x2002;<span title="U+0321 COMBINING PALATALIZED HOOK BELOW">&#160;̡</span>
+&#x2002;<span title="U+0322 COMBINING RETROFLEX HOOK BELOW">&#160;̢</span>
+&#x2002;<span title="U+0323 COMBINING DOT BELOW">&#160;̣</span>
+&#x2002;<span title="U+0324 COMBINING DIAERESIS BELOW">&#160;̤</span>
+&#x2002;<span title="U+0325 COMBINING RING BELOW">&#160;̥</span>
+&#x2002;<span title="U+0326 COMBINING COMMA BELOW">&#160;̦</span>
+&#x2002;<span title="U+0327 COMBINING CEDILLA">&#160;̧</span>
+&#x2002;<span title="U+0328 COMBINING OGONEK">&#160;̨</span>
+&#x2002;<span title="U+0329 COMBINING VERTICAL LINE BELOW">&#160;̩</span>
+&#x2002;<span title="U+032A COMBINING BRIDGE BELOW">&#160;̪</span>
+&#x2002;<span title="U+032B COMBINING INVERTED DOUBLE ARCH BELOW">&#160;̫</span>
+&#x2002;<span title="U+032C COMBINING CARON BELOW">&#160;̬</span>
+&#x2002;<span title="U+032D COMBINING CIRCUMFLEX ACCENT BELOW">&#160;̭</span>
+&#x2002;<span title="U+032E COMBINING BREVE BELOW">&#160;̮</span>
+&#x2002;<span title="U+032F COMBINING INVERTED BREVE BELOW">&#160;̯</span>
+&#x2002;<span title="U+0330 COMBINING TILDE BELOW">&#160;̰</span>
+&#x2002;<span title="U+0331 COMBINING MACRON BELOW">&#160;̱</span>
+&#x2002;<span title="U+0332 COMBINING LOW LINE">&#160;̲</span>
+&#x2002;<span title="U+0333 COMBINING DOUBLE LOW LINE">&#160;̳</span>
+&#x2002;</span>
+</p>
+<p class="specialbasic" id="edittools-Miscellaneous">
+<b>Wiki markup</b>: <span class="charinsert">[[+]] {{+}} # &lt;+&gt; ~ |</span> ···
+<b>Quotation marks</b>: <b><span class="charinsert">“+” ‘+’ ‘ ’ ‛ „+“ ‚+‘ «+» ‹+› ⟨+⟩</span></b> ···
+<b>Other punctuation</b>: <span class="charinsert">
+<span title="ellipsis">…</span> <span title="middle dot">·</span>
+<span title="non-breaking hyphen">‑</span> <span title="en dash">–</span> <span title="em dash">—</span> <span title="quotation dash">―</span> <span title="double oblique hyphen">⸗</span>
+<span title="inverted question mark">¿</span>
+<span title="inverted exclamation mark">¡</span>
+<span title="interrobang">‽</span></span>
+<b>Mathematical symbols</b>:
+<span class="charinsert"><span title="plus-minus sign">±</span>
+<span title="minus sign">−</span>
+<span title="multiplication sign">×</span>
+<span title="division sign">÷</span>
+<span title="degree sign">°</span>
+<span title="approximately equals">≈</span>
+<span title="not equal to">≠</span>
+<span title="empty set, nothing">∅</span></span>
+<b>Superscripts and subscripts</b>:
+<span class="charinsert">
+<span title="superscripts">⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹</span>
+<span title="subscripts">₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉</span>
+</span>
+<b>Other symbols</b>:
+<span class="charinsert"><span title="ordinal indicators">ª º</span>
+<span title="pilcrow/paragraph sign">¶</span>
+<span title="section sign">§</span>
+<span title="single and double daggers">† ‡</span>
+<span title="numero sign">№</span>
+<span title="Tironian et">⁊</span>
+<span title="checkmark">✔</span>
+<span title="left arrows">← ⇐</span>
+<span title="right arrows">→ ⇒</span>
+<span title="therefore">∴</span>
+<span title="because">∵</span>
+<span title="prime">′</span>
+<span title="double prime">″</span>
+<span title="ditto mark">〃</span>
+<span title="female sign">♀</span>
+<span title="male sign">♂</span></span>
+</p>
+<p class="speciallang mw-editfont-monospace" id="edittools-Templates_and_Headers" style="display: none;">
+<span class="charinsert">{{en-noun}} {{en-adj}} {{en-verb}} {{en-adv}} {{en-proper&#160;noun}} {{plural&#160;of|+}} {{present&#160;participle&#160;of|+}} {{comparative&#160;of|+}} {{superlative&#160;of|+}} {{misspelling&#160;of|+}} {{inflection&#160;of|+}} {{alternative&#160;form&#160;of|+}} {{alternative&#160;spelling&#160;of|+}} {{trans-top|+}} {{trans-mid}} ==
+{{trans-top|Evening of the day}}
+* Afrikaans: {{t+|af|aand}}
+* Bulgarian: {{t+|bg|вечер|f|sc=Cyrl}}
+* Czech: {{t+|cs|večer|m}}
+* Dutch: {{t|nl|avondstond|m}}
+* Finnish: {{t+|fi|ilta}}
+* French: {{t+|fr|veillée|f}}, {{t|fr|veillée du soir|f}}
+* Hebrew: {{t+|he|ערב|m|tr=érev|sc=Hebr}}
+{{trans-mid}}
+* Italian: {{t+|it|sera}}
+* Latin: {{t|la|vesper|m}}
+* Polish: {{t+|pl|poranek}}
+* Russian: {{t+|ru|ве́чер|m}}
+* Spanish: {{t+|es|tarde|f}}
+* Swedish: {{t+|sv|kväll|c}}, {{t+|sv|afton|c}}
+* Vietnamese: {{t+|vi|chiều}}
+==
+{{trans-top|factually fair, correct}}
+* Bashkir: {{t|ba|дөрөҫ}}
+* Bulgarian: {{t+|bg|верен}}, {{t+|bg|точен}}
+* Catalan: {{t+|ca|just}}
+* Chinese:
+*: Mandarin: {{t+|cmn|準確|sc=Hani}}, {{t+|cmn|准确|tr=zhǔnquè|sc=Hani}}
+* Czech: {{t+|cs|správný}}
+* Dutch: {{t+|nl|juist}}, {{t+|nl|rechtmatig}}, {{t+|nl|billijk}}, {{t+|nl|eerlijk}}, {{t+|nl|correct}}
+* Finnish: {{t+|fi|oikea}}
+* Friulian: {{t|fur|just}}
+* Galician: {{t+|gl|xusto|m}}
+* Georgian: {{t|ka|მართალი}}, {{t|ka|სწორი}}, {{t|ka|სამართლიანი}}
+* German: {{t+|de|angemessen}}
+{{trans-mid}}
+* Greek: {{t+|el|δίκαιος}}
+*: Ancient: {{t|grc|δίκαιος}}
+* Hebrew: {{t|he|מדויק|tr=meduják}}, {{t+|he|נכון|tr=nakhón}}
+* Hungarian: {{t+|hu|helyes}}, {{t+|hu|helytálló}}
+* Latin: {{t+|la|iūstus}}
+* Macedonian: {{t|mk|исправен}}
+* Maori: {{t|mi|heipū}}
+* Norwegian: {{t+|no|riktig}}
+* Polish: {{t+|pl|dokładny|m}}
+* Portuguese: {{t+|pt|justo}}
+* Russian: {{t+|ru|пра́вильный}}, {{t+|ru|безоши́бочный}}, {{t+|ru|ве́рный}}, {{t+|ru|то́чный}}, (''rare'') {{t+|ru|справедли́вый}}
+* Spanish: {{t+|es|justo}}
+* Vietnamese: {{t+|vi|chính xác}}, {{t+|vi|đúng}}, {{t+|vi|đúng đắn}}
+==
+{{trans-top|only, simply, merely}}
+* Albanian: {{t+|sq|vetëm}}
+* Arabic: {{t+|ar|فَقَط}}
+* Armenian: {{t+|hy|ուղղակի}}
+* Azerbaijani: {{t+|az|sadəcə}}, {{t|az|təkcə}}
+* Bulgarian: {{t+|bg|само}}
+* Burmese: {{t-needed|my}}
+* Catalan: {{t+|ca|simplement}}, {{t+|ca|només}}, {{t+|ca|sols}}
+* Chickasaw: {{t|cic|illa}}, {{t|cic|pilla}}
+* Chinese:
+*: Mandarin: {{t+|cmn|就|tr=jiù|sc=Hani}}, {{t+|cmn|只是|tr=zhǐshì|sc=Hani}}
+* Czech: {{t+|cs|pouze}}
+* Danish: {{t|da|bare}}, {{t|da|blot}}, {{t+|da|kun}}, {{t+|da|lige}}
+* Dutch: {{t+|nl|slechts}}, {{t+|nl|enkel}}, {{t+|nl|net}}, {{t+|nl|gewoon}}, {{t+|nl|maar}}
+* Esperanto: {{t+|eo|nur}}
+* Estonian: {{t|et|kõigest}}
+* Finnish: {{t+|fi|vain}}, {{t+|fi|ainoastaan}}, {{t+|fi|pelkästään}}
+* French: {{t+|fr|juste}}, {{t+|fr|simplement}}
+* Friulian: {{t|fur|juste}}
+* Georgian: {{t|ka|მხოლოდ}}, {{t|ka|უბრალოდ}}
+* German: {{t+|de|nur}}, {{t+|de|einfach}}, {{t+|de|bloß}}
+* Greek: {{t+|el|μόνο}}, {{t+|el|απλώς}}
+*: Ancient: {{t|grc|μόνον}}
+* Hebrew: {{t+|he|רק|tr=rak}}
+* Hindi: {{t|hi|ज़रा}}
+* Hungarian: {{t+|hu|csak}}
+* Icelandic: {{t+|is|bara}}
+* Ido: {{t+|io|jus}}
+* Istriot: {{t|ist|sulo}}
+* Italian: {{t+|it|solo}}
+* Japanese: {{t+|ja|只|tr=[[ただ]], tada|sc=Jpan}}, {{t+|ja|ただ|tr=tada|sc=Jpan}}, {{t|ja|に過ぎない|tr=... にすぎない, ni suginai}}
+* Khmer: {{t+|km|តែ}}
+* Lao: {{t-needed|lo}}
+{{trans-mid}}
+* Latgalian: {{t|ltg|tik}}, {{t|ltg|viņ}}, {{t|ltg|tikai}}
+* Latin: {{t+|la|modo}}, {{t+|la|sōlum}}
+* Latvian: {{t|lv|tikai}}
+* Low German: {{t+|nds|blot}}, {{t|nds|blots}}, {{t+|nds|man}}
+* Macedonian: {{t|mk|само}}
+* Malay:
+*: Jawi: {{t|ms|هاڽ|sc=Arab}}, {{t|ms|چوما|sc=Arab}}
+*: Rumi: {{t|ms|hanya}}, {{t|ms|cuma}}
+* Maori: {{t|mi|kātahi}}
+* Navajo: {{t|nv|tʼóó}}
+* Norwegian:
+*: Bokmål: {{t+|nb|bare}}, {{t+|nb|kun}}
+*: Nynorsk: {{t|nn|berre}}
+* Ojibwe: {{t|oj|eta}}
+* Plautdietsch: {{t|pdt|blooss}}
+* Polish: {{t+|pl|tylko}}, {{t+|pl|po prostu}}
+* Portuguese: {{t+|pt|só}}, {{t+|pt|somente}}, {{t+|pt|simplesmente}}, {{t+|pt|apenas}}
+* Romanian: {{t+|ro|doar}}, {{t+|ro|numai}}
+* Russian: {{t+|ru|то́лько}}, {{t+|ru|лишь}}, {{t+|ru|про́сто}}, {{t+|ru|всего́ лишь}}
+* Scots: {{t|sco|juist}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|само}}
+*: Roman: {{t+|sh|samo}}
+* Slovene: {{t+|sl|samó}}, {{t+|sl|lè}}, {{t|sl|zgòlj}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|jano}}
+* Spanish: {{t+|es|sólo}}
+* Swedish: {{t+|sv|bara}}
+* Thai: {{t-needed|th}}
+* Turkish: {{t+|tr|sadece}}, {{t+|tr|yalnızca}}
+* Urdu: {{t|ur|ذرا|tr=zarā|sc=ur-Arab}}
+* Vietnamese: {{t+|vi|chỉ}}
+* ǃXóõ: {{t|nmn|ǁʻáa}}
+==
+{{trans-see|to fight a tournament|joust}}
+</textarea><div class='editOptions'>
+<div id='wpSummaryLabel' class='mw-summary oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='wpSummary' class='oo-ui-labelElement-label'><a href="/wiki/Help:Edit_summary" title="Help:Edit summary">Edit summary</a>:</label></span><div class='oo-ui-fieldLayout-field'><div id='wpSummaryWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","maxLength":500,"name":"wpSummary","value":"\/* Translations *\/ ","inputId":"wpSummary","tabIndex":1,"title":"Enter a short summary","accessKey":"b","required":false}'><input type='text' tabindex='1' title='Enter a short summary [b]' accesskey='b' name='wpSummary' value='/* Translations */ ' id='wpSummary' maxlength='500' spellcheck='true' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div class='editCheckboxes'><div class='oo-ui-layout oo-ui-horizontalLayout'></div></div>
+<div id="editpage-copywarn">By clicking the “Publish changes” button, you are agreeing to the <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use" class="extiw" title="wmf:Terms of Use">Terms of Use</a> and the <a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy Policy</a>, and you irrevocably agree to release your contribution under the <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0 License</a> and the <a rel="nofollow" class="external text" href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.</div><div class='editButtons'>
+<span id='wpSaveWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-flaggedElement-primary oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpSave","inputId":"wpSave","tabIndex":3,"title":"Publish your changes","accessKey":"s","label":"Publish changes","flags":["progressive","primary"]}'><input type='submit' tabindex='3' title='Publish your changes [s]' accesskey='s' name='wpSave' id='wpSave' value='Publish changes' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpPreviewWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpPreview","inputId":"wpPreview","tabIndex":4,"title":"Preview your changes. Please use this before publishing.","accessKey":"p","label":"Show preview"}'><input type='submit' tabindex='4' title='Preview your changes. Please use this before publishing. [p]' accesskey='p' name='wpPreview' id='wpPreview' value='Show preview' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpDiffWidget' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpDiff","inputId":"wpDiff","tabIndex":5,"title":"Show which changes you made to the text","accessKey":"v","label":"Show changes"}'><input type='submit' tabindex='5' title='Show which changes you made to the text [v]' accesskey='v' name='wpDiff' id='wpDiff' value='Show changes' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+	<span class='cancelLink'><span id='mw-editform-cancel' class='oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-destructive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"\/wiki\/just","rel":["nofollow"],"framed":false,"label":{"html":"Cancel"},"flags":["destructive"],"tabIndex":5}'><a role='button' tabindex='5' href='/wiki/just' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-destructive'></span><span class='oo-ui-labelElement-label'>Cancel</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-destructive'></span></a></span></span>
+	<span class='editHelp'><a target="helpwindow" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+<span id="templatesandbox-editform"><input id="wpTemplateSandboxTemplate" type="hidden" value="just" name="wpTemplateSandboxTemplate"/><input id="wpTemplateSandboxPage" type="hidden" name="wpTemplateSandboxPage"/></span>
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken"/>
+<div class="mw-editTools"><div id="editpage-specialchars" class="plainlinks" style="margin-top:1px;border-width:1px;border-style:solid;border-color:#aaaaaa;padding:2px;">
+<p class="specialbasic" id="edittools-Latin/Roman">
+<span title="letters with acute accents"><b>Acute</b>: <span class="charinsert">Á á Ć ć É é ǵ ḱ Í í Ĺ ĺ Ń ń Ó ó Ŕ ŕ Ś ś Ú ú Ẃ ẃ Ý ý Ź ź Ǽ ǽ</span></span> ···
+<span title="grave accents"><b>Grave</b>: <span class="charinsert">À à È è Ì ì Ò ò Ù ù Ẁ ẁ Ỳ ỳ</span></span> ···
+<span title="circumflexes"><b>Circumflex</b>: <span class="charinsert">Â â Ĉ ĉ Ê ê Ĝ ĝ Ĥ ĥ Î î Ĵ ĵ Ô ô Ŝ ŝ Û û Ŵ ŵ Ŷ ŷ</span></span> ···
+<span title="umlauts and diaereses"><b>Umlauts and diaereses</b>: <span class="charinsert">Ä ä Ë ë Ï ï Ö ö Ü ü Ẅ ẅ Ÿ ÿ</span></span> ···
+<span title="tildes"><b>Tilde</b>: <span class="charinsert">Ã ã Ẽ ẽ Ĩ ĩ l̃ m̃ Ñ ñ r̃ Õ õ Ũ ũ Ỹ ỹ</span></span> ···
+<span title="rings above/kroužek diacritics"><b>Ring</b>: <span class="charinsert">Å å Ů ů</span></span> ···
+<span title="cedillas"><b>Cedilla</b>: <span class="charinsert">Ç ç Ģ ģ Ķ ķ Ļ ļ Ņ ņ Ŗ ŗ Ş ş</span></span> ···
+<span title="commas below"><b>Comma below</b>: <span class="charinsert">D̦ d̦ Ș ș Ț ț</span></span> ···
+<span title="ogoneks"><b>Ogonek</b>: <span class="charinsert">Ą ą Ę ę Į į Ǫ ǫ Ų ų</span></span> ··· <span title="hooks"><b>Hook</b>: <span class="charinsert">Ả ả Ẻ ẻ Ỉ ỉ Ỏ ỏ Ủ ủ Ỷ ỷ</span></span> ··· <span title="horns"><b>Horn</b>: <span class="charinsert">Ơ ơ Ư ư</span></span> ··· <span title="letters with carons/háčeks"><b>Caron</b>: <span class="charinsert">Ǎ ǎ Č č Ď ď Ě ě Ǐ ǐ J̌ ǰ Ľ ľ Ň ň Ǒ ǒ Ř ř Š š Ť ť Ǔ ǔ Ž ž Ǯ ǯ</span></span> ···
+<span title="breves"><b>Breve</b>: <span class="charinsert">Ă ă Ĕ ĕ Ğ ğ Ĭ ĭ Ŏ ŏ Ŭ ŭ</span></span> ···
+<span title="strokes"><b>Stroke</b>: <span class="charinsert">Ƀ ƀ Đ đ Ǥ ǥ Ħ ħ Ł ł Ø ø Ŧ ŧ Ʉ ʉ</span></span> ···
+<span title="double acute accents"><b>Double acute</b>: <span class="charinsert">Ő ő Ű ű</span></span> ···
+<span title="macrons"><b>Macron</b>: <span class="charinsert">Ā ā Ē ē Ī ī Ō ō Ū ū Ȳ ȳ Ǣ ǣ</span></span> ···
+<span title="dots above"><b>Dot above</b>: <span class="charinsert">Ḃ ḃ Ċ ċ Ḋ ḋ Ė ė Ḟ ḟ Ġ ġ İ i Ṁ ṁ Ṅ ṅ Ṗ ṗ Ṙ ṙ Ṡ ṡ Ṫ ṫ Ż ż</span></span> ···
+<span title="dots below"><b>Dot below</b>: <span class="charinsert">Ạ ạ Ḍ ḍ Ẹ ẹ Ḥ ḥ Ị ị Ọ ọ Ṛ ṛ Ṣ ṣ Ṭ ṭ Ụ ụ Ỵ ỵ Ẓ ẓ</span></span> ···
+<span title="AE ligatures"><b>Ligatures</b>: <span class="charinsert">Æ æ</span></span> <span title="OE ligatures"><span class="charinsert">Œ œ</span></span> <span title="Eszett (ss/sz ligature)"><span class="charinsert">ẞ ß</span></span> ··· <b>Others</b>: 
+<span class="charinsert"><span title="eth (distinct from D with stroke)">Ð ð</span> <span title="schwa">Ə ə</span> <span title="yogh">Ȝ ȝ</span> <span title="insular g">Ᵹ ᵹ</span> <span title="hwair">Ƕ ƕ</span> <span title="dotless i">ı</span> <span title="eng">Ŋ ŋ</span> <span title="long s">ſ</span> <span title="thorn">Þ þ</span> <span title="wynn">Ƿ ƿ</span> <span title="Hawaiian ʻokina"><b>ʻ</b></span> ··· </span> <b>Double diacritics</b>: <span class="charinsert">Ằ ằ Ẳ ẳ Ẵ ẵ Ắ ắ Ặ ặ Ầ ầ Ẩ ẩ Ẫ ẫ Ấ ấ Ậ ậ ą́ ą̃  č̣ Č̣ Ề ề Ể ể Ễ ễ Ế ế Ệ ệ ḗ Ė̄ ė̄ ę́ ę̃ ė́ ė̃  Ḯ ḯ į́ į̃ Ồ ồ Ổ ổ Ỗ ỗ Ố ố Ǭ ǭ Ộ ộ ṓ Ờ ờ Ở ở Ỡ ỡ Ớ ớ Ợ ợ Ṏ ṏ Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ Ừ ừ Ử ử Ữ ữ Ứ ứ Ự ự ų́ ų̃ ū́ ū̃  ÿ́ </span>
+</p>
+<p class="specialbasic" id="edittools-IPA_and_enPR">
+<b><a href="/wiki/Wiktionary:IPA" class="mw-redirect" title="Wiktionary:IPA">IPA</a></b>: <span class="charinsert">{{IPA||/+/}}</span>
+<b><a href="/wiki/Wiktionary:IPA#Vowels" class="mw-redirect" title="Wiktionary:IPA">Vowels</a></b>: <span class="charinsert" title="IPA vowels">ɨ ʉ ɯ ɪ ʏ ʊ ø ɘ ɵ ɤ ə ɛ œ ɜ ɞ ʌ ɔ æ ɐ ɶ ɑ ɒ ɚ ɝ ã ɑ̃ ə̃ ɛ̃ ɔ̃ œ̃ æ̃ ẽ ĩ õ ũ i̯ y̯ u̯ ɪ̯ ʏ̯ ʊ̯ ɐ̯ e̞ o̞ ø̞ a̯ i̥ u̥ ɯ̥ ᵊ</span> ··· 
+<b><a href="/wiki/Wiktionary:IPA#Suprasegmentals" class="mw-redirect" title="Wiktionary:IPA">Suprasegmentals</a></b>: <span class="charinsert" title="IPA Suprasegmentals">ˈ ˌ ː ˑ ˥ ˦ ˧ ˨ ˩ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ‿ ꜛ ꜜ </span> ···
+<b><a href="/wiki/Wiktionary:IPA#Consonants_(Pulmonic)" class="mw-redirect" title="Wiktionary:IPA">Pulmonic consonants</a></b>: <span class="charinsert" title="IPA pulmonic consonants">b̥ d̥ ɡ̊ l̥ m̥ n̥ r̥ t̪ d̪ n̪ ʈ ɖ ɟ ɢ ʔ ɱ n ɳ ɲ ŋ ɴ ʙ ʀ ɾ ɽ ɸ β ṽ θ ð ʃ ʒ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ɦ ɬ ɮ ʋ ɹ ɻ ɰ ɭ ʎ ʟ ʍ ɥ ʜ ʢ ʡ ɕ ʑ ɺ ɧ ɡ ɫ l̩ m̩ n̩ r̩ ɹ̩ r̥ t͡ʃ d͡ʒ t͡ɕ d͡ʑ t͡s d͡z</span> ···
+<b><a href="/wiki/Wiktionary:IPA#Consonants_(non-pulmonic)" class="mw-redirect" title="Wiktionary:IPA">Non-pulmonic consonants</a></b>: <a href="https://en.wikipedia.org/wiki/Click_consonant" class="extiw" title="w:Click consonant">Clicks</a>: <span class="charinsert" title="IPA non-pulmonic consonants - clicks">ʘ ǀ ǃ ǂ ǁ</span> · <a href="https://en.wikipedia.org/wiki/Implosive_consonant" class="extiw" title="w:Implosive consonant">Implosives</a>: <span class="charinsert" title="IPA non-pulmonic consonants - implosives">ɓ ɗ ʄ ɠ ʛ</span> · <a href="https://en.wikipedia.org/wiki/Ejective_consonant" class="extiw" title="w:Ejective consonant">Ejectives</a>: <span class="charinsert" title="IPA non-pulmonic consonants - ejectives">ʼ</span> ··· <b><a href="/wiki/Wiktionary:IPA#Diacritics" class="mw-redirect" title="Wiktionary:IPA">Diacritics</a></b>: <span class="charinsert">ʰ ʱ ʲ ʷ ˠ ˀ ˤ ˞ ᵝ ᵐ ᶬ ⁿ ᶯ ᶮ ᵑ ᶰ &#160;̰  &#160;̤  &#160;͈ &#160;̯ &#160;̑</span><br />
+<b><a href="/wiki/Appendix:English_pronunciation" title="Appendix:English pronunciation">enPR</a></b>: <span class="charinsert">{{enPR|+}}</span>
+<b><a href="/wiki/Appendix:English_pronunciation#Vowels" title="Appendix:English pronunciation">Vowels</a></b>: <span class="charinsert">ā ă ä â ē ĕ ī ĭ î ō ŏ ô ŭ o͞o</span> (“food”) <span class="charinsert">o͝o</span> (“foot”) <span class="charinsert">û ə</span> ···
+<b>Partially anglicised foreign phonemes</b>: <span class="charinsert">ɴ ʀ ᴋʜ ö ü</span> ···
+<b><a href="/wiki/Appendix:English_pronunciation#Other_symbols" title="Appendix:English pronunciation">Stress markers</a></b>: <span class="charinsert">ʹ '</span>
+</p>
+<p class="specialbasic" id="edittools-Modifiers_and_combining_diacritics">
+<b>Spacing modifiers</b>: <span class="charinsert" style="font-size: x-large;">
+<span title="U+02B9 MODIFIER LETTER PRIME">ʹ</span>
+<span title="U+02BA MODIFIER LETTER DOUBLE PRIME">ʺ</span>
+<span title="U+02BB MODIFIER LETTER TURNED COMMA">ʻ</span>
+<span title="U+02BC MODIFIER LETTER APOSTROPHE">ʼ</span>
+<span title="U+02BD MODIFIER LETTER REVERSED COMMA">ʽ</span>
+<span title="U+02BE MODIFIER LETTER RIGHT HALF RING">ʾ</span>
+<span title="U+02BF MODIFIER LETTER LEFT HALF RING">ʿ</span>
+<span title="U+02C0 MODIFIER LETTER GLOTTAL STOP">ˀ</span>
+<span title="U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP">ˁ</span>
+<span title="U+02C2 MODIFIER LETTER LEFT ARROWHEAD">˂</span>
+<span title="U+02C3 MODIFIER LETTER RIGHT ARROWHEAD">˃</span>
+<span title="U+02C4 MODIFIER LETTER UP ARROWHEAD">˄</span>
+<span title="U+02C5 MODIFIER LETTER DOWN ARROWHEAD">˅</span>
+<span title="U+02C6 MODIFIER LETTER CIRCUMFLEX ACCENT">ˆ</span>
+<span title="U+02C7 CARON">ˇ</span>
+<span title="U+02C8 MODIFIER LETTER VERTICAL LINE">ˈ</span>
+<span title="U+02C9 MODIFIER LETTER MACRON">ˉ</span>
+<span title="U+02D8 BREVE">˘</span>
+<span title="U+02CA MODIFIER LETTER ACUTE ACCENT">ˊ</span>
+<span title="U+02CB MODIFIER LETTER GRAVE ACCENT">ˋ</span>
+<span title="U+02CC MODIFIER LETTER LOW VERTICAL LINE">ˌ</span>
+<span title="U+02CD MODIFIER LETTER LOW MACRON">ˍ</span>
+<span title="U+02CE MODIFIER LETTER LOW GRAVE ACCENT">ˎ</span>
+<span title="U+02CF MODIFIER LETTER LOW ACUTE ACCENT">ˏ</span>
+<span title="U+25CC DOTTED CIRCLE">◌</span>
+</span><br />
+<b>Combining diacritics</b>: <span class="charinsert" style="font-size: x-large;">
+&#x2002;<span title="U+0300 COMBINING GRAVE ACCENT">&#160;̀</span>
+&#x2002;<span title="U+0301 COMBINING ACUTE ACCENT">&#160;́</span>
+&#x2002;<span title="U+0302 COMBINING CIRCUMFLEX ACCENT">&#160;̂</span>
+&#x2002;<span title="U+0303 COMBINING TILDE">&#160;̃</span>
+&#x2002;<span title="U+0304 COMBINING MACRON">&#160;̄</span>
+&#x2002;<span title="U+0305 COMBINING OVERLINE">&#160;̅</span>
+&#x2002;<span title="U+0306 COMBINING BREVE">&#160;̆</span>
+&#x2002;<span title="U+0307 COMBINING DOT ABOVE">&#160;̇</span>
+&#x2002;<span title="U+0308 COMBINING DIAERESIS">&#160;̈</span>
+&#x2002;<span title="U+0309 COMBINING HOOK ABOVE">&#160;̉</span>
+&#x2002;<span title="U+030A COMBINING RING ABOVE">&#160;̊</span>
+&#x2002;<span title="U+030B COMBINING DOUBLE ACUTE ACCENT">&#160;̋</span>
+&#x2002;<span title="U+030C COMBINING CARON">&#160;̌</span>
+&#x2002;<span title="U+030D COMBINING VERTICAL LINE ABOVE">&#160;̍</span>
+&#x2002;<span title="U+030E COMBINING DOUBLE VERTICAL LINE ABOVE">&#160;̎</span>
+&#x2002;<span title="U+030F COMBINING DOUBLE GRAVE ACCENT">&#160;̏</span>
+&#x2002;<span title="U+0310 COMBINING CANDRABINDU">&#160;̐</span>
+&#x2002;<span title="U+0311 COMBINING INVERTED BREVE">&#160;̑</span>
+&#x2002;<span title="U+0312 COMBINING TURNED COMMA ABOVE">&#160;̒</span>
+&#x2002;<span title="U+0313 COMBINING COMMA ABOVE">&#160;̓</span>
+&#x2002;<span title="U+0314 COMBINING REVERSED COMMA ABOVE">&#160;̔</span>
+&#x2002;<span title="U+0315 COMBINING COMMA ABOVE RIGHT">&#160;̕</span>
+&#x2002;<span title="U+0316 COMBINING GRAVE ACCENT BELOW">&#160;̖</span>
+&#x2002;<span title="U+0317 COMBINING ACUTE ACCENT BELOW">&#160;̗</span>
+&#x2002;<span title="U+0318 COMBINING LEFT TACK BELOW">&#160;̘</span>
+&#x2002;<span title="U+0319 COMBINING RIGHT TACK BELOW">&#160;̙</span>
+&#x2002;<span title="U+031A COMBINING LEFT ANGLE ABOVE">&#160;̚</span>
+&#x2002;<span title="U+031B COMBINING HORN">&#160;̛</span>
+&#x2002;<span title="U+031C COMBINING LEFT HALF RING BELOW">&#160;̜</span>
+&#x2002;<span title="U+031D COMBINING UP TACK BELOW">&#160;̝</span>
+&#x2002;<span title="U+031E COMBINING DOWN TACK BELOW">&#160;̞</span>
+&#x2002;<span title="U+031F COMBINING PLUS SIGN BELOW">&#160;̟</span>
+&#x2002;<span title="U+0320 COMBINING MINUS SIGN BELOW">&#160;̠</span>
+&#x2002;<span title="U+0321 COMBINING PALATALIZED HOOK BELOW">&#160;̡</span>
+&#x2002;<span title="U+0322 COMBINING RETROFLEX HOOK BELOW">&#160;̢</span>
+&#x2002;<span title="U+0323 COMBINING DOT BELOW">&#160;̣</span>
+&#x2002;<span title="U+0324 COMBINING DIAERESIS BELOW">&#160;̤</span>
+&#x2002;<span title="U+0325 COMBINING RING BELOW">&#160;̥</span>
+&#x2002;<span title="U+0326 COMBINING COMMA BELOW">&#160;̦</span>
+&#x2002;<span title="U+0327 COMBINING CEDILLA">&#160;̧</span>
+&#x2002;<span title="U+0328 COMBINING OGONEK">&#160;̨</span>
+&#x2002;<span title="U+0329 COMBINING VERTICAL LINE BELOW">&#160;̩</span>
+&#x2002;<span title="U+032A COMBINING BRIDGE BELOW">&#160;̪</span>
+&#x2002;<span title="U+032B COMBINING INVERTED DOUBLE ARCH BELOW">&#160;̫</span>
+&#x2002;<span title="U+032C COMBINING CARON BELOW">&#160;̬</span>
+&#x2002;<span title="U+032D COMBINING CIRCUMFLEX ACCENT BELOW">&#160;̭</span>
+&#x2002;<span title="U+032E COMBINING BREVE BELOW">&#160;̮</span>
+&#x2002;<span title="U+032F COMBINING INVERTED BREVE BELOW">&#160;̯</span>
+&#x2002;<span title="U+0330 COMBINING TILDE BELOW">&#160;̰</span>
+&#x2002;<span title="U+0331 COMBINING MACRON BELOW">&#160;̱</span>
+&#x2002;<span title="U+0332 COMBINING LOW LINE">&#160;̲</span>
+&#x2002;<span title="U+0333 COMBINING DOUBLE LOW LINE">&#160;̳</span>
+&#x2002;</span>
+</p>
+<p class="specialbasic" id="edittools-Miscellaneous">
+<b>Wiki markup</b>: <span class="charinsert">[[+]] {{+}} # &lt;+&gt; ~ |</span> ···
+<b>Quotation marks</b>: <b><span class="charinsert">“+” ‘+’ ‘ ’ ‛ „+“ ‚+‘ «+» ‹+› ⟨+⟩</span></b> ···
+<b>Other punctuation</b>: <span class="charinsert">
+<span title="ellipsis">…</span> <span title="middle dot">·</span>
+<span title="non-breaking hyphen">‑</span> <span title="en dash">–</span> <span title="em dash">—</span> <span title="quotation dash">―</span> <span title="double oblique hyphen">⸗</span>
+<span title="inverted question mark">¿</span>
+<span title="inverted exclamation mark">¡</span>
+<span title="interrobang">‽</span></span>
+<b>Mathematical symbols</b>:
+<span class="charinsert"><span title="plus-minus sign">±</span>
+<span title="minus sign">−</span>
+<span title="multiplication sign">×</span>
+<span title="division sign">÷</span>
+<span title="degree sign">°</span>
+<span title="approximately equals">≈</span>
+<span title="not equal to">≠</span>
+<span title="empty set, nothing">∅</span></span>
+<b>Superscripts and subscripts</b>:
+<span class="charinsert">
+<span title="superscripts">⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹</span>
+<span title="subscripts">₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉</span>
+</span>
+<b>Other symbols</b>:
+<span class="charinsert"><span title="ordinal indicators">ª º</span>
+<span title="pilcrow/paragraph sign">¶</span>
+<span title="section sign">§</span>
+<span title="single and double daggers">† ‡</span>
+<span title="numero sign">№</span>
+<span title="Tironian et">⁊</span>
+<span title="checkmark">✔</span>
+<span title="left arrows">← ⇐</span>
+<span title="right arrows">→ ⇒</span>
+<span title="therefore">∴</span>
+<span title="because">∵</span>
+<span title="prime">′</span>
+<span title="double prime">″</span>
+<span title="ditto mark">〃</span>
+<span title="female sign">♀</span>
+<span title="male sign">♂</span></span>
+</p>
+<p class="speciallang mw-editfont-monospace" id="edittools-Templates_and_Headers" style="display: none;">
+<span class="charinsert">{{en-noun}} {{en-adj}} {{en-verb}} {{en-adv}} {{en-proper&#160;noun}} {{plural&#160;of|+}} {{present&#160;participle&#160;of|+}} {{comparative&#160;of|+}} {{superlative&#160;of|+}} {{misspelling&#160;of|+}} {{inflection&#160;of|+}} {{alternative&#160;form&#160;of|+}} {{alternative&#160;spelling&#160;of|+}} {{trans-top|+}} {{trans-mid}} =
+{{trans-top|at all}}
+* Chinese:
+*: Mandarin: {{t+|cmn|不再|tr=buzai|sc=Hani}}, {{t+|cmn|一点|tr=yidian|sc=Hani}}
+* Dutch: {{t+|nl|enig}}, {{t+|nl|enkel}}
+* Esperanto: {{t|eo|iom ajn}}, {{t|eo|eĉ iomete}}
+* Finnish: {{t+|fi|yhtään}}
+* French: {{t+|fr|du tout}}
+{{trans-mid}}
+* Italian: {{t+|it|affatto}}
+* Portuguese: {{t+|pt|mais}}
+* Scots: {{t|sco|onie}}, {{t|sco|ony}}
+* Slovak: {{t|sk|ešte}}
+* Spanish: {{t+|es|algo}}
+=
+{{trans-top|at least one (kind)}}
+* Arabic: {{t+|ar|أَيّ}}
+*: Egyptian Arabic: {{t|arz|أي|tr=ʾay|sc=Arab}}
+*: North Levantine Arabic: {{t|apc|ايا|tr=ayya|sc=Arab}}, {{t|apc|حيلا|tr=ḥayalla|sc=Arab}}; {{t|apc|شي|tr=ši|sc=Arab}} {{q|some}}
+* Armenian: {{t|hy|որևէ}}
+* Belarusian: {{t|be|які́сьці}}, {{t|be|які́сь}}, {{t|be|які-не́будзь}}, {{t|be|не́йкі}}, {{t|be|жа́дны}} {{qualifier|with negative}}
+* Bulgarian: {{t|bg|някакъв}}, {{t|bg|никакъв}}, {{t|bg|какъв да е}}, {{t|bg|какъвто и да е}}, {{t+|bg|всякакъв}}, {{t+|bg|малко}}
+* Catalan: {{t+|ca|algun}}
+* Chinese:
+*: Mandarin: {{t+|cmn|任意|tr=rènyì|sc=Hani}}, {{t+|cmn|任何|tr=rènhé|sc=Hani}}
+* Dutch: {{t+|nl|enig}}
+* Esperanto: {{t+|eo|iu}}, {{t|eo|iom da}}
+* Estonian: {{t+|et|iga}}, {{t|et|mistahes}}, {{t|et|suvaline}}, {{t|et|ükskõik milline}}, {{t+|et|keegi}}
+* Finnish: {{t+|fi|yhtään}}, {{t+|fi|jotakin}}, {{t+|fi|mitään}}
+* French: {{qualifier|with a negative particle}} {{t+|fr|aucun}}
+* German: (can be omitted); {{q|interrogative or conditional; singular}} {{t+|de|irgendein}}; {{q|interrogative or conditional; plural}} {{t+|de|irgendwelche}}; {{q|negative}} {{t+|de|kein}}, {{t|de|[[überhaupt]] kein}}
+* Greek: {{t+|el|καθένας}}, {{t+|el|όποιος}}
+* Hebrew: {{t+|he|אַף|tr=af|sc=Hebr}}, {{t+|he|שׁוּם|tr=shum|sc=Hebr}}
+{{trans-mid}}
+* Hindi: {{t+|hi|कोई}}, {{t|hi|कोई भी}}
+* Ido: {{t+|io|irga}} {{q|at all}}, {{t+|io|ula}} {{q|some}}
+* Interlingua: {{t|ia|ulle}}
+* Italian: {{t+|it|qualche}}
+* Korean: {{t+|ko|어떤}}
+* Latin: {{t+|la|ullus}}
+* Macedonian: {{t|mk|некаков}}, {{t|mk|никаков}} {{qualifier|with negative}}
+* Maltese: {{t|mt|xi}}, {{t|mt|kwalunkwe}}
+* Maore Comorian: {{qualifier|with a verb in a negative form}} {{t|swb|ata}}
+* Marathi: {{t|mr|कोणतेही}}
+* Ngazidja Comorian: {{qualifier|with a verb in a negative form}} {{t|zdj|hata}}
+* Occitan: {{t+|oc|qualque}}
+* Old English: {{t|ang|ǣniġ}}
+* Old High German: {{t|goh|einag}}
+* Polish: {{t+|pl|jakiś|m}}, {{q|with negative}} {{t+|pl|żaden|m}}
+* Portuguese: {{t+|pt|algum}}
+* Russian: {{t+|ru|како́й-нибудь}}, {{t+|ru|никако́й}} {{qualifier|with negative}}
+* Scots: {{t|sco|onie}}, {{t|sco|ony}}
+* Slovak: {{t|sk|nejaký|m}}
+* Tocharian B: {{t|txb|ksa}}
+* Ukrainian: {{t+|uk|яки́йсь}}, {{t|pl|жо́дний}} {{q|with negative}}
+* Urdu: {{t|ur|کوئی|tr=koī|sc=ur-Arab}}
+* Volapük: {{t+|vo|seimik}}
+=
+{{trans-top|Any things or persons}}
+* Arabic: {{t+|ar|أَيّ}}, {{t|ar|كُلّ}}, {{t|ar|أَيَّة|f}}, {{t|ar|أَيْمَا}}
+* Bulgarian: {{t|bg|кой да е}}, {{t|bg|който и да е}}, {{t|bg|всеки}}, {{t|bg|някой}}, {{t|bg|никой}}
+* Catalan: {{t+|ca|algun}}, {{t+|ca|qualque}}
+* Chinese:
+*: Mandarin: {{t+|cmn|誰|sc=Hani}}, {{t+|cmn|谁|tr=shuí, shéi|sc=Hani}}
+* Czech: {{t+|cs|kdokoliv}} {{gloss|anyone}}, {{t+|cs|cokoliv}} {{gloss|anything}}
+* Dutch: {{t+|nl|elk}}
+* Esperanto: {{t|eo|iu ajn}}, {{t+|eo|ĉiu}}, {{t+|eo|ĉiuj}}
+* Finnish: {{t+|fi|mikä tahansa}}
+* Georgian: {{t|ka|ნებისმიერი}}
+* German: {{t+|de|jeder|m}}
+* Japanese: {{t|ja|どれも|tr=doremo}}, {{t|ja|どれでも|tr=doredemo}}
+* Latin: {{t+|la|ūllus}}
+{{trans-mid}}
+* Low German:
+*: German Low German: {{t|nds-de|jeed}}, {{t|nds-de|elk}}
+* Polish: {{t+|pl|ktokolwiek}}
+* Portuguese: {{t|pt|qualquer um}}
+* Romanian: {{t+|ro|orice}} {{gloss|anything}}, {{t+|ro|oricare}}, {{t+|ro|oricine}} {{gloss|anyone}}
+* Russian: {{t+|ru|любо́й}}, {{t+|ru|вся́кий}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|свак|m}}
+*: Roman: {{t+|sh|svak|m}}
+* Slovak: {{qualifier|anyone}} {{t|sk|ktokoľvek}}, {{qualifier|anything}} {{t|sk|čokoľvek}}
+* Spanish: {{t+|es|alguno|m}}, {{t+|es|alguna|f}}
+* Ukrainian: {{t+|uk|будь-хто́}}
+=
+{{trans-top|certain number}}
+* Arabic: {{t|ar|بَعْضٌ|m}}
+* Armenian: {{t+|hy|որոշ|sc=Armn}}, {{t+|hy|ոմանք|sc=Armn}}
+* Azerbaijani: {{t+|az|bəzi}}, {{t|az|bəzilər}}
+* Belarusian: {{t|be|некато́ры}}
+* Bengali: {{t|bn|একটু|sc=Beng}}
+* Bulgarian: {{t+|bg|няколко}}
+* Catalan: {{t+|ca|algun|m}}, {{t+|ca|alguna|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|有的|tr=yǒude|sc=Hani}}, {{t+|cmn|一些|tr=yīxiē|sc=Hani}}
+* Chuukese: {{t|chk|ekkoch}}
+* Czech: {{t+|cs|nějaký}}
+* Dalmatian: {{t|dlm|calco}}
+* Dutch: {{t+|nl|enigen}}, {{t+|nl|sommigen}}
+* Finnish: {{t+|fi|jotkut}}, {{t|fi|muutamat}}, {{t|fi|eräät}}, {{t+|fi|osa}}, {{t+|fi|jokunen}}
+* French: {{t+|fr|quelque|m|f}}, {{t+|fr|quelques|p}}
+* Galician: {{t|gl|algún|m}}
+* German: {{t+|de|einige}}, {{t+|de|manche}}
+* Greek: {{t+|el|μερικοί|m-p}}, {{t+|el|μερικές|f-p}}, {{t+|el|μερικά|n-p}}
+* Hawaiian: {{t|haw|kahi poʻe}}, {{t|haw|kekahi poʻe}}
+* Hungarian: {{t|hu|egyesek|p}}, {{t|hu|némelyek|p}}, {{t+|hu|néhányan}}
+* Icelandic: {{t|is|sum|n-p}}, {{t+|is|sumar|f-p}}, {{t|is|sumir|m-p}}
+* Indonesian: {{t+|id|beberapa}}
+* Irish: {{t+|ga|daoine|m-p}}
+* Japanese: {{t|ja|いくつか|tr=ikutsuka|sc=Jpan}}, {{t+|ja|ある}}
+{{trans-mid}}
+* Khmer: {{t|km|អ្នកខ្លះ|tr=neak klah|sc=Khmr}}
+* Korean: {{t+|ko|어떤}}
+* Latin: {{t+|la|quidam}}
+* Low German:
+*: German Low German: {{t|nds-de|enige}}, {{t|nds-de|enkelte}}, {{t|nds-de|enkele}}
+*: Paderbornisch: {{t|nds-de|einige}}
+* Mirandese: {{t|mwl|algun}}
+* Norwegian: {{t+|no|visse|p}}
+*: Bokmål: {{t+|nb|noen}}
+*: Nynorsk: {{t|nn|somme|p}}, {{t|nn|nokon}}
+* Portuguese: {{t+|pt|algum|m}}
+* Russian: {{t+|ru|не́который|m}}
+* Serbo-Croatian: {{t|sh|neki|m-p}}, {{t+|sh|neke|f-p}}, {{t+|sh|neka|n-p}}
+* Spanish: {{t+|es|alguno|m}}
+* Sundanese: {{t|su|sababaraha}}
+* Swedish: {{t+|sv|vissa}}, {{t+|sv|somliga}}, {{t+|sv|en del}}
+* Tagalog: {{t+|tl|may}}, {{t+|tl|mayroon}}
+* Tok Pisin: {{t|tpi|sampela}}
+* Turkish: {{t+|tr|bazı}}, {{t+|tr|kimi}}
+* Ukrainian: {{t+|uk|де́який}}
+* Vietnamese: {{t+|vi|vài}}, {{t+|vi|một vài}}, {{t+|vi|một số}}, {{t+|vi|mấy}}
+* Yiddish: {{t|yi|עטלעכע}}, {{t+|yi|אַ ביסל}}
+* Zazaki: {{t+|zza|tay}}
+* Zealandic: {{t|zea|sommige}}
+=
+{{trans-top|certain proportion of}}
+* Arabic: {{t|ar|بَعْضٌ|m}}
+*: Egyptian Arabic: {{t|arz|بعض|tr=baʿḍ}}
+* Armenian: {{t+|hy|որոշ|sc=Armn}}
+* Azerbaijani: {{t+|az|bəzi}}
+* Baluchi: {{t|bal|لہتے|tr=lahti, lahte}}
+* Bulgarian: {{t+|bg|няколко}}
+* Burmese: {{t+|my|အချို့|sc=Mymr}}, {{t+|my|တချို့|sc=Mymr}}
+* Catalan: {{t+|ca|algun}}
+* Cherokee: {{t|chr|ᎢᎦᏓ}}
+* Chinese:
+*: Cantonese: {{t|yue|一啲|tr=jat1 dit1|sc=Hani}}
+*: Mandarin: {{t+|cmn|一些|tr=yīxiē|sc=Hani}}, {{qualifier|countable}} {{t+|cmn|幾個|sc=Hani}}, {{t+|cmn|几个|tr=jǐgè, jǐge|sc=Hani}}
+* Dutch: {{t+|nl|enige}} (countable), {{t+|nl|sommige}} (countable), {{t+|nl|enkele}} (countable)
+* Finnish: {{t+|fi|jotkut}} {{q|of people}}, {{t+|fi|jotkin}} {{q|of things}}
+* French: {{t+|fr|certain}}, {{t+|fr|certains|p}}, {{t+|fr|des}}
+* German: {{t+|de|einige}}, {{t+|de|manche}}
+* Greek: {{t+|el|μερικοί|m-p}}, {{t+|el|μερικές|f-p}}, {{t+|el|μερικά|n-p}}
+* Hindi: {{t+|hi|कुछ|sc=Deva}}
+* Hungarian: {{t+|hu|egyes}}, {{t+|hu|néhány}}, {{t+|hu|némely}}, {{t+|hu|némelyik}}, {{t+|hu|bizonyos}}
+* Interlingua: {{t|ia|alcun}}
+* Irish: {{t+|ga|roinnt}}
+{{trans-mid}}
+* Italian: {{t+|it|alcuno}}
+* Latin: {{t+|la|aliqui}}, {{t|la|alii}}, {{t+|la|nonnullus}}
+* Mon: {{t-needed|mnw}}
+* Navajo: {{t|nv|łaʼ}}
+* Norwegian:
+*: Bokmål: {{t+|nb|visse}}, {{t+|nb|noen}}
+*: Nynorsk: {{t|nn|visse}}, {{t|nn|nokre}}
+* Polish: {{t|pl|niektórzy|p|m}}, {{t|pl|niektóre|p|f}}
+* Portuguese: {{t+|pt|algum}}
+* Russian: {{t+|ru|не́сколько}}, {{t+|ru|немно́го}}
+* Scots: {{t|sco|sum}}
+* Swahili: {{t+|sw|baadhi|alt=baadhi ya}}
+* Swedish: {{t+|sv|några}}, {{t+|sv|en del}}, {{t+|sv|vissa}}
+* Thai: {{t+|th|บาง}}
+* Tok Pisin: {{t|tpi|sampela}}
+* Turkish: {{t+|tr|bazı}}
+* Urdu: {{t|ur|کچھ|tr=kuch|sc=ur-Arab}}
+* Walloon: {{t+|wa|sacwants|m|f}}, {{t+|wa|sacwantès|f}}
+* Welsh: {{t|cy|rhai}}
+* Zazaki: {{t+|zza|tay}}
+* Zealandic: {{t|zea|sommige}}
+=
+{{trans-top|approximately, roughly}}
+* Armenian: {{t+|hy|մոտ|sc=Armn}}
+* Bulgarian: {{t+|bg|около}}
+* Catalan: {{t|ca|al voltant de}}, {{t+|ca|sobre}}, {{t+|ca|vora}}
+* Dutch: {{t+|nl|ongeveer}}
+* Finnish: {{t+|fi|jotakin}}, {{t+|fi|jotakuinkin}}, {{t+|fi|noin}}, {{t+|fi|suunnilleen}}
+* French: {{t+|fr|quelque}}, {{t+|fr|environ}}
+* German: {{t+|de|ungefähr}}, {{t+|de|etwa}}, {{t+|de|um}}
+* Greek: {{t+|el|περίπου}}
+* Hindi: {{t|hi|के लगभग|sc=Deva}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|mintegy}}, {{t+|hu|nagyjából}}, {{t+|hu|körülbelül}}
+* Latin: {{t|la|alii}}
+* Ngazidja Comorian: {{t|zdj|kadiri ya}}
+* Norwegian: {{t+|no|omtrent}}
+* Portuguese: {{t+|pt|uns}}, {{t+|pt|mais ou menos}}
+* Slovak: {{t|sk|zhruba}}, {{t|sk|približne}}
+* Spanish: {{t+|es|unos}}
+=
+{{trans-top|likewise}}
+* Albanian: {{t+|sq|gjithashtu}}
+* Arabic: {{t+|ar|أَيْضًا}}, {{t|ar|كَذٰلِكَ|tr=ka-ḏālika}}
+*: Egyptian Arabic: {{t|arz|كمان|tr=kamān|sc=Arab}}
+* Armenian: {{t|hy|նաև}}, {{t+|hy|նույնպես}}
+* Azerbaijani: {{t|az|də}}, {{t+|az|da}}
+* Basque: {{t|eu|gehiegi}}, {{t+|eu|ere}}
+* Belarusian: {{t|be|такса́ма}}
+* Bengali: {{t|bn|-ও}}
+* Bulgarian: {{t+|bg|съ́що}}
+* Catalan: {{t+|ca|també}}
+* Chinese:
+*: Cantonese: {{t|yue|都|tr=dou1}}, {{t+|yue|亦|tr=jik6}}, {{t|yue|也|tr=jaa5}} {{qualifier|literary}}
+*: Dungan: {{t|dng|е}}
+*: Hakka: {{t|hak|也|tr=ya}}
+*: Mandarin: {{t+|cmn|也|tr=yě|sc=Hani}}
+* Czech: {{t+|cs|také}}, {{t+|cs|též}}
+* Dalmatian: {{t|dlm|anca}}
+* Danish: {{t|da|ligeså}}, {{t+|da|også}}
+* Dutch: {{t+|nl|ook}}, {{t+|nl|eveneens}}
+* Esperanto: {{t+|eo|ankaŭ}}
+* Estonian: {{t+|et|samuti}}, {{t+|et|ka}}
+* Finnish: {{t+|fi|myös}}, {{t+|fi|-kin}}
+* French: {{t+|fr|aussi}}
+* Friulian: {{t|fur|ancje}}
+* Galician: {{t|gl|tamén}}
+* Georgian: {{t+|ka|აგრეთვე}}, {{t+|ka|ასევე|sc=Geor}}, {{t|ka|-ც|sc=Geor}}
+* German: {{t+|de|auch}}
+* Greek: {{t+|el|επίσης}}
+* Hebrew: {{t+|he|גַּם|tr=gam}}, {{t|he|גם כן|tr=gam ken}}
+* Hindi: {{t+|hi|भी}}, {{t+|hi|हम}}
+* Hungarian: {{t+|hu|is}}, {{t+|hu|szintén}}, {{t|hu|úgyszintén}}, {{t+|hu|ugyancsak}}, {{t+|hu|egyaránt}}
+* Icelandic: {{t+|is|líka}}
+* Ido: {{t+|io|anke}}
+* Indonesian: {{t+|id|juga}}
+* Interlingua: {{t|ia|anque}}
+* Irish: {{t|ga|freisin}}, {{t|ga|leis}}, {{t+|ga|fosta}}
+* Istriot: {{t|ist|anca}}
+* Italian: {{t+|it|anche}}, {{t+|it|pure}}
+* Japanese: {{t+|ja|も|tr=mo}} {{qualifier|particle}}, {{t+|ja|また|tr=mata}}, {{t+|ja|さらに|tr=sara-ni}}, {{t|ja|にも|tr=nimo}}
+* Khmer: {{t+|km|ដែរ}}, {{t+|km|ផង}}
+* Korean: {{t+|ko|도}} {{qualifier|particle}}, {{t+|ko|역시}}
+* Lao: {{t|lo|ກໍ}}, {{t|lo|ຍັງ}}, {{t|lo|ດ້ວຍ}}, {{t|lo|ດອມ}}
+{{trans-mid}}
+* Latin: {{t+|la|etiam}}, {{t+|la|quoque}}, {{t+|la|et}}, {{t|la|et quidem}}, {{t|la|item}}, {{t+|la|idem}}
+* Latvian: {{t|lv|arī}}
+* Lithuanian: {{t+|lt|taip pat}}
+* Macedonian: {{t|mk|исто така}}
+* Malay: {{t|ms|juga}}
+* Maori: {{t|mi|hoki}}, {{t|mi|anō hoki}}, {{t|mi|anōki}}
+* Mongolian: {{t+|mn|бас}}, {{t+|mn|мөн}}
+* Navajo: {{t|nv|ałdóʼ}}, {{t|nv|dóʼ}}
+* Norman: {{t|nrf|itou}}
+* Norwegian:
+*: Bokmål: {{t+|nb|også}}, {{t+|nb|òg}}, {{t+|nb|med}}
+*: Nynorsk: {{t|nn|òg}}, {{t+|nn|også}}, {{t|nn|med}}
+* Occitan: {{t+|oc|tanben}}
+* Old English: {{t|ang|ēac}}
+* Persian: {{t+|fa|هم|tr=ham}}
+* Picard: {{t|pcd|étou}}
+* Plautdietsch: {{t|pdt|uk}}
+* Polish: {{t+|pl|też}}
+* Portuguese: {{t+|pt|também}}
+* Romanian: {{t+|ro|și}}, {{t|ro|deasemenea}}
+* Russian: {{t+|ru|та́кже}}, {{t+|ru|то́же}}
+* Scottish Gaelic: {{t|gd|cuideachd}}, {{t|gd|mar an ceudna}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|тако́ђе}}, {{t|sh|тако́ђер}} {{q|Croatia}}
+*: Roman: {{t+|sh|takóđe}}, {{t+|sh|takóđer}} {{q|Croatia}}
+* Slovak: {{t|sk|aj}}, {{t|sk|tiež}}
+* Slovene: {{t+|sl|tȗdi}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|teke}}, {{t|dsb|tež}}
+*: Upper Sorbian: {{t+|hsb|tež}}
+* Spanish: {{t+|es|también}}
+* Swahili: {{t|sw|pia}}
+* Swedish: {{t+|sv|också}}, {{t+|sv|även}}, {{t+|sv|med}}, {{t+|sv|ock}}
+* Tajik: {{t+|tg|ҳам}}
+* Telugu: {{t+|te|కూడా}}
+* Thai: {{t+|th|ก็}}, {{t+|th|ยัง}}, {{t+|th|ด้วย}}
+* Tocharian B: {{t|txb|rano}}
+* Turkish: {{t+|tr|de}}, {{t+|tr|da}}
+* Ukrainian: {{t|uk|теж}}, {{t+|uk|тако́ж}}
+* Urdu: {{t|ur|بھی|tr=bhī|sc=ur-Arab}}
+* Uzbek: {{t+|uz|ham}}
+* Venetian: {{t+|vec|anca}}
+* Vietnamese: {{t+|vi|cũng}}
+* Volapük: {{t+|vo|i}}
+* Welsh: {{t|cy|hefyd}}, {{t|cy|yn ogystal}}
+=
+{{trans-top|who? (interrogative pronoun)}}
+* Afrikaans: {{t+|af|wie}}
+* Aklanon: {{t|akl|sin-o}}
+* Albanian: {{t+|sq|kush}}
+* American Sign Language: {{t|ase|L@Chin-ThumbBack Squeeze}}
+* Arabic: {{t+|ar|مَن}}
+*: Egyptian Arabic: {{t|arz|مين|tr=mīn}}
+*: Moroccan Arabic: {{t|ary|شكون|tr=škūn}} {{qualifier|nominative}}, {{t|ary|من|tr=man}} {{qualifier|genitive}}
+*: Levantine Arabic: {{t|apc|مين|tr=mīn}}
+* Aramaic: {{t|arc|מַן|tr=man}}
+* Armenian: {{t+|hy|ով}}
+*: Old Armenian: {{t|xcl|ո}}, {{t|xcl|ով}}
+* Aromanian: {{t|rup|tsine}}
+* Asturian: {{t+|ast|quién}}, {{t+|ast|quiénes|p}}
+* Azerbaijani: {{t+|az|kim}}
+* Balinese: {{t|ban|nyen}}
+* Bashkir: {{t|ba|кем|sc=Cyrl}}
+* Basque: {{t+|eu|nor}}
+* Belarusian: {{t+|be|хто}}
+* Bengali: {{t+|bn|কে|sc=Beng}}
+* Bikol Central: {{t|bcl|siisay}}
+* Blackfoot: {{t|bla|tahkaa}}
+* Breton: {{t+|br|piv}}
+* Bulgarian: {{t|bg|кой}}
+* Burmese: {{t|my|ဘယ်သူ}}
+* Catalan: {{t+|ca|qui}}
+* Cebuano: {{t|ceb|kinsa}}
+* Chamicuro: {{t|ccc|na'shanana}}
+* Chechen: {{t|ce|мила}}
+* Cherokee: {{t|chr|ᎦᎪ}}
+* Chichewa: {{t|ny|ndani}}
+* Chickasaw: {{t|cic|kata}}
+* Chinese:
+*: Cantonese: {{t+|yue|邊個|sc=Hani}}, {{t+|yue|边个|tr=bin1 go3|sc=Hani}}, {{qualifier|literary}} {{t+|yue|誰|sc=Hani}}, {{t|yue|谁|tr=seoi4|sc=Hani}}, {{t|yue|邊位|sc=Hani}}, {{t|yue|边位|tr=bin1 wai2|sc=Hani}}, {{t+|yue|乜誰|sc=Hani}}, {{t|yue|乜谁|tr=mat1 seoi4-2|sc=Hani}} {{qualifier|informal}}, {{t|yue|何人|tr=ho4 jan4|sc=Hani}}, {{t|yue|誰人|sc=Hani}}, {{t|yue|谁人|tr=seoi4 jan4|sc=Hani}}
+*: Dungan: {{t|dng|сый}}
+*: Hakka: {{t|hak|麼人|sc=Hani}}, {{t|hak|么人|tr=má-ngìn, mán-ngìn|sc=Hani}}, {{t|hak|麼儕|sc=Hani}}, {{t|hak|么侪|tr=má-sà|sc=Hani}}, {{t|hak|何人|tr=hò-ngìn|sc=Hani}}, {{t|hak|哪儕|sc=Hani}}, {{t|hak|哪侪|tr=nai-sà|sc=Hani}}
+*: Mandarin: {{t+|cmn|誰|sc=Hani}}, {{t+|cmn|谁|tr=shuí, shéi|sc=Hani}}, {{t+|cmn|何人|tr=hérén|sc=Hani}}, {{t+|cmn|誰人|sc=Hani}}, {{t+|cmn|谁人|tr=shéirén, shuírén|sc=Hani}}, {{t+|cmn|阿誰|sc=Hani}}, {{t+|cmn|阿谁|tr=āshéi, āshuí|sc=Hani}}
+*: Min Dong: {{t|cdo|底人|tr=diē-nè̤ng, dē̤-nè̤ng, dē̤-è̤ng}}
+*: Min Nan: {{t+|nan|啥人|tr=siáⁿ-lâng|sc=Hani}}, {{t+|nan|誰|sc=Hani}}, {{t|nan|谁|tr=sûi, chûi, chūi, cho̍ah, chiâ, chôa, tiâng, siáng, siâng|sc=Hani}}, {{t|nan|啥物人|tr=siáⁿ-mih-lâng, siáⁿ-mí-lâng, sáng-n̂g, siàng-n̂g|sc=Hani}}, {{t|nan|甚物人|tr=sím-mih-lâng|sc=Hani}}, {{t|nan|是誰|sc=Hani}}, {{t|nan|是谁|tr=chī-chūi, sī-sûi|sc=Hani}}, {{t|nan|底人|tr=tī-lâng|sc=Hani}}
+*: Wu: {{t|wuu|啥人|tr=sa nyin}}
+* Chukchi: {{t|ckt|мэӈин|tr=mėṇin}}
+* Chuvash: {{t|cv|кам|sc=Cyrl}}
+* Classical Nahuatl: {{t|nci|āc}}, {{t|nci|āquihqueh}} {{qualifier|plural}}, {{t|nci|āquin}}
+* Cree: {{t|cr|awina|sc=Cans}}
+* Crimean Tatar: {{t|crh|kim}}
+* Czech: {{t+|cs|kdo}}
+* Dalmatian: {{t|dlm|ci}}
+* Danish: {{t+|da|hvem}}
+* Dargwa: {{t|dar|чи}}
+* Dolgan: {{t|dlg|ким}}
+* Dutch: {{t+|nl|wie}}
+* Esperanto: {{t+|eo|kiu}}
+* Estonian: {{t+|et|kes}}
+* Evenki: {{t|evn|ңи}}
+* Faroese: {{t+|fo|hvør|m|f}}, {{t+|fo|hvat|n}}
+* Finnish: {{t+|fi|kuka}}, {{t+|fi|ken}}
+* French: {{t+|fr|qui}}
+*: Old French: {{t|fro|qui}}, {{t|fro|ki}}, {{t|fro|cui}}
+* Galician: {{t|gl|quen|m|m-p|f|f-p}}
+* Georgian: {{t+|ka|ვინ|sc=Geor}}
+* German: {{t+|de|wer}}
+* Gothic: {{t|got|𐍈𐌰𐍃}}
+* Greek: {{t+|el|ποιος}}
+*: Ancient: {{t|grc|τίς|m|f}}
+* Gujarati: {{t|gu|કોણ}}
+* Hebrew: {{t+|he|מִי|tr=mi}}
+* Higaonon: {{t|mba|sin-o}}
+* Hiligaynon: {{t|hil|sin-o}}
+* Hindi: {{t+|hi|कौन|sc=Deva}}
+* Hungarian: {{t+|hu|ki}}, {{t|hu|kik|p}}
+* Ibanag: {{t|ibg|sinni}}
+* Icelandic: {{t+|is|hver|m|f}}, {{t+|is|hvert}}, {{t+|is|hvað|n}}
+* Ido: {{t+|io|qua}}, {{t+|io|qui|p}}
+* Ilocano: {{t|ilo|sino}}, {{t|ilo|siasino}}, {{t|ilo|asino}}
+* Indonesian: {{t+|id|siapa}}
+* Ingush: {{t|inh|мала}}
+* Interlingua: {{t+|ia|qui}}
+* Irish: {{t|ga|cé}}
+*: Old Irish: {{t|sga|cía}}
+* Italian: {{t+|it|chi}}
+* Japanese: {{t+|ja|誰|tr=だれ, dare}}, {{t+|ja|だれ|tr=dare}}, {{t+|ja|どなた|tr=donata}} {{qualifier|honorific}}, {{t|ja|どちらさま|tr=dochirasama}} {{qualifier|honorific}}
+* Javanese: {{t+|jv|sapa}}, {{t|jv|sinten}} (kromo-level)
+* Kalmyk: {{t|xal|кен|sc=Cyrl}}
+* Kapampangan: {{t|pam|ninu}}
+* Karachay-Balkar: {{t|krc|ким|tr=kim}}
+* Karaim: {{t|kdr|kim}}
+* Karakalpak: {{t|kaa|kim}}
+* Karakhanid: {{t|xqa|كِمْ|tr=kim}}
+* Kashubian: {{t|csb|chto}}
+* Kazakh: {{t+|kk|кім|sc=Cyrl}}
+* Khakas: {{t|kjh|кем}}
+* Khmer: {{t|km|អ្នកណា}}, {{t+|km|នរណា}}, {{t+|km|ដែល}}
+* Kikuyu: {{t|ki|nũũ}}
+* Kinaray-a: {{t|krj|sin-o}}
+{{trans-mid}}
+* Korean: {{t+|ko|누구}}
+* Krio: {{t|kri|udat}}
+* Kriol: {{t|rop|hu}}
+* Kumyk: {{t|kum|ким|tr=kim}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|کێ}}
+*: Northern Kurdish: {{t+|kmr|kî}}, {{t+|kmr|kê}}
+* Kyrgyz: {{t+|ky|ким|sc=Cyrl}}
+* Lao: {{t|lo|ໃຜ}}
+* Latgalian: {{t|ltg|kas}}
+* Latin: {{t+|la|quis|m|f}}
+* Latvian: {{t+|lv|kas}} {{qualifier|who and what}}
+* Limburgish: {{t+|li|wae}}
+* Lithuanian: {{t+|lt|kas|p}} {{qualifier|who and what}}
+* Lombard: {{t+|lmo|chi}}
+* Macedonian: {{t+|mk|кој}}
+* Malay: {{t+|ms|siapa}}
+* Malayalam: {{t+|ml|ആര്}}
+* Maltese: {{t|mt|min}}
+* Maori: {{t+|mi|wai}}
+* Middle English: {{t|enm|who}}
+* Mon: {{t-needed|mnw}}
+* Mongolian: {{t+|mn|хэн|sc=Cyrl}}
+* Mwani: {{t|wmw|nani}}
+* Neapolitan: {{t|nap|chi}}
+* Ngazidja Comorian: {{t|zdj|nɗopvi}}
+* Nogai: {{t|nog|ким}}
+* Norwegian: 
+*: Bokmål: {{t+|no|hvem}}
+*: Nynorsk: {{t+|nn|kven}}
+* Ojibwe: {{t|oj|awenen|sc=Cans}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|къто}}
+*: Glagolitic: {{t|cu|ⰽⱏⱅⱁ}}
+* Old Dutch: {{t|odt|wie}}, {{t|odt|wē}}
+* Old East Slavic: {{t|orv|къто}}, {{t|orv|хто}}
+* Old English: {{t|ang|hwā}}
+* Old Frisian: {{t|ofs|hwā}}
+* Old Javanese: {{t|kaw|syapa}}
+* Old Saxon: {{t|odt|hwē}}
+* Old Turkic: {{t|otk|𐰚𐰢|tr=kem}}
+* Ossetian: {{t|os|чи}}
+* Ottoman Turkish: {{t|ota|كیم|tr=kim}}
+* Pangasinan: {{t|pag|siopa}}
+* Pashto: {{t-needed|ps}}
+* Persian: {{t+|fa|کی|tr=ki}}
+* Polish: {{t+|pl|kto}}
+* Portuguese: {{t+|pt|quem}}
+* Purepecha: {{t|pua|ne}}
+* Rapa Nui: {{t|rap|aai}}
+* Rohingya: {{t|rhg|hon}}
+* Romani: {{t|rom|kon}}
+* Romanian: {{t+|ro|cine}}
+* Romansch: {{t|rm|tgi}}
+* Russian: {{t+|ru|кто}}
+* Rusyn: {{t|rue|хто}}
+* Sanskrit: {{t+|sa|क|alt=कः|m}}
+* Scots: {{t|sco|wha}}
+* Scottish Gaelic: {{t|gd|cò}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ко|sc=Cyrl}} {{qualifier|Bosnia, Serbia}}, {{t|sh|тко|sc=Cyrl}} {{qualifier|Croatia}}
+*: Roman: {{t|sh|ko}} {{qualifier|Bosnia, Serbia}}, {{t|sh|tko}} {{qualifier|Croatia}}
+* Shor: {{t|cjs|кем|tr=kem}}
+* Sinhalese: {{t|si|කවුද|sc=Sinh}}
+* Slovak: {{t+|sk|kto}}
+* Slovene: {{t+|sl|kdó}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|chto}}
+*: Upper Sorbian: {{t|hsb|chto}}, {{t|hsb|štó}}
+* Southern Altai: {{t|alt|кем}}
+* Spanish: {{t+|es|quién}}, {{t+|es|quiénes|p}}
+* Sundanese: {{t|su|saha}}
+* Swedish: {{t+|sv|vem}} (singular), {{t+|sv|vilka}} (plural)
+* Tagalog: {{t+|tl|sino}}
+* Tajik: {{t+|tg|кӣ|sc=Cyrl}}
+* Talysh: {{qualifier|Asalemi}} {{t|tly|کی|tr=ki}}
+* Tamil: {{t+|ta|யார்}}, {{t+|ta|எவர்}}, {{t+|ta|எவன்}}
+* Taos: {{t|twf|p’ų́}}
+* Tatar: {{t|tt|кем|sc=Cyrl}}
+* Tausug: {{t|tsg|hisiyu}}
+* Telugu: {{t+|te|ఎవరు}}
+* Tetum: {{t|tet|sé}}
+* Thai: {{t+|th|ใคร}}
+* Tibetan: {{t|bo|སུ}}
+* Tocharian A: {{t|xto|kus}}
+* Tocharian B: {{t|txb|kᵤse}}
+* Tofa: {{t|kim|ӄум|tr=qum}}
+* Tok Pisin: {{t|tpi|husat}}
+* Turkish: {{t+|tr|kim}}
+* Turkmen: {{t|tk|kim}}
+* Tuvan: {{t|tyv|кым}}
+* Ugaritic: {{t|uga|𐎎𐎊|tr=my}}
+* Ukrainian: {{t+|uk|хто}}
+* Urdu: {{t|ur|کون|tr=kaun|sc=ur-Arab}}
+* Urum: {{t|uum|ким|tr=kim}}
+* Uyghur: {{t|ug|كىم}}
+* Uzbek: {{t+|uz|kim}}
+* Vietnamese: {{t+|vi|ai}}
+* Volapük: {{t+|vo|kim}}
+* Wakhi: {{t|wbl|ku}}
+* Walloon: {{t+|wa|kî|m|f}}
+* Waray-Waray: {{t|war|hin-o}}, {{t|war|hin-o}}
+* Welsh: {{t|cy|pwy}}
+* West Frisian: {{t+|fy|wa}}
+* White Hmong: {{t|mww|leej twg}}
+* Winnebago: {{t|win|peežega}}
+* Yagnobi: {{t|yai|ках}}
+* Yakut: {{t|sah|ким}}
+* Yiddish: {{t|yi|ווער|sc=Hebr}}
+* Yola: {{t|yol|fho}}
+* Zazaki: {{t|zza|kom}}, {{t+|zza|kam}}
+* Zealandic: {{t|zea|wie}}, {{t|zea|wien}} {{qualifier|before a vowel}}
+* Zhuang: {{t|za|bouxlawz}}
+* Zulu: {{t|zu|ubani|c1a|c2a}}
+=
+{{trans-top|beginning an exclamation}}
+* Armenian: {{t+|hy|ինչպիսի}}
+* Asturian: {{t+|ast|qué}}
+* Bashkir: {{t|ba|ниндәй}}, {{t|ba|ҡалай}}, {{t|ba|ҡайһылай}} 
+* Catalan: {{t+|ca|que}}
+* Czech: {{t+|cs|jaký}}
+* Danish: {{t+|da|hvilken|c}}, {{t+|da|hvilket|n}}, {{t+|da|hvilke|c-p|n-p}}, {{t|da|sikke}}
+* Dutch: {{t+|nl|wat}}, {{t+|nl|welk}} {{qualifier|archaic}}
+* Finnish: {{t+|fi|kuinka}}, {{t+|fi|mikä}}, {{t+|fi|millainen}}
+* French: {{t+|fr|quel|m}}, {{t+|fr|quelle|f}} {{q|without an indefinite article}}
+* German: {{t+|de|was für}}, {{t+|de|so}}
+* Greek: {{t+|el|τι}}
+*: Ancient: {{t|grc|ἡλίκος}} {{q|adjective}}, {{t|grc|οἷος}} {{qualifier|adjective}}
+* Hebrew: {{t+|he|איזה|m|tr=éize}}
+* Hiligaynon: {{t|hil|ano}}
+* Hungarian: {{t+|hu|micsoda}}, {{t+|hu|milyen}}, {{t+|hu|de}}, {{t+|hu|mekkora}}
+{{trans-mid}}
+* Interlingua: {{t|ia|qual}}
+* Italian: {{t+|it|quanto}}, {{t+|it|che}}
+* Japanese: {{t|ja|何と|tr=nanto}}
+* Persian: {{t+|fa|چه|tr=če|sc=fa-Arab}}
+* Polish: {{t|pl|[[co]] [[za]]}}
+* Portuguese: {{t+|pt|que}}, {{t+|pt|quanto}}
+* Russian: {{t+|ru|како́й|m}}, {{t+|ru|кака́я|f}}, {{t+|ru|како́е|n}}, {{t+|ru|что за}}
+* Slovak: {{t|sk|aký}}
+* Slovene: {{t+|sl|kakó}}, {{t|sl|kákšen}}
+* Spanish: {{t+|es|menudo}}, {{t+|es|qué}}, {{t+|es|vaya}}
+* Swedish: {{t+|sv|vad}}, {{t+|sv|så}} {{q|uncountable}}, {{t+|sv|sådan}} {{q|countable}}, {{t+|sv|vilken}}
+* Tagalog: {{t+|tl|ano}}
+* Zazaki: {{t+|zza|çı}}
+=
+{{trans-top|what? (interrogative pronoun)}}
+{{multitrans|data=
+* Afrikaans: {{tt+|af|wat}}
+* Aklanon: {{t|akl|ano}}
+* Albanian: {{tt+|sq|çfarë}}, {{tt|sq|ç'}}
+* American Sign Language: {{tt|ase|Claw5@SideTrunkhigh-PalmUp-Claw5@SideTrunkhigh-PalmUp Sidetoside-Sidetoside}}
+* Arabic: {{tt+|ar|مَاذَا}}, {{tt+|ar|مَا}}
+*: Egyptian Arabic: {{tt|arz|ايه|tr=ēh}}
+*: Gulf Arabic: {{tt|afb|شنو|tr=šinu}}
+*: Hijazi Arabic: {{tt|acw|إيش|tr=ʾēš}}
+*: Iraqi Arabic: {{tt|acm|شنو|tr=šunu}}
+*: Levantine Arabic: {{tt|apc|شُو|tr=šū}}, {{tt|ajp|إِيش|tr=ʾēš}}
+*: Moroccan Arabic: {{tt|ary|أشنو|tr=ʾašnu}}, {{tt|ary|شنو|tr=šnu}}, {{tt|ary|شني|tr=šni}}, {{tt|ary|شني|tr=šanni}}, {{tt|ary|آش|tr=ʾāš}}, {{tt|ary|أش|tr=ʾaš}}, {{tt|ary|ش|tr=š-}}
+*: Najdi Arabic: {{tt|ars|وش|tr=weš}}, {{tt|ars|إِيش|tr=ʾēš}}
+* Armenian: {{tt+|hy|ինչ}}
+* Aromanian: {{tt|rup|tsi}}
+* Assamese: {{tt|as|কি}}
+* Asturian: {{tt+|ast|qué}}
+* Azerbaijani: {{tt+|az|nə}}
+* Bakhtiari: {{tt|bqi|چی|tr=čē|sc=fa-Arab}}, {{tt|bqi|چه|tr=čē|sc=fa-Arab}}
+* Balinese: {{tt|ban|apa}}
+* Bashkir: {{tt|ba|ни}}, {{tt|ba|нимә}}
+* Basque: {{tt|eu|zer}}
+* Belarusian: {{tt+|be|што}}
+* Bengali: {{tt|bn|কী}}
+* Bikol Central: {{tt|bcl|ano}}
+* Brahui: {{tt|brh|anth}}
+* Breton: {{tt+|br|petra}}
+* Bulgarian: {{tt|bg|какво́}}, {{tt+|bg|що}}
+* Burmese: {{tt+|my|ဘာ|sc=Mymr}}
+* Butuanon: {{tt|btw|ngan}}
+* Catalan: {{tt+|ca|què}}
+* Cebuano: {{tt|ceb|unsa}}
+* Chechen: {{t|ce|хӏун}}
+* Chichewa: {{tt|ny|chiyani}}
+* Chickasaw: {{tt|cic|nanta}}
+* Chinese:
+*: Cantonese: {{tt|yue|乜嘢|tr=mat1 je5}}, {{tt+|yue|咩|tr=me1}}, {{tt+|yue|乜|tr=mat1}}
+*: Dungan: {{tt|dng|са}}
+*: Gan: {{tt|gan|什哩|tr=siit6 'li4, xit6 'li4, siit6 li, xit6 li}}
+*: Hakka: {{tt|hak|麼個}}, {{tt|hak|么个|tr=má-ke, mak-ke}}
+*: Jin: {{tt|cjy|甚|tr=seng3}}
+*: Mandarin: {{tt+|cmn|什麼}}, {{tt+|cmn|什么|tr=shénme}}, {{tt+|cmn|啥|tr=shá}} {{qualifier|Northern dialect}}, {{tt+|cmn|何|tr=hé}}
+*: Min Dong: {{tt|cdo|什乇|tr=sié-nó̤h, siéh-nó̤h}}
+*: Min Nan: {{tt+|nan|啥|tr=siáⁿ, sáⁿ, siahⁿ, sahⁿ}}, {{tt+|nan|啥物|tr=siáⁿ-mih, siáⁿ-mi̍h, siáⁿ-mí}}, {{tt+|nan|啥貨}}, {{tt|nan|啥货|tr=siáⁿ-hòe, siáⁿ-hè, sáⁿ-hòe, sáⁿ-hè, sáⁿ-hèr}}, {{tt|nan|物代|tr=mih-tāi, bìn-tāi}} {{qualifier|Kinmen, Magong}}
+*: Wu: {{tt|wuu|啥|tr=sa}}
+*: Xiang: {{tt|hsn|麼子|tr=mo3 zr}}
+* Chuvash: {{tt|cv|мӗн|sc=Cyrl}}
+* Classical Nahuatl: {{tt|nci|tleh}}, {{tt|nci|tlein}}, {{tt|nci|tleihqueh}} {{qualifier|plural}}
+* Czech: {{tt+|cs|co}}
+* Dalmatian: {{tt|dlm|co}}
+* Danish: {{tt+|da|hvad}}
+* Dargwa: {{tt|dar|се}}
+* Dutch: {{tt+|nl|wat}}
+* Eastern Mari: {{tt|chm|мо}}
+* Esperanto: {{tt+|eo|kio}}
+* Estonian: {{tt+|et|mis}}, {{tt+|et|mida}}
+* Even: {{t|eve|як}}
+* Evenki: {{t|evn|экун}}
+* Faroese: {{tt+|fo|hvat}}
+* Finnish: {{tt+|fi|mikä}}, {{tt+|fi|mitä}}
+* French: {{tt+|fr|quoi}}, {{tt+|fr|que}}, {{tt+|fr|qu'est-ce que}}, {{tt+|fr|qu'est-ce qui}}, {{tt+|fr|quel|m}}
+* Friulian: {{tt|fur|ce}}
+* Galician: {{tt+|gl|que}}
+* Gamilaraay: {{tt|kld|minya}}
+* Georgian: {{tt+|ka|რა|sc=Geor}}
+* German: {{tt+|de|was}}
+*: Alemannic German: {{tt|gsw|waas}}
+* Gothic: {{tt|got|𐍈𐌰}}
+* Greek: {{tt|el|τί}}, {{tt+|el|ίντα|sc=Grek}} {{qualifier|Aegean and Cypriot dialects}}
+** Ancient Greek: {{tt|grc|τί|n}}
+* Hawaiian: {{tt|haw|aha}}
+* Hebrew: {{tt+|he|מה|tr=ma}}
+* Hiligaynon: {{tt|hil|ano}}
+* Hindi: {{tt+|hi|क्या}}, {{tt+|hi|का}}
+* Hungarian: {{tt+|hu|mi}}, {{tt+|hu|mit}}
+* Hunsrik: {{tt|hrx|was}}
+* Ibanag: {{tt|ibg|anni}}
+* Icelandic: {{tt+|is|hvað}}
+* Ido: {{tt+|io|quo}}, {{tt|io|quon}}
+* Igala: {{t|igl|ẹ́ñwu}}
+* Igbo: {{t|ig|gịnị̄}}
+* Ilocano: {{tt|ilo|ania}}
+* Indonesian: {{tt+|id|apa}}, {{tt+|id|mana}}
+* Ingush: {{t|inh|фу}}
+* Interlingua: {{tt|ia|qual}}
+* Irish: {{tt|ga|cad}}, {{tt|ga|céard}}
+*: Old Irish: {{tt|sga|cid}}
+* Isan: {{t|tts|อิหยัง|tr=ì-yǎng}}
+* Isnag: {{t|isd|naxan}}
+* Italian: {{tt|it|che cosa}}, {{tt+|it|che}}, {{tt+|it|cosa}}
+* Japanese: {{tt+|ja|何|tr=[[なに]], nani}} {{q|when used alone}}, {{tt+|ja|なん|tr=nan}} {{q|when used with another word}}
+* Javanese: {{t+|jv|apa}}
+* Jeju: {{t|jje|무신거}}
+* Jingpho: {{tt|kac|hpa}}
+* Kalmyk: {{tt|xal|ю}}
+* Kannada: {{tt+|kn|ಏನು}}
+* Kapampangan: {{tt|pam|nanu}} {{q|when used alone}}, {{tt|pam|nan/nang}} {{q|when used with another word}}
+* Karakhanid: {{tt|xqa|نا|tr=nē}}
+* Karelian: {{tt|krl|mis}}
+* Kashubian: {{tt|csb|co}}
+* Kazakh: {{tt+|kk|не|sc=Cyrl}}
+* Khmer: {{tt|km|អី|tr=’əy|sc=Khmr}}, {{tt+|km|អ្វី|tr=’vǝy|sc=Khmr}}, {{tt+|km|ស្អី|tr=s’əy|sc=Khmr}}
+* K'iche': {{tt|quc|jas}}
+* Kikuyu: {{tt|ki|atĩa}}
+* Korean: {{tt+|ko|무엇}}, {{tt+|ko|뭐}}
+* Krio: {{tt|kri|wetin}}
+* Kriol: {{tt|rop|wot}}, {{tt|rop|wani}}, {{tt|rop|wanim}}
+* Kurdish:
+*: Central Kurdish: {{tt+|ckb|چی}}
+*: Northern Kurdish: {{tt+|kmr|çi}}
+* Kyrgyz: {{tt+|ky|эмне|sc=Cyrl}}, {{tt+|ky|не|sc=Cyrl}}
+{{trans-mid}}
+* Laboya: {{tt|lmy|aha}}
+* Lao: {{tt+|lo|ຫຍັງ}}
+* Latin: {{tt+|la|quid}}
+* Latvian: {{tt+|lv|kas}} {{qualifier|who and what}}
+* Lezgi: {{t|lez|вуч}}
+* Limburgish: {{tt+|li|wat}}
+* Lithuanian: {{tt+|lt|kas}} {{qualifier|who and what}}
+* Livonian: {{tt|liv|mis}}
+* Lombard: {{t+|lmo|che}}
+* Low German:
+*: German Low German: {{tt+|nds-de|wat}}
+* Macedonian: {{tt|mk|што}}, {{tt|mk|какво}}
+* Malay:
+*: Jawi: {{tt|ms|اڤ|sc=Arab}}
+*: Rumi: {{tt+|ms|apa}}
+* Malayalam: {{tt+|ml|എന്ത്|sc=Mlym}}, {{tt+|ml|എന്തൊരു}}
+* Maltese: {{tt|mt|xiex}}, {{tt|mt|x'}}
+* Manchu: {{t|mnc|ᠶᠠ}}, {{t|mnc|ᠠᡳ}}
+* Manx: {{tt|gv|cre}}
+* Maore Comorian: {{tt|swb|trini}}
+* Maori: {{tt+|mi|aha}}, {{tt+|mi|aha}} {{qualifier|for an object}}, {{tt+|mi|wai}} {{qualifier|for a person}}, {{tt|mi|hea}} {{qualifier|for a place}}
+* Maranao: {{tt|mrw|ngin}}
+* Marathi: {{tt+|mr|काय}}
+* Middle Korean: {{t|okm|므슴〮|tr=mùsúm}}, {{t|okm|므스〮|tr=mùsú}}
+* Moksha: {{tt|mdf|мезе}}
+* Mongolian: {{tt+|mn|юу|sc=Cyrl}}, {{tt+|mn|уу}}
+* Mwani: {{tt|wmw|kinani}}
+* Nanai: {{t|gld|хай}}
+* Navajo: {{tt|nv|haʼátʼíísh}}, {{tt|nv|daa}}
+* Neapolitan: {{tt|nap|quale}}, {{tt|nap|che cosa}}
+* Ngarrindjeri: {{tt|nay|minye}}
+* Ngazidja Comorian: {{tt|zdj|hindri}}
+* Nigerian Pidgin: {{t|pcm|wetin}}
+* Northern Ohlone: {{tt|cst|hinṭo}}
+* Northern Thai: {{t-needed|nod}}
+* Norwegian:
+*: Bokmål: {{tt+|no|hva}}
+*: Nynorsk: {{tt+|nn|kva}}
+* Occitan: {{tt+|oc|qué}}
+* Old Church Slavonic:
+*: Cyrillic: {{tt|cu|чьто}}
+*: Glagolitic: {{tt|cu|ⱍⱐⱅⱁ}}
+* Old Dutch: {{tt|odt|wat}}
+* Old East Slavic: {{tt|orv|чьто}}
+* Old English: {{tt|ang|hwæt}}
+* Old Frisian: {{tt|ofs|hwet}}
+* Old Saxon: {{tt|osx|hwat}}
+* Old Turkic: {{tt|otk|𐰤𐰀|ts=ne}}
+* Oriya: {{tt+|or|କଣ}}
+* Ossetian: {{t|os|цы}}
+* Ottoman Turkish: {{tt|ota|نه|tr=ne}}
+* Pangasinan: {{tt|pag|anto}}
+* Pashto: {{tt+|ps|څه|tr=cә}}
+* Pela: {{t|bxd|pɛ̠⁵⁵}}, {{t|bxd|pɛ̠⁵⁵ tʃuŋ⁵¹}}
+* Persian: {{tt+|fa|چه|tr=če}}, {{tt+|fa|چی|tr=či}}, {{tt|fa|چه چیزی|tr=če čizi|sc=fa-Arab}}
+* Pipil: {{tt|ppl|tay}}
+* Polish: {{tt+|pl|co}}
+* Portuguese: {{tt|pt|o que}}
+* Rapa Nui: {{tt|rap|aha}}
+* Romanian: {{tt+|ro|ce}}
+* Russian: {{tt+|ru|что}}
+* Rusyn: {{tt|rue|што}}
+* Sanskrit: {{t+|sa|किम्}}
+* Scots: {{tt|sco|whit}}
+* Scottish Gaelic: {{tt|gd|dè}}
+* Serbo-Croatian:
+*: Cyrillic: {{tt|sh|што̏|sc=Cyrl}}, {{tt|sh|шта̏|sc=Cyrl}}, {{tt|sh|кај}} {{qualifier|Kajkavian}}
+*: Roman: {{tt+|sh|štȍ|sc=Cyrl}}, {{tt|sh|štȁ|sc=Cyrl}}, {{tt|sh|kaj}} {{qualifier|Kajkavian}}
+* Shan: {{t-needed|shn}}
+* Shor: {{tt|cjs|ноо|tr=noo}}
+* Sicilian: {{tt+|scn|chi}}
+* Sindhi: {{t|sd|ڇا}}
+* Sinhalese: {{tt|si|මොකක්ද|sc=Sinh}}
+* Slovak: {{tt+|sk|čo}}
+* Slovene: {{tt+|sl|káj}}
+* Sorbian:
+*: Lower Sorbian: {{tt|dsb|co}}
+*: Upper Sorbian: {{tt+|hsb|što}}
+* Southern Thai: {{tt|sou|พรือ}}
+* Spanish: {{tt+|es|qué}}, {{tt+|es|cuál}}
+* Sundanese: {{tt+|su|naon}}
+* Swahili: {{tt|sw|nini}}
+* Swedish: {{tt+|sv|vad}}
+* Sylheti: {{tt|syl|ꠇꠤꠔꠣ}}
+* Tagalog: {{tt+|tl|ano}}
+* Tajik: {{tt+|tg|чӣ|sc=Cyrl}}
+* Talysh: {{qualifier|Asalemi}} {{tt|tly|چی|tr=ci|sc=fa-Arab}}, {{tt|tly|چیچی|tr=cici|sc=fa-Arab}}, {{tt|tly|چه|tr=cə}}
+* Tamil: {{tt+|ta|என்ன|sc=Taml}}, {{t+|ta|எது}}
+* Taos: {{tt|twf|híli}}
+* Tatar: {{tt|tt|ни|sc=Cyrl}}
+* Tausug: {{tt|tsg|unu}}
+* Telugu: {{tt+|te|ఏమిటి}}
+* Tetum: {{t|tet|sá}}
+* Thai: {{tt+|th|อะไร}}, {{tt+|th|ยังไง}}
+* Tibetan: {{tt|bo|ག་རེ}}
+* Turkish: {{tt+|tr|ne}}
+* Turkmen: {{tt|tk|näme}}
+* Tuvan: {{tt|tyv|чүү}}
+* Ugaritic: {{tt|uga|𐎎𐎅}}
+* Ukrainian: {{tt+|uk|що}}
+* Urdu: {{tt|ur|کیا|tr=kyā}}
+* Uyghur: {{tt|ug|نېمە|sc=ug-Arab}}, {{tt|ug|نە}} {{qualifier|literally}}
+* Uzbek: {{tt+|uz|nima}}
+* Veps: {{tt|vep|mi}}
+* Vietnamese: {{tt+|vi|gì}}
+* Volapük: {{qualifier|nominative}} {{tt+|vo|kis}}, {{qualifier|accusative}} {{tt|vo|kisi}}
+* Võro: {{tt|vro|miä}}
+* Waray-Waray: {{tt|war|ano}}
+* Welsh: {{tt+|cy|beth}}
+* White Hmong: {{tt|mww|dab tsi}}
+* Yagnobi: {{tt|yai|чо}}
+* Yiddish: {{tt|yi|וואָס}}
+* Yola: {{tt|yol|fade}}
+* Yoruba: {{t|yo|kí ni}}
+* Zazaki: {{tt+|zza|se}}, {{tt|zza|çıçi}}, {{tt|zza|çiçî}}
+* Zealandic: {{tt|zea|wat}}
+* Zhuang: {{tt|za|caemjdoh}}, {{tt|za|gaiqmaz}}
+* Zulu: {{tt|zu|ni}}, {{tt|zu|ni|alt=-ni}}
+* ǃKung: {{t|khi-kun|tsa-de}}
+=
+{{checktrans-top}} &lt;!-- was "why", but this does not correspond to any English sense -->
+* Hindi: {{t+|hi|क्यों}}
+* Malay: {{t|ms|kenapa}}
+* Portuguese: {{t+|pt|por que}}
+{{trans-mid}}
+* Zazaki: {{t|zza|seni}}
+=
+{{trans-top|expression of surprise}}
+* Bulgarian: {{t|bg|какво!|sc=Cyrl}}
+* Catalan: {{t+|ca|com}}, {{t+|ca|i ara}}
+* Czech: {{t+|cs|cože?}}
+* Dutch: {{t+|nl|wat!}}
+* Estonian: {{t+|et|mida?}}, {{t+|et|mis?}}, {{t|et|misasja?}}, {{t+|et|kuidas?}}
+* Finnish: {{qualifier|1}} {{t+|fi|mitä!}}
+* French: {{t+|fr|quoi|alt=quoi{{NNBS}}!}}, {{t+|fr|comment|alt=comment{{NNBS}}!}}
+* German: {{t+|de|was!}}
+* Greek: {{t+|el|τι|sc=Grek}}
+*: Ancient: {{t|grc|τί δὲ}}
+* Hebrew: {{t+|he|מָה?|tr=ma?|sc=Hebr}}
+* Hungarian: {{qualifier|1}} {{t+|hu|mi?}}, {{t+|hu|micsoda?}}
+* Icelandic: {{t+|is|ha?}}
+* Indonesian: {{t+|id|apa}}
+* Italian: {{t+|it|cosa}}
+{{trans-mid}}
+* Japanese: {{t+|ja|何|tr=なに, nani}}
+* Kapampangan: {{t|pam|nano}} {{t|pam|nanu}} {{t|pam|na}}
+* Korean: {{t+|ko|어때?}}
+* Malay: {{t+|ms|apa}}
+* Manx: {{t|gv|yagh?}}
+* Maori: {{t|mi|hā}}, {{t|mi|are}}
+* Polish: {{t+|pl|co!}}
+* Portuguese: {{t+|pt|o quê?}}
+* Russian: {{t+|ru|как!}}, {{t+|ru|что!}}
+* Slovak: {{t+|sk|čo}}
+* Slovene: {{t+|sl|káj!}}, {{t+|sl|res|alt=a rés!}}
+* Spanish: {{t+|es|¡qué!}}, {{t+|es|¿no?}}, {{t+|es|¿cómo?}}
+* Swedish: {{t+|sv|va!}}
+* Tagalog: {{t+|tl|ano}}, {{t|tl|ha}}
+* Vietnamese: {{t+|vi|gì}}
+* Welsh: {{t+|cy|beth}}
+=
+{{trans-top|some person}}
+* American Sign Language: {{t|ase|1@InsideNeckhigh-FingerUpPalmBack CirclesHoriz}}
+* Arabic: {{t+|ar|أَحَد}}
+* Armenian: {{t+|hy|մեկ|alt=մեկը}}
+* Asturian: {{t+|ast|daquién}}
+* Azerbaijani: {{t+|az|kimsə}}, {{t+|az|kim isə}}
+* Belarusian: {{t|be|хто́сьці|sc=Cyrl}}, {{t|be|хтось|sc=Cyrl}}, {{t|be|не́хта|sc=Cyrl}}
+* Bengali: {{t|bn|কেউ একটা|sc=Beng}}
+* Bulgarian: {{t|bg|някой}}
+* Catalan: {{t+|ca|algú}}, {{t+|ca|qualcú}}
+* Chamicuro: {{t|ccc|ana'shanaye}}
+* Chinese:
+*: Cantonese: {{t|yue|有人|tr=jau5 jan4|sc=Hani}}
+*: Mandarin: {{t+|cmn|有人|tr=yǒurén|sc=Hani}}, {{t+|cmn|某人|tr=mǒurén|sc=Hani}}, {{t+|cmn|誰|sc=Hani}}, {{t+|cmn|谁|tr=shéi, shuí|sc=Hani}}
+* Cornish: {{t|kw|nebonan}}
+* Czech: {{t+|cs|někdo}}
+* Danish: {{t+|da|nogen}}, {{t|da|en eller anden|c}}
+* Dutch: {{t+|nl|iemand}}
+* Esperanto: {{t+|eo|iu}}
+* Estonian: {{t+|et|keegi}}
+* Finnish: {{t+|fi|joku}}
+* French: {{t+|fr|quelqu'un}}
+* Friulian: {{t|fur|ciertun}}
+* Galician: {{t+|gl|alguén}}
+* German: {{t+|de|jemand}}, {{t+|de|einer}}
+*: Alemannic German: {{t|gsw|epper}}, {{t|gsw|ebber}}
+* Greek: {{t+|el|κάποιος}}
+*: Ancient: {{t|grc|τις}}
+* Hebrew: {{t|he|מִישֶׁהוּ|tr=míshehu}}
+* Hindi: {{t+|hi|कोई|sc=Deva}}
+* Hungarian: {{t+|hu|valaki}}
+* Icelandic: {{t+|is|einhver}}
+* Ido: {{t+|io|ulu}}
+* Indonesian: {{t+|id|seseorang}}
+* Interlingua: {{t|ia|alicuno}}, {{t|ia|alcuno}}
+* Italian: {{t+|it|qualcuno}}
+* Japanese: {{t|ja|誰か|tr=だれか, dareka}}, {{t|ja|[[或る]][[人]]|tr=あるひと, aru hito}}
+* Kazakh: {{t|kk|біреу|sc=Cyrl}}
+* Korean: {{t|ko|누군가}}, {{t|ko|[[어떤]] [[사람]]}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|یەکێک}}, {{t|ckb|کەسێک}}
+{{trans-mid}}
+* Latgalian: {{t|ltg|kaids}}
+* Latin: {{t+|la|aliquis|m|f}}, {{t|la|aliquid|n}}, {{t+|la|quidam|m|f}}, {{t+|la|quidam|n}}, {{t|la|quiddam|n}}, {{t|la|quaedam|f}}
+* Latvian: {{t+|lv|kāds}}
+* Lenape:
+*: Unami: {{t|unm|awèn}}
+* Macedonian: {{t|mk|некој}}
+* Malay: {{t|ms|seseorang}}
+* Mirandese: {{t|mwl|alguien}}
+* Norman: {{t|nrf|tchitch'un}}
+* Norwegian:
+*: Bokmål: {{t+|nb|noen}}
+*: Nynorsk: {{t|nn|nokon}}, {{t|nn|einkvan|m}}, {{t|nn|eikor|f}}
+* Occitan: {{t+|oc|qualqu'un}}
+* Old English: {{t|ang|sum mann}}
+* Old Prussian: {{t|prg|aīnunts}}
+* Pennsylvania German: {{t|pdc|ebber}}
+* Persian: {{t+|fa|کسی|tr=kasi}}, {{t+|fa|یکی|tr=yeki}} {{qualifier|informal}}
+* Plautdietsch: {{t|pdt|wäa}}
+* Polish: {{t+|pl|ktoś}}
+* Portuguese: {{t+|pt|alguém}}
+* Romani: {{t|rom|varekon}}
+* Romanian: {{t+|ro|cineva}}
+* Russian: {{t+|ru|кто́-то}}, {{t+|ru|кто-нибу́дь}}, {{t+|ru|не́кто}}, {{t+|ru|кто́-либо}}, {{t+|ru|кое-кто́}}
+* Scottish Gaelic: {{t|gd|cuideigin}}, {{qualifier|male}} {{t|gd|duin'-eigin}}, {{qualifier|male}} {{t|gd|feareigin}}, {{qualifier|female}} {{t|gd|tè-eigin}}
+* Serbo-Croatian:
+*: Cyrillic: {{qualifier|Bosnian, Serbian}} {{t|sh|неко|m|sc=Cyrl}}, {{qualifier|Croatian}} {{t|sh|нетко|m|sc=Cyrl}}
+*: Roman: {{qualifier|Bosnian, Serbian}} {{t+|sh|neko|m}}, {{qualifier|Croatian}} {{t|sh|netko|m}}
+* Slovak: {{t+|sk|niekto}}, {{t|sk|dakto}}, {{t|sk|voľakto}}
+* Slovene: {{t+|sl|nekdó}}
+* Spanish: {{t+|es|alguien}}, {{t+|es|alguno}}
+* Swedish: {{t+|sv|någon}}
+* Talysh: {{t|tly|ای نفری|tr=i nafari|sc=fa-Arab}}
+* Telugu: {{t|te|ఎవరో}}
+* Thai: {{t|th|บางคน}}
+* Turkish: {{t+|tr|biri}}
+* Ukrainian: {{t+|uk|хтось}}, {{t+|uk|хто-не́будь}}
+* Vietnamese: {{t|vi|ai đó}}
+* Volapük: {{t+|vo|ek}}
+* Welsh: {{t+|cy|rhywun|m}}
+* Yiddish: {{t|yi|עמעצער}}
+=
+{{trans-top|anybody}}
+* Arabic:
+*: Moroccan Arabic: {{t|ary|أي واحد|tr=ʔayy wāḥed}}, {{t|ary|أي حد|tr=ʔayy ḥadd}}
+* Armenian: {{t|hy|ամեն մեկը}}, {{t|hy|որևէ մեկը}}
+* Belarusian: {{t|be|хто-не́будзь}}, {{qualifier|in negative sentences}} {{t|be|ніхто́}}, {{t|be|абы-хто́}}
+* Bulgarian: {{t|bg|все́ки}}, {{t|bg|ня́кой}}, {{t|bg|ко́йто и да е}}
+* Catalan: {{t|ca|qualsevol}}, {{t+|ca|tothom}}, {{qualifier|questions}} {{t+|ca|algú}}, {{qualifier|negative}} {{t+|ca|ningú}}
+* Chamicuro: {{t|ccc|ana'shanaye}}
+* Chinese:
+*: Mandarin: {{t+|cmn|何人|tr=hérén|sc=Hani}}
+* Czech: {{t+|cs|kdokoliv}}
+* Danish: {{t+|da|nogen}}, {{t|da|hvemsomhelst}}
+* Dutch: {{t+|nl|iemand}}
+* Esperanto: {{t+|eo|iu}}, {{t|eo|iu ajn}}
+* Estonian: {{t+|et|keegi}}, {{t+|et|igaüks}}
+* Finnish: {{t+|fi|joku}}, {{t|fi|kuka tahansa}} {{qualifier|affirmative}}, {{t|fi|ketään}} {{qualifier|interrogative}}
+* French: {{t+|fr|quelqu'un|m}}, {{t+|fr|quelqu'une|f}}, {{t+|fr|n'importe qui}}, {{t+|fr|personne}}
+* Georgian: {{t|ka|ვინმე|sc=Geor}}, {{t|ka|ნებისმიერი|sc=Geor}}
+* German: {{t+|de|jemand}}, {{t+|de|wer}} {{qualifier|colloquial}}, {{t+|de|irgendjemand}}, {{t+|de|irgendwer}}
+* Hebrew: {{t|he|אף אחד|tr=áf ekhád|sc=Hebr}} {{qualifier|negative}}, {{t|he|מישהו|tr=mishehú|sc=Hebr}} {{qualifier|positive}}
+* Hungarian: {{t+|hu|bárki}}, {{t+|hu|akárki}}
+* Ido: {{t+|io|irgu}}
+* Irish: {{t|ga|aon duine}}
+* Italian: {{t+|it|chiunque}}
+* Japanese: {{t|ja|誰も|tr=[[だれも]], dare mo}} {{qualifier|used with affirmative verbs}} {{t|ja|誰でも|tr=[[だれでも]], dare de mo}}
+* Korean: {{t+|ko|아무}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|کەس}}, {{t|ckb|ھەرچیکەس}}, {{t+|ckb|ھەرکەس}}
+* Latin: {{t+|la|quisquam}}
+* Malay:
+*: Jawi: {{t|ms|سياڤا٢|sc=Arab}}, {{t|ms|سسياڤا|sc=Arab}}
+*: Rumi: {{t|ms|siapa-siapa}}, {{t|ms|sesiapa}}
+* Maore Comorian: {{qualifier|in negative sentences}} {{t|swb|ata mutru}}
+* Ngazidja Comorian: {{t|zdj|mndru|c1}}, {{t|zdj|dzima|c1|alt=mdzima}} {{qualifier|in negative sentences}}
+* Norwegian: {{t+|no|noen}}, {{t+|no|enhver}}, {{t|no|hvem som helst}}
+* Old English: {{t|ang|ǣniġ mann}}, {{t|ang|ǣniġ}}, {{t|ang|hwā}}, {{t+|ang|man}}
+* Persian: {{t+|fa|کسی|tr=kasi|sc=fa-Arab}}
+* Polish: {{t+|pl|ktokolwiek}}, {{t|pl|kto bądź}}, {{t+|pl|byle kto}}
+* Portuguese: {{t+|pt|alguém|m}}, {{t+|pt|alguma|f}}, {{t+|pt|qualquer|m|f}}, {{t+|pt|quaisquer|m-p|f-p}}, {{t|pt|qualquer um}}
+* Romanian: {{t+|ro|oricine}}
+* Russian: {{t+|ru|вся́кий|m}}, {{t+|ru|любо́й}}, {{t|ru|[[кто]] [[уго́дно]]}}, {{t|ru|[[кто]] [[бы]] [[то]] [[ни́]] [[быть|было]]}}, {{t+|ru|никто́}} {{qualifier|in negative sentences}}, {{t+|ru|кто́-нибу́дь}} {{qualifier|interrogative}}, {{t+|ru|кто́-либо}}, {{t|ru|[[кто]] [[уго́дно]]}}
+* Serbo-Croatian: {{t|sh|bilotko}}, {{t|sh|itko}}, {{t|sh|tkogod}}
+* Slovene: {{t+|sl|kdorkoli}}
+* Spanish: {{t+|es|cualquiera}}, {{t+|es|quien}}, {{t+|es|alguien}}
+* Swedish: {{t+|sv|någon}}, {{t+|sv|vem som helst}}, ({{t|sv|vem som}})
+* Tagalog: {{t|tl|sinuman}}, {{t|tl|balana}}
+* Telugu: {{t+|te|ఎవరైనా}}
+* Ukrainian: {{t+|uk|хто-не́будь}}, {{qualifier|in negative sentences}} {{t|uk|ніхто́}}, {{t+|uk|будь-хто}}, {{t+|uk|будь-яки́й}}
+* Vietnamese: {{t+|vi|ai}}, {{t+|vi|người ta}}
+* West Frisian: {{t|fy|immen}}
+* Yoruba: {{t|yo|ẹnikẹ́ni}}
+=
+{{trans-top|every person}}
+* Afrikaans: {{t+|af|almal}}
+* Arabic: {{t|ar|جميع|alt=الْجَمِيع}}, {{t|ar|[[كُلّ]] [[شَخْص]]}}
+* Bashkir: {{t|ba|һәр кем}}
+* Belarusian: {{t|be|усе́|p|sc=Cyrl}} / {{t|be|ўсе́|p|sc=Cyrl}}, {{t|be|ко́жны|sc=Cyrl}}
+* Bengali: {{t|bn|সবাই}}
+* Bulgarian: {{t+|bg|вси́чки|p|sc=Cyrl}}, {{t|bg|все́ки|sc=Cyrl}}
+* Catalan: {{t+|ca|tothom}}, {{t+|ca|cada u}}, {{t+|ca|cadascú}}
+* Chinese:
+*: Cantonese: {{t|yue|大家|tr=daai6 gaa1|sc=Hani}}, {{t|yue|人人|tr=jan4 jan4|sc=Hani}}
+*: Hakka: {{t|hak|逐家|tr=tak-kâ|sc=Hani}}, {{t|hak|大家|tr=thai-kâ|sc=Hani}}
+*: Mandarin: {{t+|cmn|大家|tr=dàjiā|sc=Hani}}, {{t+|cmn|人人|tr=rénrén|sc=Hani}}
+*: Min Nan: {{t+|nan|逐家|tr=ta̍k-ke|sc=Hani}}, {{t|nan|大家|tr=tāi-ke, ta-ke, tōa-ke|sc=Hani}}
+*: Wu: {{t|wuu|大家|tr=da ka|sc=Hani}}
+* Czech: {{t+|cs|všichni|m}}, {{t+|cs|každý|m}}
+* Danish: {{t+|da|alle}}
+* Dutch: {{t+|nl|iedereen}}, {{t+|nl|elkeen}}, {{t+|nl|allen}}, {{t+|nl|allemaal}}, {{t+|nl|iegelijk}}
+* Esperanto: {{t+|eo|ĉiu}}, {{t+|eo|ĉiuj}}
+* Estonian: {{t+|et|kõik}}, {{t+|et|igaüks}}
+* Finnish: {{t+|fi|jokainen}}, {{t+|fi|kaikki}}
+* French: {{t+|fr|chacun}}, {{t+|fr|tout le monde}}, {{t+|fr|tous}}
+* Galician: {{t|gl|todos|m-p}}, {{t|gl|cada quen}}
+* Georgian: {{t|ka|ყველა|sc=Geor}}, {{t|ka|ყოველი|sc=Geor}}, {{t|ka|თითოეული|sc=Geor}}
+* German: {{t+|de|alle}}, {{t+|de|jedermann}}, {{t+|de|jeder}}
+* Greek: {{t|el|κάθε ένας}}, {{t+|el|όλοι|p}}, {{t|el|άπαντες|p}}, {{t|el|οι πάντες|p}}
+*: Ancient: {{t|grc|[[πᾶς|πάντες]]|m-p}}
+* Gujarati: {{t|gu|બધા}}
+* Hebrew: {{t|he|כולם|alt=כולם \ כֻּלָּם|tr=kulám|sc=Hebr}}
+* Hindi: {{t|hi|[[सब]] [[लोग]]}}
+* Hungarian: {{t+|hu|mindenki}}, {{t+|hu|mind}} {{q|referring to previously mentioned group}}
+* Ido: {{t+|io|omnu}}
+* Interlingua: {{t|ia|totos|p}}, {{t|ia|tote le mundo}}, {{t|ia|omnes|p}}
+* Irish: {{t|ga|[[gach]] [[duine]]|m}}
+* Italian: {{t+|it|ciascuno}}, {{t+|it|tutti|m-p}}
+* Japanese: {{t|ja|皆さん|tr=みなさん, minasan|sc=Jpan}}, {{t+|ja|みんな|tr=minna|sc=Jpan}}, {{t|ja|[[だれ]][[も]]|tr=dare mo|sc=Jpan}}
+* Kazakh: {{t|kk|әркім}}
+* Khmer: {{t|km|ទាំងអស់គ្នា|tr=teaŋ ɑh knie|sc=Khmr}}, {{t|km|គ្រប់គ្នា|tr=krup knie|sc=Khmr}}
+* Korean: {{t+|ko|모두}}, {{t|ko|[[누구]][[나]]}}, {{t+|ko|여러분}}, {{t|ko|다들}}, {{t+|ko|각자(各自)}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ھەریەکە}}, {{t|ckb|ھەموکەس}}
+* Ladino: {{t|lad|טודוס|tr=tudos|m-p}}, {{t|lad|טודו אל מונדו|tr=tudo el mundo|m}}
+* Latin: {{t+|la|omnes}}
+* Macedonian: {{t|mk|си́те|p}}, {{t|mk|се́кој}}
+* Maltese: {{t|mt|kulħadd}}
+* Maori: {{t|mi|ngā tāngata katoa}}, {{t|mi|te katoa}}, {{t|mi|ia tangata}}
+* Navajo: {{t|nv|tʼáá ájíłtso}}
+* Ngazidja Comorian: {{t|zdj|heni mndru}}
+* Ojibwe: {{t|oj|gakina}}, {{t|oj|gakina awiiya}}
+* Old English: {{t|ang|ǣlċ}}, {{t|ang|ǣlċ mann}}, {{t|ang|ġehwā}}
+* Persian: {{t|fa|[[هر]] [[کس]]|tr=har kas|sc=fa-Arab}}
+* Picard: {{t|pcd|tertous}}
+* Polish: {{t+|pl|każdy}}; {{t+|pl|wszyscy|p}}, {{t+|pl|wszelaki}} {{qualifier|literally}}
+* Portuguese: {{t+|pt|todos|m-p}}, {{t+|pt|todo mundo|m}}, {{t|pt|toda a gente}}
+* Quechua: {{t|qu|llapan}}
+* Romanian: {{t+|ro|oricine}}, {{t|ro|toți}}, {{t+|ro|fiecare}} ([[om]])
+* Russian: {{t+|ru|все|p}}, {{t+|ru|ка́ждый}}, {{t+|ru|вся́кий}}
+* Scots: {{t|sco|awbody}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|сви|p}}
+*: Roman: {{t+|sh|svi|p}}
+* Slovak: {{t|sk|všetci}}, {{t|sk|každý}}
+* Slovene: {{t|sl|vsi}}, {{t+|sl|vsak}}
+* Spanish: {{t+|es|todos}}, {{t+|es|todo el mundo}}, {{t|es|todo quisqui}}
+* Swedish: {{t+|sv|alla}}, {{t+|sv|allihop}}, {{t+|sv|allesammans}}
+* Tamil: {{t+|ta|எல்லோரும்}}, {{t|ta|அனைவருக்கும்}}
+* Telugu: {{t|te|అందరూ}}
+* Thai: {{t|th|ทุกคน}}, {{t|th|ทุกท่าน}}
+* Turkish: {{t+|tr|herkes}}
+* Ukrainian: {{t|uk|усі́|p|sc=Cyrl}} / {{t+|uk|всі́|p|sc=Cyrl}}, {{t+|uk|ко́жний|sc=Cyrl}}, {{t|uk|вся́кий}}
+* Urdu: {{t|ur|[[سب لوگ]]|tr=sab log|sc=ur-Arab}}
+* Vietnamese: {{t|vi|mọi người}} ({{t|vi|每𠊛|sc=Hani}})
+* Walloon: {{t+|wa|tertos}}
+* Welsh: {{t+|cy|pob}}
+* Zhuang: {{t|za|bouxboux}}
+=
+{{trans-top|not even a single person}}
+* Afrikaans: {{t+|af|niemand}}
+* Albanian: {{t+|sq|askush}}, {{t+|sq|kurrkush}}
+* Arabic: {{t|ar|[[أَحَد]] [[لَا]]}}
+*: Egyptian Arabic: {{t|arz|ماحدش|tr=maḥaddiš}}
+*: Moroccan Arabic: {{t|ary|حتى حد|tr=ḥetta ḥadd}}, {{t|ary|حتى واحد|tr=ḥetta wāḥed}}
+* Armenian: {{t|hy|ոչ ոք}}, {{t|hy|ոչ մեկը}}
+* Asturian: {{t|ast|naide}}, {{t|ast|ñaide}}
+* Azerbaijani: {{t+|az|heç kim}}, {{t|az|heç kəs}}
+* Basque: {{t|eu|inor}}
+* Belarusian: {{t|be|ніхто́}}
+* Belizean Creole: {{t|bzj|nobadi}}
+* Bengali: {{t|bn|কেউ না}}
+* Bulgarian: {{t|bg|ни́кой}}
+* Burmese: {{t|my|ဘယ်သူမှ}}
+* Catalan: {{t+|ca|ningú}}
+* Chamicuro: {{t|ccc|meyana'shanaye}}
+* Chinese:
+*: Cantonese: {{t|yue|[[冇]][[人]]|tr=mou5 jan4}}
+*: Mandarin: {{t|cmn|[[沒有]][[人]]}}, {{t|cmn|[[没有]][[人]]|tr=méiyǒu rén}}, {{t|cmn|[[沒]][[人]]}}, {{t|cmn|[[没]][[人]]|tr=méirén}}
+* Classical Nahuatl: {{t|nci|ayāc}}
+* Czech: {{t+|cs|nikdo}}
+* Dalmatian: {{t|dlm|nenčoin}}
+* Danish: {{t+|da|ingen}}
+* Dutch: {{t+|nl|niemand}}
+* Esperanto: {{t+|eo|neniu}}
+* Estonian: {{t|et|ei keegi}}, {{t+|et|mitte keegi}}
+* Faroese: {{t|fo|eingin}}
+* Finnish: {{t|fi|ei kukaan}}
+* French: {{t+|fr|personne}}, {{t+|fr|nul}}, {{t+|fr|qui que ce soit}}
+* Friulian: {{t|fur|nissun}}
+* Galician: {{t|gl|ninguén}}
+* Georgian: {{t|ka|არავინ}}
+* German: {{t+|de|niemand}}, {{t+|de|keiner|m}}
+* Greek: {{t+|el|κανένας}}
+*: Ancient: {{t|grc|οὐδείς}}, {{t|grc|μηδείς}}, {{t|grc|οὖτις}}, {{t|grc|μήτις}}
+* Hindi: {{t|hi|कोई नहीं}}
+* Hungarian: {{t+|hu|senki}}
+* Icelandic: {{t+|is|enginn}}, {{t+|is|neinn}}
+* Ido: {{t+|io|nulu}}
+* Interlingua: {{t|ia|necuno}}, {{t|ia|nemo}}
+* Irish: {{t|ga|aon duine}} {{qualifier|with negated verb}}
+* Istriot: {{t|ist|ningun}}
+* Italian: {{t+|it|nessuno}}
+* Japanese: {{t|ja|[[誰も]]...[[ない]]|tr=だれも...ない, dare-mo...nai}}
+{{trans-mid}}
+* Kapampangan: {{t|pam|alang ninu man}}, {{t|pam|alang ninuman}}
+* Kazakh: {{t|kk|ешкім}}
+* Khmer: {{t|km|គ្មាន​នរណា​ម្នាក់|tr=kmien nɔɔnaa mneak}}
+* Korean: {{t|ko|[[아무]][[-도]]...[[아니다]]}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|کەس}}
+* Lao: {{t|lo|ບໍ່​ມີ​ໃຜ}}
+* Latin: {{t+|la|nēmō}}
+* Latvian: {{t|lv|neviens}}
+* Macedonian: {{t|mk|никој}}
+* Maltese: {{t|mt|ħadd}}
+* Maori: {{t|mi|pākorehā}}
+* Middle English: {{t|enm|noman}}
+* Mirandese: {{t|mwl|naide}}
+* Navajo: {{t|nv|doo nagháí da}}
+* Neapolitan: {{t|nap|nisciuno}}
+* Norwegian:
+*: Bokmål: {{t+|no|ingen}}
+*: Nynorsk: {{t|nn|ingen}}
+* Old English: {{t|ang|nān mann|m}}
+* Old French: {{t|fro|nul}}
+* Persian: {{t|fa|هیچ‌کس|tr=hič-kas|sc=fa-Arab}}
+* Plautdietsch: {{t|pdt|kjeena}}
+* Polish: {{t+|pl|nikt}}
+* Portuguese: {{t+|pt|ninguém}}
+* Romanian: {{t+|ro|nimeni}}, {{t|ro|niciun|m|n}}
+* Russian: {{t+|ru|никто́}}
+* Scots: {{t|sco|naebody}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|нико}}, {{t|sh|нитко}}
+*: Roman: {{t|sh|niko}}, {{t|sh|nitko}}
+* Sicilian: {{t+|scn|nuddu}}
+* Slovak: {{t|sk|nikto}}
+* Slovene: {{t+|sl|nihčè}}
+* Spanish: {{t+|es|nadie}}
+* Swedish: {{t+|sv|ingen}}
+* Tagalog: {{t|tl|walang sino man}}, {{t|tl|walang sinuman}}
+* Talysh:
+*: Asalemi: {{t|tly|هیش کسی|tr=hiš kasi|sc=fa-Arab}}
+* Thai: {{t|th|ไม่มีใคร|tr=mâi mee krai}}
+* Turkish: {{t+|tr|kimse}}, {{t+|tr|hiç kimse}}
+* Ukrainian: {{t|uk|ніхто́}}
+* Urdu: {{t|ur|کوئی نہیں|tr=koī nahī̃|sc=ur-Arab}}
+* Vietnamese: {{t|vi|không ai}} ({{t|vi|空埃}})
+* Volapük: {{t+|vo|nek}}
+* Walloon: {{t+|wa|nouk|m}}, {{t+|wa|nolu|c}}
+* Welsh: {{t|cy|neb}}
+* West Frisian: {{t|fy|nimmen}}
+* Yiddish: {{t|yi|קיינער}}
+=
+{{trans-top|all the things}}
+* Afrikaans: {{t+|af|alles}}
+* Apache:
+*: Western Apache: {{t|apw|dawa}}
+* Arabic: {{t|ar|كُلّ شَيْء}}
+*: Egyptian Arabic: {{t|arz|كل حاجة|tr=kul ḥaga}}
+*: Moroccan Arabic: {{t|ary|كل شي|tr=kull ši}}
+* Aragonese: {{t|an|tot}}
+* Azerbaijani: {{t|az|hər şey}}, {{t+|az|hamısı}}
+* Basque: {{t|eu|den}}
+* Belarusian: {{t+|be|усё}}
+* Bengali: {{t|bn|সবকিছু}}
+* Bulgarian: {{t+|bg|вси́чко|n}}
+* Catalan: {{t+|ca|tot}}
+* Cherokee: {{t|chr|ᎢᎬᏩᏕᎴᎩ}}
+* Cheyenne: {{t|chy|mȧheto}}
+* Chinese:
+*: Cantonese: {{t|yue|凡事|tr=faan4 si6|sc=Hani}}, {{t|yue|一切|tr=jat1 cai3|sc=Hani}}, {{t|yue|萬事|sc=Hani}}, {{t|yue|万事|tr=maan6 si6|sc=Hani}}, {{t|yue|[[乜嘢]][[都]]|tr=mat1 je5 dou1}}
+*: Gan: {{t-needed|gan}}
+*: Hakka: {{t|hak|凡事|tr=fàm-sṳ|sc=Hani}}, {{t|hak|萬事|sc=Hani}}, {{t|hak|万事|tr=van-sṳ|sc=Hani}}
+*: Mandarin: {{t+|cmn|一切|tr=yīqiè|sc=Hani}}, {{t+|cmn|每事|tr=měishì|sc=Hani}}, {{t|cmn|[[什麼]][[都]]|sc=Hani}}, {{t|cmn|[[什么]][[都]]|tr=shénme dōu|sc=Hani}}, {{t+|cmn|凡事|tr=fánshì|sc=Hani}}, {{t+|cmn|萬事|sc=Hani}}, {{t+|cmn|万事|tr=wànshì|sc=Hani}}
+*: Min Dong: {{t-needed|cdo}}
+*: Min Nan: {{t+|nan|凡事|tr=hoân-sū|sc=Hani}}, {{t+|nan|萬事|sc=Hani}}, {{t|nan|万事|tr=bān-sū|sc=Hani}}, {{t+|nan|一切|tr=it-chhè|sc=Hani}}
+* Chuvash: {{t|cv|йӑлт}}
+* Czech: {{t+|cs|všechno|n}}, {{t+|cs|všechen|m}} {{q|before an uncountable noun}}
+* Danish: {{t+|da|alt}}
+* Dutch: {{t+|nl|alles}}
+* Egyptian: {{t-egy|tm|h=t:tm-m}}
+* Esperanto: {{t+|eo|ĉio}}
+* Estonian: {{t+|et|kõik}}
+* Faroese: {{t|fo|alt}}
+* Finnish: {{t+|fi|kaikki}}
+* French: {{t+|fr|tout|m}}
+* Galician: {{t+|gl|todo|m}}
+* Georgian: {{t|ka|ყველაფერი}}
+* German: {{t+|de|alles|n}}
+*: Silesian: {{t|gmw-ecg|olles|n}} ({{t|gmw-ecg|Olles}}, {{t|gmw-ecg|Alles}})
+* Greek: {{t+|el|όλα|n-p}}, {{t|el|τα πάντα|n-p}}
+*: Ancient: {{t|grc|πάντα|n-p}}
+* Hebrew: {{t+|he|הכל|tr=hachol}}
+* Hindi: {{t|hi|सब कुछ}}, {{t+|hi|सब}}
+* Hungarian: {{t+|hu|minden}}, {{t+|hu|mind}} {{q|when it is about a previously mentioned group}}
+* Icelandic: {{t+|is|allt}}
+{{trans-mid}}
+* Ido: {{t+|io|omno}}
+* Indonesian: {{t|id|segala sesuatu}}, {{t+|id|semuanya}}
+* Interlingua: {{t|ia|omne}}, {{t|ia|toto}}
+* Irish: {{t|ga|gach rud}}
+* Istriot: {{t|ist|doûto}}
+* Italian: {{t+|it|tutto}}
+* Japanese: {{t+|ja|全て|tr=すべて, subete}}, {{t+|ja|全部|tr=ぜんぶ, zenbu}}, {{t|ja|いずれも|tr=izuremo}}, {{t|ja|どれも|tr=doremo}}
+* Kabuverdianu: {{t|kea|túdu}}
+* Korean: {{t+|ko|모두}}, {{t|ko|[[모든]] [[것]]}}, {{t+|ko|전부}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ھەمو شتێک}}
+* Latin: {{t+|la|omnia|n-p}}, {{t|la|nihil non}}, {{t|la|omnes res|f}}, {{t|la|totae res}}, {{t|la|quidvis}}, {{t|la|quidquid|n}}, {{t+|la|tota|n}}
+* Macedonian: {{t|mk|се}}
+* Malay: {{t|ms|semuanya}}
+* Maltese: {{t|mt|kollox}}
+* Mòcheno: {{t|mhn|òlls}}
+* Nahuatl: {{t|nah|nochi}}
+* Navajo: {{t|nv|tʼáá ałtsoní}}
+* Norwegian: {{t+|no|alt}}, {{t+|no|allting}}
+* Persian: {{t|fa|هر چیز|tr=har čiz|sc=fa-Arab}}, {{t|fa|همه‌چیز|sc=fa-Arab|tr=hame-čiz}}
+* Polish: {{t+|pl|wszystko|n}}
+* Portuguese: {{t+|pt|tudo|m}}
+* Romanian: {{t+|ro|tot}}
+* Russian: {{t+|ru|всё|n}}
+* Rusyn: {{t|rue|вшы́тко}}
+* Scots: {{t|sco|aathin}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|све|n|sc=Cyrl}}
+*: Roman: {{t|sh|sve|n}}
+* Slovak: {{t|sk|všetko}}
+* Slovene: {{t+|sl|vse}}
+* Spanish: {{t+|es|todo}}
+* Swedish: {{t+|sv|allt|n}}, {{t+|sv|alla|c}}
+* Telugu: {{t+|te|అన్నీ}}
+* Thai: {{t|th|ทุกสิ่ง}}, {{t|th|ทุกอย่าง}}
+* Tok Pisin: {{l|tpi|olgeta}} {{t+|tpi|samting}}
+* Turkish: {{t|tr|her şey}}, {{t+|tr|herşey}}
+* Ukrainian: {{t|uk|усе́}}, {{t|uk|все}}
+* Urdu: {{t|ur|سب کچھ|tr=sab kuch}}, {{t|ur|سب|tr=sab|sc=ur-Arab}}, {{t|ur|ہر چیز|sc=ur-Arab}}
+* Venetian: {{t+|vec|tuto}}
+* Vietnamese: {{t|vi|mọi vật}}, {{t|vi|mọi thứ nào}} {{q|every thing}}, {{t+|vi|tất cả}} {{q|all}}
+* Volapük: {{t+|vo|valikos}}
+* Welsh: {{t|cy|popeth}}
+* Yiddish: {{t|yi|אַלץ}}, {{t|yi|אַלצדינג}}
+* Yámana: {{t|yag|xanikina}}
+=
+{{trans-top|not any thing}}
+* Afrikaans: {{t|af|niks}}
+* Albanian: {{t+|sq|asgjë}}, {{t+|sq|kurrgjë}}
+* Alekano: {{t|gah|hanuva}}
+* Amharic: {{t|am|መነም}}, {{t|am|ምንም}}
+* Apache:
+*: Western Apache: {{t|apw|dohatʼeeda}}
+* Arabic: {{t|ar|لَا شَيْء}}
+*: Egyptian Arabic: {{t|arz|ولا حاجة|tr=walā ḥāga}}
+*: Hijazi Arabic: {{t|acw|ولا شي|tr=walā šay}}
+*: Moroccan Arabic: {{t|ary|والو|tr=wālu}}, {{t|ary|حتى حاجة|tr=ḥetta ḥāja}}
+* Aragonese: {{t|an|cosa}}, {{t|an|res}}
+* Armenian: {{t+|hy|ոչինչ}}
+* Asturian: {{t+|ast|nada}}, {{t+|ast|ñada}}
+* Azerbaijani: {{t+|az|heç nə}}
+* Basque: {{t|eu|ezerez}}, {{t|eu|deusez}}
+* Belarusian: {{t|be|нішто́}}, {{t|be|нічо́га}}
+* Bengali: {{t|bn|কিছু না}}
+* Bulgarian: {{t+|bg|ни́що}}
+* Burmese: {{t|my|ဘာမြှ}}
+* Bikol Central: {{t|bcl|mayo}}, {{t|bcl|wara}}
+* Catalan: {{t+|ca|res}}, {{t+|ca|re}}
+* Cebuano: {{t|ceb|walay bisan unsa}}
+* Central Huishui Hmong: {{t|hmc|tsis muaj dab tsi}}
+* Chamicuro: {{t|ccc|kala}}
+* Cherokee: {{t|chr|ᎠᏝ ᎪᎱᏍᏗ}}
+* Chichewa: {{t|ny|palibe}}, {{t|ny|kanthu}}
+* Chinese:
+*: Mandarin: {{t+|cmn|沒什麼|sc=Hani}}, {{t+|cmn|没什么|tr=méishénme|sc=Hani}}, {{t+|cmn|沒事|sc=Hani}}, {{t+|cmn|没事|tr=méishì|sc=Hani}}
+* Classical Nahuatl: {{t|nci|ahtle}}
+* Corsican: {{t|co|nunda}}
+* Czech: {{t+|cs|nic}}
+* Dalmatian: {{t|dlm|nolja}}
+* Danish: {{t+|da|intet}}, {{t+|da|ingenting}}
+* Dutch: {{t+|nl|niets}}, {{t+|nl|niks}}
+* Esperanto: {{t+|eo|nenio}}
+* Finnish: {{t|fi|ei mikään}}, {{t|fi|ei mitään}}
+* French: {{t+|fr|rien}}, {{t|fr|[[ne]] + ''verb'' + [[rien]]}}
+* Friulian: {{t|fur|nuie}}, {{t|fur|nie}}
+* Galician: {{t|gl|nada}}, {{t+|gl|ren}}, {{t+|gl|res}}, {{t|gl|nimigalla}}
+* Georgian: {{t|ka|არაფერი}}
+* German: {{t+|de|nichts}}
+*: Alemannic German: {{t|gsw|nüüt}}
+* Greek: {{t+|el|τίποτα}}
+*: Ancient: {{t|grc|οὐδέν}}, {{t|grc|μηδέν}}
+* Gujarati: {{t|gu|કંઇ નહીં}}
+* Haitian Creole: {{t|ht|anyen}}
+* Hausa: {{t|ha|kome ba}}
+* Hawaiian: {{t|haw|ʻaʻohe mea}}
+* Hebrew: ''see usage notes at'' {{t+|he|שׁוּם דָּבָר}} and {{t+|he|כְּלוּם}}
+* Hindi: {{t|hi|कुछ नहीं}}
+* Hungarian: {{t+|hu|semmi}}
+* Icelandic: {{t+|is|ekkert|n}}, {{t|is|neitt}}
+* Ido: {{t+|io|nulo}}
+* Igbo: {{t|ig|ọ dịghị ihe}}
+* Indonesian: {{t+|id|nol}}
+* Interlingua: {{t|ia|nihil}}, {{t|ia|nil}}
+* Irish: {{t|ga|neamhní}}
+* Istriot: {{t|ist|gninte}}
+* Italian: {{t+|it|niente}}, {{t|it|[[non]] + ''verb'' + [[niente]]|lit=not + ''verb'' + nothing}} {{q|colloquial}}, {{t+|it|nulla}}
+* Japanese: {{t|ja|[[何も]]...[[ない]]|tr=なにも...ない, nani mo...nai|sc=Jpan}}, {{t|ja|何でもない|tr=なんでもない, nandemonai|sc=Jpan}}, {{t|ja|別に|tr=べつに, betsu ni|sc=Jpan}}
+* Javanese: {{t|jv|boten}}
+* Kannada: {{t|kn|ಏನೂ ಇಲ್ಲ}}
+* Kazakh: {{t|kk|ештеңе}}, {{t|kk|ешнәрсе}}, {{t|kk|дым}}
+{{trans-mid}}
+* Khmer: {{t|km|គ្មានអ្វីទេ|tr=kmeanoavei te}}
+* Korean: {{t|ko|[[아무것]][[-도]]...[[없다]]}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|ھیچ|sc=ku-Arab}}
+* Kyrgyz: {{t+|ky|эч нерсе}}
+* Ladino: {{t|lad|nada}}, {{t|lad|ich}}
+* Lakota: {{t|lkt|tákuni}}
+* Lao: {{t|lo|ບໍ່ມີຫຍັງ}}
+* Latin: {{t+|la|nihil|n}}, {{t|la|nihilum|n}}
+* Latvian: {{t|lv|nekas}}
+* Lithuanian: {{t|lt|niekas}}
+* Luxembourgish: {{t|lb|näischt}}
+* Macedonian: {{t|mk|ништо}}
+* Malagasy: {{t+|mg|na inona na inona}}
+* Malay: {{t|ms|tiada apa-apa}}
+* Malayalam: {{t+|ml|ഒന്നും}}
+* Maltese: {{t|mt|xejn}}
+* Maori: {{t|mi|kahore he mea}}
+* Marathi: {{t|mr|काहीही नाही}}
+* Mongolian: {{t|mn|юу ч биш}}
+* Navajo: {{t|nv|ádin}}
+* Nepali: {{t|ne|केही पनि छैन}}
+* North Frisian: {{t|frr|nönt}} {{qualifier|Sylt}}
+* Norwegian:
+*: Bokmål: {{t+|nb|ingenting}}, {{t+|nb|intet}}
+*: Nynorsk: {{t|nn|ingenting}}, {{t|nn|inkje}}
+* Oriya: {{t|or|କିଛି ନୁହେଁ}}
+* Pashto: {{t|ps|هیڅ شی}}
+* Persian: {{t+|fa|هیچ|tr=hič|sc=fa-Arab}}, {{t|fa|هیچ‌چیز|tr=hič-čiz|sc=fa-Arab}}
+* Plautdietsch: {{t|pdt|nuscht}}
+* Polish: {{t+|pl|nic}}
+* Portuguese: {{t+|pt|nada}}
+* Punjabi: {{t|pa|ਕੁਝ ਨਹੀਂ}}
+* Romanian: {{t+|ro|nimic}}
+* Romansch: {{t|rm|nagut}}, {{t|rm|nuot}} {{qualifier|Sursilvan}}, {{t|rm|nut(a)}} {{qualifier|Sutsilvan}}, {{t|rm|navot}} {{qualifier|Surmiran}}, {{t|rm|ünguotta}} {{qualifier|Puter}}, {{t|rm|nöglia}} {{qualifier|Vallader}}
+* Russian: {{t+|ru|ничто́}}, {{t+|ru|ничего́}}
+* Rwanda-Rundi: {{t|rw|ntacyo}}
+* Samoan: {{t|sm|leai se mea}}
+* Scottish Gaelic: {{t|gd|sìon}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ни̏шта|sc=Cyrl}}
+*: Roman: {{t+|sh|nȉšta}}
+* Shona: {{t|sn|hapana chinhu}}
+* Sicilian: {{t+|scn|nenti}}
+* Sindhi: {{t|sd|ڪجھ به نه}}
+* Sinhalese: {{t|si|කිසිවක් නැත}}
+* Slovak: {{t|sk|nič}}
+* Slovene: {{t+|sl|nìč}}
+* Somali: {{t|so|waxba}}
+* Sotho: {{t|st|letho}}
+* Spanish: {{t+|es|nada}}
+* Sundanese: {{t|su|teu lain}}
+* Swahili: {{t+|sw|kitu}}
+* Swedish: {{t+|sv|inget}}, {{t+|sv|ingenting}}, {{t+|sv|intet}}
+* Tagalog: {{t+|tl|wala}}
+* Tajik: {{t|tg|ҳеҷ чиз}}
+* Tamil: {{t+|ta|எதுவும்}}, {{t|ta|எதுவும் இல்லை}}, {{t|ta|எதுவுமே}}
+* Telugu: {{t|te|ఏమిలేదు}}, {{t|te|ఏమీ}}
+* Thai: {{t|th|[[ไม่]][[มี]][[อะไร]]|tr=mâi mii à-rai}}
+* Tok Pisin: {{t|tpi|nogat samting}}
+* Turkish: {{t+|tr|hiç}}, {{t|tr|hiç bir şey}}
+* Turkmen: {{t|tk|hiç zat}}
+* Ukrainian: {{t|uk|ніщо́}}, {{t|uk|нічо́го}}
+* Urdu: {{t|ur|کچھ نہیں|tr=kuch nahī̃|sc=ur-Arab}}
+* Uyghur: {{t|ug|ھېچنېمە يوق}}
+* Uzbek: {{t|uz|hech narsa}}, {{t|uz|hech nima}}
+* Venetian: {{t+|vec|gnent}}, {{t|vec|gnente}}
+* Vietnamese: {{t|vi|không có gì}}, {{t|vi|không có chi}} ({{t|vi|[[空]][[𣎏]][[之]]|sc=Hani}})
+* Volapük: {{t+|vo|nos}}
+* Walloon: {{t+|wa|rén}}
+* Welsh: {{t+|cy|dim}},  {{t|cy|dim byd}}
+* West Frisian: {{t|fy|neat}}
+* Xhosa: {{t|xh|lutho}}
+* Yiddish: {{t|yi|גאָרנישט}}
+* Yoruba: {{t|yo|ohunkohun}}
+* Zulu: {{t|zu|lutho}}
+=
+{{trans-top|something trifling, or of no consequence or importance}}
+* Bulgarian: {{t+|bg|дреболия|f}}
+* Hungarian: {{t+|hu|semmiség}}
+{{trans-mid}}
+==
+{{trans-top|any thing of any kind}}
+* American Sign Language: {{t|ase|A@Wrist-PalmUp-A@CenterTrunkhigh-PalmUp 5@SideTrunkhigh-PalmUp-5@SideTrunkhigh-PalmUp}}
+* Arabic:
+*: Moroccan Arabic: {{t|ary|أي حاجة|tr=ʔayy ḥāja}}
+* Belarusian: {{t|be|што-не́будзь}}, {{t|be|нішто́}} {{qualifier|in negative sentences}}
+* Bulgarian: {{t+|bg|нещо}}, {{t|bg|каквото и да е}}
+* Catalan: {{t|ca|qualsevol cosa}}, {{t+|ca|alguna cosa}}, {{t+|ca|quelcom}}, {{t+|ca|tot}}, {{qualifier|in negative sentences}} {{t+|ca|res}}, {{t+|ca|re}}
+* Chamicuro: {{t|ccc|anaskajneye}}
+* Cherokee: {{t|chr|ᎦᎱᏍᏗ}}
+* Chinese:
+*: Mandarin: {{t+|cmn|什麼}}, {{t+|cmn|什么|tr=shénme}}
+* Czech: {{t+|cs|cokoliv}}
+* Dutch: {{t+|nl|iets}}, {{t+|nl|alles}}, {{t|nl|wat dan ook}}
+* Esperanto: {{t|eo|io ajn}}
+* Finnish: {{t+|fi|mikä}}, {{t+|fi|mikä tahansa}}
+* French: {{t+|fr|n’importe quoi}}, {{qualifier|in negative sentences}} {{t+|fr|rien}}
+* Galician: {{t|gl|calquera cousa}}
+* Georgian: {{t|ka|ნებისმიერი რამ}}
+* German: {{t+|de|irgendetwas}}, {{t+|de|irgendwas}}
+* Gothic: {{t|got|𐌰𐌹𐌽𐍃𐌷𐌿𐌽}}
+* Greek: {{t+|el|οτιδήποτε|n}}, {{t+|el|ό,τι}}
+* Hungarian: {{t+|hu|akármi}}, {{t+|hu|bármi}}
+* Ido: {{t+|io|irgo}}
+* Irish: {{t|ga|aon rud}}
+* Italian: {{t|it|qualunque cosa}}, {{t|it|qualsiasi cosa}}, {{t+|it|niente}}
+* Japanese: {{t+|ja|何|alt=何でも|tr=なんでも, nandemo}}
+* Khmer: {{t|km|អី}}
+{{trans-mid}}
+* Korean: {{t|ko|[[아무것]][[-도]]}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|ھیچ}}
+* Macedonian: {{t|mk|било што}}, {{t|mk|што било}}, {{t|mk|што и да било}}
+* Malay:
+*: Jawi: {{t|ms|اڤ٢}}
+*: Rumi: {{t|ms|apa-apa}}
+* Manx: {{t|gv|nhee erbee}}
+* Ngazidja Comorian: {{qualifier|in negative sentences}} {{t|zdj|ndrongoo}}
+* Polish: {{t+|pl|cokolwiek|n}} {{qualifier|'whatever'}}, {{t+|pl|byle co|n}} {{qualifier|'whatever'}}, {{t+|pl|coś|n}} {{qualifier|'something' eg. 'I have never done anything like that.'}}, {{t+|pl|nic|n}} {{qualifier|in negative sentences}}, {{t+|pl|wszystko|n}} {{qualifier|eg. 'I would do anything for her.'}}
+* Portuguese: {{t|pt|[[qualquer]] [[coisa]]|f}}
+* Romanian: {{t+|ro|orice}}, {{t+|ro|nimic}}
+* Russian: {{t|ru|всё, что уго́дно}}, {{t+|ru|всё}}, {{t|ru|что уго́дно}}, {{t+|ru|что́-нибудь}}
+* Scottish Gaelic: {{t|gd|rud sam bith}}
+* Serbo-Croatian:
+*: Roman: {{t|sh|bilošto}}, {{t|sh|bilo što}}
+* Slovak: {{t|sk|čokoľvek}}
+* Spanish: {{t|es|[[cualquier]] [[cosa]]}}
+* Swahili: {{qualifier|in negative sentences}} {{t+|sw|kitu|c7}}
+* Swedish: {{t+|sv|någonting}}, {{t|sv|vad som helst}}
+* Telugu: {{t+|te|ఏమైనా}}
+* Tok Pisin: {{t+|tpi|samting}}
+* Ukrainian: {{t+|uk|що-не́будь}}, {{t|uk|ніщо́}} {{qualifier|in negative sentences}}, {{t+|uk|будь-що}}
+* Yiddish: {{t|yi|עפּעס}}
+==
+{{trans-top|someone or something}}
+* American Sign Language: {{t|ase|A@Wrist-PalmUp-A@CenterTrunkhigh-PalmUp 5@SideTrunkhigh-PalmUp-5@SideTrunkhigh-PalmUp}}
+* Finnish: {{t+|fi|mikä tahansa}}
+* Greek: {{t+|el|οτιδήποτε}}
+* Guerrero Amuzgo: {{t|amu|makjo}}
+* Japanese: {{t|ja|何でも|tr=nandemo}}
+* Latin: {{t+|la|quisquam}}
+* Maltese: {{t|mt|kwalunkwe ħaġa}}
+{{trans-mid}}
+* Portuguese: {{t|pt|[[qualquer]] [[coisa]]|f}}
+* Romanian: {{t+|ro|cineva}}, {{t+|ro|ceva}}
+* Scottish Gaelic: {{t|gd|dad|m}}, {{t|gd|càil|f}}
+* Slovene: {{t|sl|karkoli|n}}
+* Swedish: {{t+|sv|något}}, {{t|sv|vad som helst}}, {{t|sv|vilken som helst}}, {{t|sv|vilket som helst}} (1)
+* Yiddish: {{t|yi|עפּעס}}
+=
+{{trans-top|while on the contrary, although, whereas}}
+* Finnish: {{t|fi|siinä missä}}
+* Galician: {{t|gl|aínda que}}
+* Hungarian: {{t+|hu|míg}}
+* Korean: {{t+|ko|지만|alt=-지만}}, {{t|ko|지마는|alt=-지마는}}
+{{trans-mid}}
+* Polish: {{t+|pl|podczas gdy}}
+* Portuguese: {{t+|pt|enquanto}}
+* Swedish: {{t+|sv|medan}}
+=
+{{trans-top|at what place; to what place; from what place}}
+* Afrikaans: {{t+|af|waar}}
+* Albanian: {{t+|sq|ku}}
+* American Sign Language: {{t|ase|1@Side-PalmForward SmallSidetoside}}
+* Arabic: {{t+|ar|أَيْن|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|فين|tr=fēn}}
+*: Moroccan Arabic: {{t|ary|فين|tr=fīn}}, {{t|ary|فاين|tr=fāyen}}, {{t|ary|وين|tr=wīn}}
+*: Levantine Arabic: {{t|apc|وَيْن|tr=wayn, wēn}} {{qualifier|and other Eastern dialects}}
+* Aramaic: {{t|arc|איכא|sc=Hebr}} {{rftranslit|arc}}
+* Armenian: {{t+|hy|որտեղ}}, {{t+|hy|ուր}}
+*: Old Armenian: {{t|xcl|յո}}, {{t|xcl|ուր}}
+* Ashkun: {{t|ask|kū̃}}, {{t|ask|koňo}}
+* Asturian: {{t+|ast|ónde}}
+* Awadhi: {{t|awa|कहां}}
+* Azerbaijani: {{t+|az|harada}}, {{t|az|hanı}}
+* Bakhtiari: {{t|bqi|کوجه|tr=kōje|sc=fa-Arab}}
+* Bengali: {{t|bn|কোথায়|sc=Beng}}, {{t|bn|যেখানে|sc=Beng}}
+* Bhojpuri: {{t|bho|कहां}}
+* Bulgarian: {{t+|bg|къде́}}
+* Burmese: {{t+|my|ဘယ်|sc=Mymr}}, {{qualifier|who, where, which, what}}, {{t+|my|ပဇာ|sc=Mymr}}
+* Catalan: {{t+|ca|on}}
+* Chamicuro: {{t|ccc|na'yeni}}
+* Chamorro: {{t|ch|manu}}
+* Cherokee: {{t|chr|ᎭᏢ}}
+* Chinese:
+*: Cantonese: {{t|yue|哪裏}}/{{t|yue|哪裡}}, {{t|yue|哪里|tr=naa5 leoi5}} {{qualifier|formal}}, {{t+|yue|邊度}}, {{t|yue|边度|tr=bin1 dou6}} {{qualifier|vernacular}}, {{t|yue|邊處}}, {{t|yue|边处|tr=bin1 syu3}} {{qualifier|vernacular}}
+*: Dungan: {{t|dng|нани}}, {{t|dng|натар}}
+*: Mandarin: {{t+|cmn|哪裡}}/{{t|cmn|哪裏}}, {{t+|cmn|哪里|tr=nǎlǐ, nǎli}}, {{t+|cmn|哪兒}}, {{t+|cmn|哪儿|tr=nǎr}} {{q|with erhua}}, {{t+|cmn|哪|tr=nǎ}} {{q|without erhua}}
+*: Min Nan: {{t+|nan|佗位|tr=tó-ūi, tōe, toeh, toh-ūi}}, {{t+|nan|佗|tr=toh, tah, tio̍h}}, {{t|nan|佗落|tr=tó-lo̍h}}, {{t|nan|佗位仔|tr=tá-ūi-á}}
+* Chuvash: {{t|cv|ӑҫта|sc=Cyrl}}
+* Classical Nahuatl: {{t|nci|cān}}
+* Crimean Tatar: {{t|crh|qayda}}, {{t|crh|qayerde}}
+* Danish: {{t+|da|hvor}}
+* Esperanto: {{t+|eo|kie}}
+* Estonian: {{t+|et|kus}}
+* Even: {{t|eve|иду}}
+* Evenki: {{t|evn|иду}}
+* Fang (Bantu): {{t|fan|ve}}
+* Fiji Hindi: {{t+|hif|kahaan}}
+* Finnish: {{t+|fi|missä}}
+* French: {{t+|fr|où}}
+* Galician: {{t+|gl|onde}}
+* Georgian: {{t|ka|სად}}, {{t|ka|საით}}, {{t|ka|საიდან}}
+* Gothic: {{q|at what place}} {{t|got|𐍈𐌰𐍂}}, {{q|to what place}} {{t|got|𐍈𐌰𐌳𐍂𐌴}}, {{q|from what place}} {{t|got|𐍈𐌰𐌸𐍂𐍉}}
+* Greek: {{t+|el|πού}}
+* Greenlandic: {{t|kl|sumi}}
+* Hakka: {{t|hak|奈}}
+* Hawaiian: {{t|haw|aia i hea}}
+* Hebrew: {{t|he|מאין|tr=mei-ayin|sc=Hebr}}
+* Higaonon: {{t|mba|hindu}}
+* Hiligaynon: {{t|hil|diin}}
+* Hindi: {{t+|hi|कहाँ}}, {{t+|hi|किधर}}
+* Hungarian: {{t+|hu|hol}}
+* Ibanag: {{t|ibg|sitaw}}
+* Icelandic: {{t+|is|hvar}}
+* Ido: {{t+|io|ube}}
+* Indonesian: {{t|id|[[ke]] [[mana]]}}, {{t|id|[[di]] [[mana]]}}
+* Interlingua: {{t+|ia|ubi}}
+* Irish: {{t|ga|cá}}, {{t|ga|cá háit}}, {{t|ga|cén áit}}
+*: Old Irish: {{t|sga|cía airm}}, {{t|sga|cairm}}, {{t|sga|cía dú}}
+* Italian: {{t+|it|dove}} {{qualifier|at what place}}
+* Japanese: {{t|ja|何処|tr=どこ, doko|sc=Jpan}}, {{t+|ja|どこ|tr=doko|sc=Jpan}}, {{t|ja|どうなる|tr=dō naru|sc=Jpan}}
+* Kamkata-viri: {{t|bsh|kuiua}}, {{t|bsh|kora}}
+* Kapampangan: {{t|pam|nokarin}}, {{t|pam|nukarin}}
+* Kazakh: {{t+|kk|қайда}}
+* Khmer: {{t|km|ឯណា|tr=ae naa|sc=Khmr}}, {{t+|km|ណា|tr=naa|sc=Khmr}}
+* Korean: {{t+|ko|어디}}
+{{trans-mid}}
+* Krio: {{t|kri|usay}}
+* Kriol: {{t|rop|weya}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|کوێ}}
+*: Northern Kurdish: {{t+|kmr|kû}}, {{t+|kmr|li kû}}
+* Kyrgyz: {{t+|ky|кайда}}
+* Lao: {{t|lo|ທີ່ໃດ}}, {{t|lo|ໃສ}}, {{t|lo|ຢູ່ໃສ}}
+* Latin: {{q|at what place}} {{t+|la|ubi}}, {{q|to what place}} {{t+|la|quo}}, {{q|from what place}} {{t+|la|unde}}
+* Latgalian: {{t|ltg|kur}}, {{t|ltg|kimā}}
+* Latvian: {{t|lv|kur}}
+* Lithuanian: {{t+|lt|kur}}
+* Lü: {{t-needed|khb}}
+* Macedonian: {{t|mk|каде}}
+* Maguindanao: {{t|mdh|andaw}}
+* Malagasy: {{t+|mg|aiza}}
+* Malay: {{t|ms|di mana}}, {{t|ms|ke mana}}, {{t|ms|dari mana}}
+* Maltese: {{t+|mt|fejn}}
+* Manchu: {{t|mnc|ᠶᠠᠪᠠ}}, {{t|mnc|ᠠᠪᠠ}}
+* Mansi: {{t|mns|хо̄т}}
+* Maori: {{t|mi|hea}}
+* Mongolian: {{t+|mn|хаашаа|sc=Cyrl}}, {{t+|mn|хаана|sc=Cyrl}}
+* Nahuatl: {{t|nci|can}}
+* Navajo: {{t|nv|háadi}}, {{t|nv|háájí}}
+* Ngazidja Comorian: {{t|zdj|nɗa}}, {{t|zdj|nɗahu}}
+* Northern Thai: {{t-needed|nod}}
+* Norwegian:
+*: Bokmål: {{t+|nb|hvor}}
+*: Nynorsk: {{t|nn|kor}}, {{t|nn|kvar}}
+* Old French: {{t|fro|ou}}
+* Ossetian: {{t|os|кӕм}}
+* Pangasinan: {{t|pag|iner}}
+* Pashto: {{t|ps|چېرې|sc=ps-Arab}}
+* Persian: {{t+|fa|کجا|tr=kojâ|sc=fa-Arab}}, {{t+|fa|کو|tr=ku|sc=fa-Arab}}
+* Pipil: {{t|ppl|kan}}, {{t|ppl|can}}
+* Portuguese: {{t+|pt|onde}}
+* Quechua: {{t|qu|may}}
+* Romani: {{t|rom|kaj}}
+* Romanian: {{t+|ro|unde}}
+* Romansch: {{t|rm|nua}}
+* Sanskrit: {{t+|sa|कू|tr=kū́}}, {{t+|sa|कुत्र|tr=kútra}}
+* Scots: {{t|sco|whaur}}
+* Scottish Gaelic: {{t|gd|càite}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|где}}, {{t|sh|гдје}}
+*: Roman: {{t+|sh|gde}}, {{t+|sh|gdje}}
+* Shan: {{t-needed|shn}}
+* Shor: {{t|cjs|қайда|tr=qayda}}
+* Sinhalese: {{t|si|කෝ|sc=Sinh}}, {{t|si|කොහිද|sc=Sinh}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|źo}}
+* Southern Thai: {{t-needed|sou}}
+* Spanish: {{t+|es|dónde}}
+* Sundanese: {{t|su|timanten}}
+* Swahili: {{t|sw|wapi}}
+* Sylheti: {{t|syl|ꠇꠥꠘꠣꠘꠧ}}
+* Tagalog: {{t|tl|saan}}
+* Tajik: {{t|tg|куҷо}}
+* Talysh: {{qualifier|Asalemi}} {{t|tly|کیا|tr=kiâ|sc=fa-Arab}}
+* Tashelhit: {{t|shi|ⵎⴰⵏⵉ}}
+* Tatar: {{t+|tt|кайда}}
+* Telugu: {{t+|te|ఎక్కడ}}
+* Thai: {{t|th|ที่ไหน}}
+* Turkmen: {{t|tk|nirede}}
+* Urdu: {{t|ur|کہاں|tr=kahā̃}}
+* Uzbek: {{t+|uz|qayerda}}
+* Vietnamese: {{t|vi|ở đâu}}
+* Waigali: {{t|wbk|kiv}}
+* Waray-Waray: {{t|war|ha-in}}
+* Welsh: {{t+|cy|man}}, {{t|cy|ble}}, {{t+|cy|lle}}
+* West Frisian: {{t+|fy|wêr}}
+* Yagnobi: {{t|yai|ку}}
+* Yakut: {{t|sah|ханна}}
+* Yiddish: {{t|yi|וווּ}}
+* Zealandic: {{t|zea|waer}}
+* Zhuang: {{t|za|gizlawz}}
+=
+{{trans-top|the place in which something happens}}
+* Arabic: {{t+|ar|أَيْن|m}}
+* Czech: {{t+|cs|kde}}
+* Dutch: {{t+|nl|waar|n}}, {{t+|nl|waarheen|n}}, {{t+|nl|waarvan|n}}, {{t+|nl|waarvandaan|n}}
+* Esperanto: {{t+|eo|kie}}
+* Finnish: {{t+|fi|missä}}
+* French: {{t+|fr|où|m}}
+* Galician: {{t+|gl|onde}}
+* German: {{t|de|Wo|n}}
+* Hindi: {{t+|hi|जिधर}}, {{t+|hi|जहाँ}}
+* Indonesian: {{t+|id|tempat}}
+* Italian: {{t+|it|dove|m}}
+* Japanese: {{t|ja|何処|tr=[[どこ]], doko}}
+{{trans-mid}}
+* Latin: {{t|la|in quo loco|m}}
+* Macedonian: {{t|mk|каде}}, {{t|mk|каде што}}
+* Malay: {{t|ms|di mana}}
+* Polish: {{t+|pl|gdzie}}
+* Portuguese: {{t+|pt|onde}}
+* Scots: {{t|sco|whaur}}
+* Spanish: {{t+|es|donde|m}}
+* Tagalog: {{t|tl|kinaroroonan}}, {{t|tl|kung saan}}
+* Vietnamese: {{t|vi|ở đâu}}

@@ -1,0 +1,147 @@
+=
+{{trans-top|not any thing}}
+* Afrikaans: {{t|af|niks}}
+* Albanian: {{t+|sq|asgjë}}, {{t+|sq|kurrgjë}}
+* Alekano: {{t|gah|hanuva}}
+* Amharic: {{t|am|መነም}}, {{t|am|ምንም}}
+* Apache:
+*: Western Apache: {{t|apw|dohatʼeeda}}
+* Arabic: {{t|ar|لَا شَيْء}}
+*: Egyptian Arabic: {{t|arz|ولا حاجة|tr=walā ḥāga}}
+*: Hijazi Arabic: {{t|acw|ولا شي|tr=walā šay}}
+*: Moroccan Arabic: {{t|ary|والو|tr=wālu}}, {{t|ary|حتى حاجة|tr=ḥetta ḥāja}}
+* Aragonese: {{t|an|cosa}}, {{t|an|res}}
+* Armenian: {{t+|hy|ոչինչ}}
+* Asturian: {{t+|ast|nada}}, {{t+|ast|ñada}}
+* Azerbaijani: {{t+|az|heç nə}}
+* Basque: {{t|eu|ezerez}}, {{t|eu|deusez}}
+* Belarusian: {{t|be|нішто́}}, {{t|be|нічо́га}}
+* Bengali: {{t|bn|কিছু না}}
+* Bulgarian: {{t+|bg|ни́що}}
+* Burmese: {{t|my|ဘာမြှ}}
+* Bikol Central: {{t|bcl|mayo}}, {{t|bcl|wara}}
+* Catalan: {{t+|ca|res}}, {{t+|ca|re}}
+* Cebuano: {{t|ceb|walay bisan unsa}}
+* Central Huishui Hmong: {{t|hmc|tsis muaj dab tsi}}
+* Chamicuro: {{t|ccc|kala}}
+* Cherokee: {{t|chr|ᎠᏝ ᎪᎱᏍᏗ}}
+* Chichewa: {{t|ny|palibe}}, {{t|ny|kanthu}}
+* Chinese:
+*: Mandarin: {{t+|cmn|沒什麼|sc=Hani}}, {{t+|cmn|没什么|tr=méishénme|sc=Hani}}, {{t+|cmn|沒事|sc=Hani}}, {{t+|cmn|没事|tr=méishì|sc=Hani}}
+* Classical Nahuatl: {{t|nci|ahtle}}
+* Corsican: {{t|co|nunda}}
+* Czech: {{t+|cs|nic}}
+* Dalmatian: {{t|dlm|nolja}}
+* Danish: {{t+|da|intet}}, {{t+|da|ingenting}}
+* Dutch: {{t+|nl|niets}}, {{t+|nl|niks}}
+* Esperanto: {{t+|eo|nenio}}
+* Finnish: {{t|fi|ei mikään}}, {{t|fi|ei mitään}}
+* French: {{t+|fr|rien}}, {{t|fr|[[ne]] + ''verb'' + [[rien]]}}
+* Friulian: {{t|fur|nuie}}, {{t|fur|nie}}
+* Galician: {{t|gl|nada}}, {{t+|gl|ren}}, {{t+|gl|res}}, {{t|gl|nimigalla}}
+* Georgian: {{t|ka|არაფერი}}
+* German: {{t+|de|nichts}}
+*: Alemannic German: {{t|gsw|nüüt}}
+* Greek: {{t+|el|τίποτα}}
+*: Ancient: {{t|grc|οὐδέν}}, {{t|grc|μηδέν}}
+* Gujarati: {{t|gu|કંઇ નહીં}}
+* Haitian Creole: {{t|ht|anyen}}
+* Hausa: {{t|ha|kome ba}}
+* Hawaiian: {{t|haw|ʻaʻohe mea}}
+* Hebrew: ''see usage notes at'' {{t+|he|שׁוּם דָּבָר}} and {{t+|he|כְּלוּם}}
+* Hindi: {{t|hi|कुछ नहीं}}
+* Hungarian: {{t+|hu|semmi}}
+* Icelandic: {{t+|is|ekkert|n}}, {{t|is|neitt}}
+* Ido: {{t+|io|nulo}}
+* Igbo: {{t|ig|ọ dịghị ihe}}
+* Indonesian: {{t+|id|nol}}
+* Interlingua: {{t|ia|nihil}}, {{t|ia|nil}}
+* Irish: {{t|ga|neamhní}}
+* Istriot: {{t|ist|gninte}}
+* Italian: {{t+|it|niente}}, {{t|it|[[non]] + ''verb'' + [[niente]]|lit=not + ''verb'' + nothing}} {{q|colloquial}}, {{t+|it|nulla}}
+* Japanese: {{t|ja|[[何も]]...[[ない]]|tr=なにも...ない, nani mo...nai|sc=Jpan}}, {{t|ja|何でもない|tr=なんでもない, nandemonai|sc=Jpan}}, {{t|ja|別に|tr=べつに, betsu ni|sc=Jpan}}
+* Javanese: {{t|jv|boten}}
+* Kannada: {{t|kn|ಏನೂ ಇಲ್ಲ}}
+* Kazakh: {{t|kk|ештеңе}}, {{t|kk|ешнәрсе}}, {{t|kk|дым}}
+{{trans-mid}}
+* Khmer: {{t|km|គ្មានអ្វីទេ|tr=kmeanoavei te}}
+* Korean: {{t|ko|[[아무것]][[-도]]...[[없다]]}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|ھیچ|sc=ku-Arab}}
+* Kyrgyz: {{t+|ky|эч нерсе}}
+* Ladino: {{t|lad|nada}}, {{t|lad|ich}}
+* Lakota: {{t|lkt|tákuni}}
+* Lao: {{t|lo|ບໍ່ມີຫຍັງ}}
+* Latin: {{t+|la|nihil|n}}, {{t|la|nihilum|n}}
+* Latvian: {{t|lv|nekas}}
+* Lithuanian: {{t|lt|niekas}}
+* Luxembourgish: {{t|lb|näischt}}
+* Macedonian: {{t|mk|ништо}}
+* Malagasy: {{t+|mg|na inona na inona}}
+* Malay: {{t|ms|tiada apa-apa}}
+* Malayalam: {{t+|ml|ഒന്നും}}
+* Maltese: {{t|mt|xejn}}
+* Maori: {{t|mi|kahore he mea}}
+* Marathi: {{t|mr|काहीही नाही}}
+* Mongolian: {{t|mn|юу ч биш}}
+* Navajo: {{t|nv|ádin}}
+* Nepali: {{t|ne|केही पनि छैन}}
+* North Frisian: {{t|frr|nönt}} {{qualifier|Sylt}}
+* Norwegian:
+*: Bokmål: {{t+|nb|ingenting}}, {{t+|nb|intet}}
+*: Nynorsk: {{t|nn|ingenting}}, {{t|nn|inkje}}
+* Oriya: {{t|or|କିଛି ନୁହେଁ}}
+* Pashto: {{t|ps|هیڅ شی}}
+* Persian: {{t+|fa|هیچ|tr=hič|sc=fa-Arab}}, {{t|fa|هیچ‌چیز|tr=hič-čiz|sc=fa-Arab}}
+* Plautdietsch: {{t|pdt|nuscht}}
+* Polish: {{t+|pl|nic}}
+* Portuguese: {{t+|pt|nada}}
+* Punjabi: {{t|pa|ਕੁਝ ਨਹੀਂ}}
+* Romanian: {{t+|ro|nimic}}
+* Romansch: {{t|rm|nagut}}, {{t|rm|nuot}} {{qualifier|Sursilvan}}, {{t|rm|nut(a)}} {{qualifier|Sutsilvan}}, {{t|rm|navot}} {{qualifier|Surmiran}}, {{t|rm|ünguotta}} {{qualifier|Puter}}, {{t|rm|nöglia}} {{qualifier|Vallader}}
+* Russian: {{t+|ru|ничто́}}, {{t+|ru|ничего́}}
+* Rwanda-Rundi: {{t|rw|ntacyo}}
+* Samoan: {{t|sm|leai se mea}}
+* Scottish Gaelic: {{t|gd|sìon}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ни̏шта|sc=Cyrl}}
+*: Roman: {{t+|sh|nȉšta}}
+* Shona: {{t|sn|hapana chinhu}}
+* Sicilian: {{t+|scn|nenti}}
+* Sindhi: {{t|sd|ڪجھ به نه}}
+* Sinhalese: {{t|si|කිසිවක් නැත}}
+* Slovak: {{t|sk|nič}}
+* Slovene: {{t+|sl|nìč}}
+* Somali: {{t|so|waxba}}
+* Sotho: {{t|st|letho}}
+* Spanish: {{t+|es|nada}}
+* Sundanese: {{t|su|teu lain}}
+* Swahili: {{t+|sw|kitu}}
+* Swedish: {{t+|sv|inget}}, {{t+|sv|ingenting}}, {{t+|sv|intet}}
+* Tagalog: {{t+|tl|wala}}
+* Tajik: {{t|tg|ҳеҷ чиз}}
+* Tamil: {{t+|ta|எதுவும்}}, {{t|ta|எதுவும் இல்லை}}, {{t|ta|எதுவுமே}}
+* Telugu: {{t|te|ఏమిలేదు}}, {{t|te|ఏమీ}}
+* Thai: {{t|th|[[ไม่]][[มี]][[อะไร]]|tr=mâi mii à-rai}}
+* Tok Pisin: {{t|tpi|nogat samting}}
+* Turkish: {{t+|tr|hiç}}, {{t|tr|hiç bir şey}}
+* Turkmen: {{t|tk|hiç zat}}
+* Ukrainian: {{t|uk|ніщо́}}, {{t|uk|нічо́го}}
+* Urdu: {{t|ur|کچھ نہیں|tr=kuch nahī̃|sc=ur-Arab}}
+* Uyghur: {{t|ug|ھېچنېمە يوق}}
+* Uzbek: {{t|uz|hech narsa}}, {{t|uz|hech nima}}
+* Venetian: {{t+|vec|gnent}}, {{t|vec|gnente}}
+* Vietnamese: {{t|vi|không có gì}}, {{t|vi|không có chi}} ({{t|vi|[[空]][[𣎏]][[之]]|sc=Hani}})
+* Volapük: {{t+|vo|nos}}
+* Walloon: {{t+|wa|rén}}
+* Welsh: {{t+|cy|dim}},  {{t|cy|dim byd}}
+* West Frisian: {{t|fy|neat}}
+* Xhosa: {{t|xh|lutho}}
+* Yiddish: {{t|yi|גאָרנישט}}
+* Yoruba: {{t|yo|ohunkohun}}
+* Zulu: {{t|zu|lutho}}
+=
+{{trans-top|something trifling, or of no consequence or importance}}
+* Bulgarian: {{t+|bg|дреболия|f}}
+* Hungarian: {{t+|hu|semmiség}}
+{{trans-mid}}
