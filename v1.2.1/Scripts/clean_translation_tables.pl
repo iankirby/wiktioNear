@@ -138,12 +138,22 @@ while ($j<scalar(@new_array)){
     $j++;
 }
 
+# $out_str=~s/\"//g;
 
-open my ($write_fh), '>:encoding(UTF-8)', "perlOut.txt" or die "died";
-print $write_fh $out_str;
-close($write_fh);
+#Remove the {{t(+)|lng tag
+# $out_str=~s/\{\{t[^t]*\|[^\|]*\|[^\|]//g;
+
+print$out_str;
 
 
+##this is the code that writes it to a file.
+# open my ($write_fh), '>:encoding(UTF-8)', "perlOut.txt" or die "died";
+# print $write_fh $out_str;
+# close($write_fh);
+
+
+
+########################
 
 # print$plain;
 
