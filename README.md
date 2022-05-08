@@ -9,3 +9,5 @@ wiktioNear works by you providing it a CSV with the following format.
 and, https://en.wiktionary.org/wiki/and#English
 also, https://en.wiktionary.org/wiki/also#English
 ```
+
+* It's still very buggy.
