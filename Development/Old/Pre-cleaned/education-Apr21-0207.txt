@@ -1,0 +1,149 @@
+=
+{{trans-top|process or art of imparting knowledge, skill and judgment}}
+* Afrikaans: {{t+|af|onderwys}}
+* Albanian: {{t+|sq|arsim}}, {{t+|sq|edukim|f}}
+* Amharic: {{t|am|ትምህርት}}
+* Arabic: {{t+|ar|تَعْلِيم|m}}, {{t+|ar|تَرْبِيَة|f}}
+* Aragonese: {{t|an|educación|f}}
+* Armenian: {{t+|hy|կրթություն}}, {{t+|hy|ուսում}}
+* Aromanian: {{t|rup|educatsie|f}}
+* Assamese: {{t|as|শিক্ষা}}
+* Asturian: {{t|ast|educación|f}}
+* Azerbaijani: {{t+|az|təhsil}}, {{t+|az|tərbiyə}}, {{t|az|maarif}}, {{t+|az|təlim}}
+* Bashkir: {{t|ba|мәғариф}}
+* Basque: {{t|eu|hezkuntza}}
+* Belarusian: {{t+|be|адука́цыя|f}}, {{t|be|асве́та|f}}, {{t|be|асьве́та|f}}, {{t|be|выхава́нне|n}}, {{t|be|выхава́ньне|n}}
+* Bengali: {{t+|bn|শিক্ষা}}, {{t|bn|তালিম}}
+* Bokyi: {{t|bky|kor n' wed}}
+* Breton: {{t-needed|br}}
+* Bulgarian: {{t+|bg|образова́ние|n}}, {{t+|bg|възпита́ние|n}}
+* Burmese: {{t+|my|ပညာ}}, {{t+|my|ပညာရေး}}
+* Buryat: {{t|bua|болбосорол}}
+* Catalan: {{t+|ca|educació|f}}
+* Chechen: {{t|ce|дешар}}
+* Cherokee: {{t|chr|ᏗᏕᎶᏆᏍᏗ}}
+* Chinese:
+*: Cantonese: {{t|yue|教育|tr=gaau3 juk6}}
+*: Mandarin: {{t+|cmn|教育|tr=jiàoyù}}, {{t+|cmn|教學}}, {{t+|cmn|教学|tr=jiàoxué}}, {{t+|cmn|教養}}, {{t+|cmn|教养|tr=jiàoyǎng}}
+*: Min Nan: {{t+|nan|教育|tr=kàu-io̍k}}
+*: Wu: {{t|wuu|教育|tr=jiau hhioq}}
+* Chuvash: {{t|cv|вӗрентӳ}}
+* Cornish: {{t|kw|adhyskans}}
+* Corsican: {{t-needed|co}}
+* Crimean Tatar: {{t|crh|maarif}}, {{t|crh|tasil}}
+* Czech: {{t+|cs|vzdělávání|n}}
+* Danish: {{t+|da|opdragelse|c}}, {{t|da|uddannelse|c}}
+* Dhivehi: {{t-needed|dv}}
+* Dutch: {{t+|nl|onderwijs|n}}
+* Esperanto: {{t+|eo|eduko}}, {{t|eo|edukado}}
+* Estonian: {{t+|et|haridus}}
+* Faroese: {{t|fo|útbúgving|f}}
+* Finnish: {{t+|fi|kasvatus}}, {{t+|fi|koulutus}}, {{t+|fi|opetus}}
+* French: {{t+|fr|éducation|f}}, {{t+|fr|enseignement}}
+* Friulian: {{t-needed|fur}}
+* Fula:
+:* Latin {{t|ff|ekkitinol}}
+:* Adlam: {{t|ff|𞤫𞤳𞥆𞤭𞤼𞤭𞤲𞤮𞤤}}
+* Galician: {{t+|gl|educación|f}}
+* Georgian: {{t|ka|განათლება}}
+* German: {{t+|de|Ausbildung|f}}, {{t+|de|Erziehung|f}}, {{t+|de|Schulung|f}}, {{t+|de|Unterricht|m}}
+* Greek: {{t+|el|εκπαίδευση|f}}
+*: Ancient: {{t|grc|παιδεία|f}}
+* Gujarati: {{t|gu|શિક્ષણ}}, {{t|gu|કેળવણી}}
+* Hausa: {{t-needed|ha}}
+* Hawaiian: {{t|haw|hoʻonaʻauao}}
+* Hebrew: {{t+|he|חינוך|m|tr=khinúkh|alt=חִנּוּךְ \ חינוך}}
+* Hindi: {{t+|hi|शिक्षा|f}}, {{t+|hi|तालीम|f}}
+* Hungarian: {{t+|hu|nevelés}}, {{t+|hu|oktatás}}
+* Icelandic: {{t|is|menntun|f}}
+* Ido: {{t+|io|eduko}}, {{t+|io|edukado}}
+* Igbo: {{t-needed|ig}}
+* Indonesian: {{t+|id|pendidikan}}
+* Interlingua: {{t-needed|ia}}
+* Irish: {{t+|ga|oideachas|m}}, {{t|ga|léann|m}}
+* Italian: {{t+|it|istruzione|f}}, {{t+|it|educazione|f}}
+* Japanese: {{t+|ja|教育|tr=きょういく, kyōiku}}
+* Javanese: {{t-needed|jv}}
+* Kalmyk: {{t|xal|сурһуль}}
+* Kannada: {{t+|kn|ಶಿಕ್ಷಣ}}
+* Kazakh: {{t+|kk|оқу}}, {{t|kk|ағарту}}, {{t|kk|білім беру}}
+* Khmer: {{t|km|ការសិក្សា}}
+* Kikuyu: {{t|ki|gĩthomo|c7}}
+* Korean: {{t+|ko|교육(敎育)}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|پەروەردە|f}}, {{t|ckb|زانیاری}}
+*: Northern Kurdish: {{t+|kmr|perwerde|f}}
+* Kyrgyz: {{t|ky|билим берүү}}, {{t+|ky|агартуу}}
+* Lao: {{t+|lo|ການສຶກສາ}}
+{{trans-mid}}
+* Latgalian: {{t-needed|ltg}}
+* Latin: {{t+|la|cultus|m}}, {{t|la|disciplina|f}}
+* Latvian: {{t|lv|audzināšana|f}}, {{t|lv|izglītība|f}}
+* Lithuanian: {{t|lt|auklėjimas|m}}, {{t|lt|ugdymas|m}}, {{t|lt|lavinimas|m}}
+* Luxembourgish: {{t|lb|Erzéiung|f}}, {{t|lb|Educatioun|f}}, {{t|lb|Ausbildung|f}}
+* Macedonian: {{t|mk|образование|n}}, {{t|mk|воспитание|n}}
+* Malay: {{t+|ms|pendidikan}}, {{t|ms|pelajaran}}
+* Malayalam: {{t+|ml|വിദ്യാഭ്യാസം}}
+* Maltese: {{t|mt|edukazzjoni|f}}
+* Manx: {{t|gv|edjaghys|m}}
+* Maori: {{t|mi|akoranga matauranga}}, {{t|mi|mātauranga}}
+* Marathi: {{t|mr|शिक्षण}}
+* Mirandese: {{t-needed|mwl}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|боловсрол}}, {{t|mn|сурган хүмүүжил}}
+*: Mongolian: {{t|mn|ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠯ}}, {{t|mn|ᠰᠤᠷᠭᠠᠨ ᠬᠦᠮᠦᠵᠢᠯ}}
+* Navajo: {{t|nv|íhooʼaah}}
+* Nepali: {{t+|ne|शिक्षा}}
+* Norwegian:
+*: Bokmål: {{t+|nb|utdannelse}}, {{t+|nb|utdanning|m|f}}, {{t|nb|oppdragelse|m}}
+*: Nynorsk: {{t|nn|utdanning|f}}, {{t|nn|utdaning}}
+* Occitan: {{t+|oc|educacion|f}}
+* Oriya: {{t+|or|ଶିକ୍ଷା}}
+* Pashto: {{t+|ps|زده کړه|f|tr=zdákṛa}}, {{t|ps|تعليمات|m-p|tr=ta'limãt}}, {{t+|ps|تربيه|f|tr=tarbiyá}}, {{t|ps|معارف|m|tr=ma'āréf}}
+* Persian: {{t+|fa|آموزش|tr=âmuzeš}}, {{t+|fa|معرفت|tr=ma'refat}}, {{t+|fa|تعلیم|tr=ta'lim}}
+* Plautdietsch: {{t|pdt|Belia|f}}
+* Polish: {{t+|pl|edukacja|f}}, {{t+|pl|oświata|f}}, {{t+|pl|kształcenie|n}}
+* Portuguese: {{t+|pt|educação|f}}, {{t+|pt|ensino|m}}
+* Punjabi: {{t+|pa|ਸਿੱਖਿਆ}}
+* Rajasthani: {{t-needed|raj}}
+* Romanian: {{t+|ro|educație|f}}, {{t+|ro|educare|f}}
+* Romansch: {{t|rm|furmaziun|f}}
+* Russian: {{t+|ru|образова́ние|n}}, {{t+|ru|обуче́ние|n}}, {{t+|ru|воспита́ние|n}}, {{t+|ru|просвеще́ние|n}}
+* Sanskrit: {{t+|sa|शिक्ष|f}}, {{t+|sa|शिक्षा|f}}
+* Scots: {{t|sco|eddication}}
+* Scottish Gaelic: {{t|gd|foghlaim|m}}, {{t|gd|teagasg|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|образова́ње|n}}, {{t|sh|васпи́та̄ње|n}}, {{t|sh|одгајивање|n}}, {{t|sh|про̏света|f}}, {{t|sh|про̏свјета|f}}
+*: Roman: {{t+|sh|obrazovánje|n}}, {{t+|sh|vaspítānje|n}}, {{t|sh|odgajivanje|n}}, {{t|sh|prȍsveta}}, {{t+|sh|prȍsvjeta|f}}
+* Sicilian: {{t|scn|aducazzioni|f}}
+* Sindhi: {{t+|sd|تعليم}}
+* Sinhalese: {{t+|si|අධ්‍යාපනය}}
+* Slovak: {{t|sk|vzdelávanie|n}}
+* Slovene: {{t|sl|izobraževanje|n}}
+* Somali: {{t-needed|so}}
+* Spanish: {{t+|es|educación|f}}
+* Swahili: {{t+|sw|elimu}}
+* Swedish: {{t+|sv|utbildning|c}}, {{t+|sv|undervisning|c}}
+* Tagalog: {{t+|tl|katuruan}}, {{t+|tl|edukasyon}}
+* Tajik: {{t+|tg|маориф}}, {{t|tg|омузиш}}, {{t+|tg|таълим}}
+* Tamil: {{t+|ta|கல்வி}}
+* Tatar: {{t+|tt|мәгърифәт}}
+* Telugu: {{t+|te|విద్య}}
+* Thai: {{t+|th|การศึกษา}}
+* Tibetan: {{t|bo|སློབ་གསོ}}
+* Tigrinya: {{t|ti|ትምህርቲ}}
+* Turkish: {{t+|tr|eğitim}}
+* Turkmen: {{t+|tk|bilim}}, {{t|tk|magaryf}}, {{t|tk|terbiýeleýiş}}
+* Ukrainian: {{t+|uk|осві́та|f}}, {{t+|uk|вихова́ння|n}}
+* Urdu: {{t+|ur|تعلیم|tr=ta'līm}}, {{t+|ur|معرفت|f|tr=ma'rifat}}
+* Uyghur: {{t|ug|مائارىپ}}, {{t|ug|ئوقۇش}}
+* Uzbek: {{t+|uz|maorif}}, {{t+|uz|tahsil}}, {{t|uz|maʻrifat}}
+* Vietnamese: {{t+|vi|giáo dục}} ({{t|vi|教育}}), {{t+|vi|dạy dỗ}}, {{t+|vi|giáo dưỡng}} ({{t|vi|教}}{{t|vi|養}})
+* Vilamovian: {{t|wym|aojsbildung}}
+* Volapük: {{t+|vo|dugäl}}, {{t+|vo|dugälav}} {{qualifier|pedagogy}}, {{t+|vo|benodugäl}}, {{t+|vo|benodugälam}}
+* Walloon: {{t-needed|wa}}
+* Welsh: {{t+|cy|addysg|f}}
+* West Frisian: {{t|fy|ûnderwiis}}
+* Yakut: {{t|sah|үөрэҕирии}}
+* Yiddish: {{t|yi|בילדונג|f}}, {{t|yi|חינוך|m|tr=khinekh|m}} {{qualifier|Jewish education}}
+* Zhuang: {{t|za|gyauyuz}}

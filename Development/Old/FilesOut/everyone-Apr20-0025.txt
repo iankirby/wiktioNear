@@ -1,0 +1,76 @@
+=
+{{trans-top|every person}}
+* Afrikaans: {{t+|af|almal}}
+* Arabic: {{t|ar|جميع|alt=الْجَمِيع}}, {{t|ar|[[كُلّ]] [[شَخْص]]}}
+* Bashkir: {{t|ba|һәр кем}}
+* Belarusian: {{t|be|усе́|p|sc=Cyrl}} / {{t|be|ўсе́|p|sc=Cyrl}}, {{t|be|ко́жны|sc=Cyrl}}
+* Bengali: {{t|bn|সবাই}}
+* Bulgarian: {{t+|bg|вси́чки|p|sc=Cyrl}}, {{t|bg|все́ки|sc=Cyrl}}
+* Catalan: {{t+|ca|tothom}}, {{t+|ca|cada u}}, {{t+|ca|cadascú}}
+* Chinese:
+*: Cantonese: {{t|yue|大家|tr=daai6 gaa1|sc=Hani}}, {{t|yue|人人|tr=jan4 jan4|sc=Hani}}
+*: Hakka: {{t|hak|逐家|tr=tak-kâ|sc=Hani}}, {{t|hak|大家|tr=thai-kâ|sc=Hani}}
+*: Mandarin: {{t+|cmn|大家|tr=dàjiā|sc=Hani}}, {{t+|cmn|人人|tr=rénrén|sc=Hani}}
+*: Min Nan: {{t+|nan|逐家|tr=ta̍k-ke|sc=Hani}}, {{t|nan|大家|tr=tāi-ke, ta-ke, tōa-ke|sc=Hani}}
+*: Wu: {{t|wuu|大家|tr=da ka|sc=Hani}}
+* Czech: {{t+|cs|všichni|m}}, {{t+|cs|každý|m}}
+* Danish: {{t+|da|alle}}
+* Dutch: {{t+|nl|iedereen}}, {{t+|nl|elkeen}}, {{t+|nl|allen}}, {{t+|nl|allemaal}}, {{t+|nl|iegelijk}}
+* Esperanto: {{t+|eo|ĉiu}}, {{t+|eo|ĉiuj}}
+* Estonian: {{t+|et|kõik}}, {{t+|et|igaüks}}
+* Finnish: {{t+|fi|jokainen}}, {{t+|fi|kaikki}}
+* French: {{t+|fr|chacun}}, {{t+|fr|tout le monde}}, {{t+|fr|tous}}
+* Galician: {{t|gl|todos|m-p}}, {{t|gl|cada quen}}
+* Georgian: {{t|ka|ყველა|sc=Geor}}, {{t|ka|ყოველი|sc=Geor}}, {{t|ka|თითოეული|sc=Geor}}
+* German: {{t+|de|alle}}, {{t+|de|jedermann}}, {{t+|de|jeder}}
+* Greek: {{t|el|κάθε ένας}}, {{t+|el|όλοι|p}}, {{t|el|άπαντες|p}}, {{t|el|οι πάντες|p}}
+*: Ancient: {{t|grc|[[πᾶς|πάντες]]|m-p}}
+* Gujarati: {{t|gu|બધા}}
+* Hebrew: {{t|he|כולם|alt=כולם \ כֻּלָּם|tr=kulám|sc=Hebr}}
+* Hindi: {{t|hi|[[सब]] [[लोग]]}}
+* Hungarian: {{t+|hu|mindenki}}, {{t+|hu|mind}} {{q|referring to previously mentioned group}}
+* Ido: {{t+|io|omnu}}
+* Interlingua: {{t|ia|totos|p}}, {{t|ia|tote le mundo}}, {{t|ia|omnes|p}}
+* Irish: {{t|ga|[[gach]] [[duine]]|m}}
+* Italian: {{t+|it|ciascuno}}, {{t+|it|tutti|m-p}}
+* Japanese: {{t|ja|皆さん|tr=みなさん, minasan|sc=Jpan}}, {{t+|ja|みんな|tr=minna|sc=Jpan}}, {{t|ja|[[だれ]][[も]]|tr=dare mo|sc=Jpan}}
+* Kazakh: {{t|kk|әркім}}
+* Khmer: {{t|km|ទាំងអស់គ្នា|tr=teaŋ ɑh knie|sc=Khmr}}, {{t|km|គ្រប់គ្នា|tr=krup knie|sc=Khmr}}
+* Korean: {{t+|ko|모두}}, {{t|ko|[[누구]][[나]]}}, {{t+|ko|여러분}}, {{t|ko|다들}}, {{t+|ko|각자(各自)}}
+{{trans-mid}}
+* Kurdish:
+*: Central Kurdish: {{t|ckb|ھەریەکە}}, {{t|ckb|ھەموکەس}}
+* Ladino: {{t|lad|טודוס|tr=tudos|m-p}}, {{t|lad|טודו אל מונדו|tr=tudo el mundo|m}}
+* Latin: {{t+|la|omnes}}
+* Macedonian: {{t|mk|си́те|p}}, {{t|mk|се́кој}}
+* Maltese: {{t|mt|kulħadd}}
+* Maori: {{t|mi|ngā tāngata katoa}}, {{t|mi|te katoa}}, {{t|mi|ia tangata}}
+* Navajo: {{t|nv|tʼáá ájíłtso}}
+* Ngazidja Comorian: {{t|zdj|heni mndru}}
+* Ojibwe: {{t|oj|gakina}}, {{t|oj|gakina awiiya}}
+* Old English: {{t|ang|ǣlċ}}, {{t|ang|ǣlċ mann}}, {{t|ang|ġehwā}}
+* Persian: {{t|fa|[[هر]] [[کس]]|tr=har kas|sc=fa-Arab}}
+* Picard: {{t|pcd|tertous}}
+* Polish: {{t+|pl|każdy}}; {{t+|pl|wszyscy|p}}, {{t+|pl|wszelaki}} {{qualifier|literally}}
+* Portuguese: {{t+|pt|todos|m-p}}, {{t+|pt|todo mundo|m}}, {{t|pt|toda a gente}}
+* Quechua: {{t|qu|llapan}}
+* Romanian: {{t+|ro|oricine}}, {{t|ro|toți}}, {{t+|ro|fiecare}} ([[om]])
+* Russian: {{t+|ru|все|p}}, {{t+|ru|ка́ждый}}, {{t+|ru|вся́кий}}
+* Scots: {{t|sco|awbody}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|сви|p}}
+*: Roman: {{t+|sh|svi|p}}
+* Slovak: {{t|sk|všetci}}, {{t|sk|každý}}
+* Slovene: {{t|sl|vsi}}, {{t+|sl|vsak}}
+* Spanish: {{t+|es|todos}}, {{t+|es|todo el mundo}}, {{t|es|todo quisqui}}
+* Swedish: {{t+|sv|alla}}, {{t+|sv|allihop}}, {{t+|sv|allesammans}}
+* Tamil: {{t+|ta|எல்லோரும்}}, {{t|ta|அனைவருக்கும்}}
+* Telugu: {{t|te|అందరూ}}
+* Thai: {{t|th|ทุกคน}}, {{t|th|ทุกท่าน}}
+* Turkish: {{t+|tr|herkes}}
+* Ukrainian: {{t|uk|усі́|p|sc=Cyrl}} / {{t+|uk|всі́|p|sc=Cyrl}}, {{t+|uk|ко́жний|sc=Cyrl}}, {{t|uk|вся́кий}}
+* Urdu: {{t|ur|[[سب لوگ]]|tr=sab log|sc=ur-Arab}}
+* Vietnamese: {{t|vi|mọi người}} ({{t|vi|每𠊛|sc=Hani}})
+* Walloon: {{t+|wa|tertos}}
+* Welsh: {{t+|cy|pob}}
+* Zhuang: {{t|za|bouxboux}}

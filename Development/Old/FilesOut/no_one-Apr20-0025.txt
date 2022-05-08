@@ -1,0 +1,96 @@
+=
+{{trans-top|not even a single person}}
+* Afrikaans: {{t+|af|niemand}}
+* Albanian: {{t+|sq|askush}}, {{t+|sq|kurrkush}}
+* Arabic: {{t|ar|[[أَحَد]] [[لَا]]}}
+*: Egyptian Arabic: {{t|arz|ماحدش|tr=maḥaddiš}}
+*: Moroccan Arabic: {{t|ary|حتى حد|tr=ḥetta ḥadd}}, {{t|ary|حتى واحد|tr=ḥetta wāḥed}}
+* Armenian: {{t|hy|ոչ ոք}}, {{t|hy|ոչ մեկը}}
+* Asturian: {{t|ast|naide}}, {{t|ast|ñaide}}
+* Azerbaijani: {{t+|az|heç kim}}, {{t|az|heç kəs}}
+* Basque: {{t|eu|inor}}
+* Belarusian: {{t|be|ніхто́}}
+* Belizean Creole: {{t|bzj|nobadi}}
+* Bengali: {{t|bn|কেউ না}}
+* Bulgarian: {{t|bg|ни́кой}}
+* Burmese: {{t|my|ဘယ်သူမှ}}
+* Catalan: {{t+|ca|ningú}}
+* Chamicuro: {{t|ccc|meyana'shanaye}}
+* Chinese:
+*: Cantonese: {{t|yue|[[冇]][[人]]|tr=mou5 jan4}}
+*: Mandarin: {{t|cmn|[[沒有]][[人]]}}, {{t|cmn|[[没有]][[人]]|tr=méiyǒu rén}}, {{t|cmn|[[沒]][[人]]}}, {{t|cmn|[[没]][[人]]|tr=méirén}}
+* Classical Nahuatl: {{t|nci|ayāc}}
+* Czech: {{t+|cs|nikdo}}
+* Dalmatian: {{t|dlm|nenčoin}}
+* Danish: {{t+|da|ingen}}
+* Dutch: {{t+|nl|niemand}}
+* Esperanto: {{t+|eo|neniu}}
+* Estonian: {{t|et|ei keegi}}, {{t+|et|mitte keegi}}
+* Faroese: {{t|fo|eingin}}
+* Finnish: {{t|fi|ei kukaan}}
+* French: {{t+|fr|personne}}, {{t+|fr|nul}}, {{t+|fr|qui que ce soit}}
+* Friulian: {{t|fur|nissun}}
+* Galician: {{t|gl|ninguén}}
+* Georgian: {{t|ka|არავინ}}
+* German: {{t+|de|niemand}}, {{t+|de|keiner|m}}
+* Greek: {{t+|el|κανένας}}
+*: Ancient: {{t|grc|οὐδείς}}, {{t|grc|μηδείς}}, {{t|grc|οὖτις}}, {{t|grc|μήτις}}
+* Hindi: {{t|hi|कोई नहीं}}
+* Hungarian: {{t+|hu|senki}}
+* Icelandic: {{t+|is|enginn}}, {{t+|is|neinn}}
+* Ido: {{t+|io|nulu}}
+* Interlingua: {{t|ia|necuno}}, {{t|ia|nemo}}
+* Irish: {{t|ga|aon duine}} {{qualifier|with negated verb}}
+* Istriot: {{t|ist|ningun}}
+* Italian: {{t+|it|nessuno}}
+* Japanese: {{t|ja|[[誰も]]...[[ない]]|tr=だれも...ない, dare-mo...nai}}
+{{trans-mid}}
+* Kapampangan: {{t|pam|alang ninu man}}, {{t|pam|alang ninuman}}
+* Kazakh: {{t|kk|ешкім}}
+* Khmer: {{t|km|គ្មាន​នរណា​ម្នាក់|tr=kmien nɔɔnaa mneak}}
+* Korean: {{t|ko|[[아무]][[-도]]...[[아니다]]}}
+* Kurdish:
+*: Central Kurdish: {{t+|ckb|کەس}}
+* Lao: {{t|lo|ບໍ່​ມີ​ໃຜ}}
+* Latin: {{t+|la|nēmō}}
+* Latvian: {{t|lv|neviens}}
+* Macedonian: {{t|mk|никој}}
+* Maltese: {{t|mt|ħadd}}
+* Maori: {{t|mi|pākorehā}}
+* Middle English: {{t|enm|noman}}
+* Mirandese: {{t|mwl|naide}}
+* Navajo: {{t|nv|doo nagháí da}}
+* Neapolitan: {{t|nap|nisciuno}}
+* Norwegian:
+*: Bokmål: {{t+|no|ingen}}
+*: Nynorsk: {{t|nn|ingen}}
+* Old English: {{t|ang|nān mann|m}}
+* Old French: {{t|fro|nul}}
+* Persian: {{t|fa|هیچ‌کس|tr=hič-kas|sc=fa-Arab}}
+* Plautdietsch: {{t|pdt|kjeena}}
+* Polish: {{t+|pl|nikt}}
+* Portuguese: {{t+|pt|ninguém}}
+* Romanian: {{t+|ro|nimeni}}, {{t|ro|niciun|m|n}}
+* Russian: {{t+|ru|никто́}}
+* Scots: {{t|sco|naebody}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|нико}}, {{t|sh|нитко}}
+*: Roman: {{t|sh|niko}}, {{t|sh|nitko}}
+* Sicilian: {{t+|scn|nuddu}}
+* Slovak: {{t|sk|nikto}}
+* Slovene: {{t+|sl|nihčè}}
+* Spanish: {{t+|es|nadie}}
+* Swedish: {{t+|sv|ingen}}
+* Tagalog: {{t|tl|walang sino man}}, {{t|tl|walang sinuman}}
+* Talysh:
+*: Asalemi: {{t|tly|هیش کسی|tr=hiš kasi|sc=fa-Arab}}
+* Thai: {{t|th|ไม่มีใคร|tr=mâi mee krai}}
+* Turkish: {{t+|tr|kimse}}, {{t+|tr|hiç kimse}}
+* Ukrainian: {{t|uk|ніхто́}}
+* Urdu: {{t|ur|کوئی نہیں|tr=koī nahī̃|sc=ur-Arab}}
+* Vietnamese: {{t|vi|không ai}} ({{t|vi|空埃}})
+* Volapük: {{t+|vo|nek}}
+* Walloon: {{t+|wa|nouk|m}}, {{t+|wa|nolu|c}}
+* Welsh: {{t|cy|neb}}
+* West Frisian: {{t|fy|nimmen}}
+* Yiddish: {{t|yi|קיינער}}
