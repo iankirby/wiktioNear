@@ -22,7 +22,7 @@ open (my $fh,'<: encoding(UTF-8)', $filename) or die "I cannot open $filename $!
 my $plain="";
 
 while (<$fh>){
-    $plain=$plain.$_;
+    $plain=$plain.$_."\"";
 }
 
 
@@ -55,8 +55,7 @@ $plain=~s/^(.*)$/\"/g;
 # $plain=~s/\*[^\:]/ ,  /g;
 # $plain=~s/\*\:/ , , /g;
 print $plain;
-my $x=<$plain>;
-print $x;
+
 
 # $plain=~s/\{\{t[^\|]*\|[^\|]*\|//g;
 
