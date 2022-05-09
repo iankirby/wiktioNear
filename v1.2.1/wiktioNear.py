@@ -339,5 +339,3 @@ t0=time.time()
 start(logo,version)
 t1=time.time()
 print("Time elapsed: "+str(t1-t0))
-
-There once was a a man from nantucket
