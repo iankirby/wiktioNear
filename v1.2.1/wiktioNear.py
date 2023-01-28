@@ -8,7 +8,7 @@
 #  ww ww ww  iii kk kk  tt    iii oo  oo NN  NNN eeeee  aa  aaa rr         #
 #   ww  ww   iii kk  kk  tttt iii  oooo  NN   NN  eeeee  aaa aa rr         #
 #                                                                          #
-# _v1.2.1 May 2022                                                         # 
+# _v1.2.1 May 2022                                                         #s
 # A program written by Ian Kirby (ianlkirby@vivaldi.net) for scraping      #
 # translation data from wiktionary.org and generating lists to compare     #
 #       Modifications: rather than writing a bunch of new files, this      #
